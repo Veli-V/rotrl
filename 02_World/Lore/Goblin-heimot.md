@@ -2,9 +2,9 @@
 
 [[Sandpoint]]in ympäristössä vaikuttaa viisi suurta goblin-heimoa:
 
-1.  **[[Birdcruncher]]**: Asuvat luolissa etelässä. Tunnettuja lintujen metsästyksestä ja syömisestä.
+1.  **[[Birdcruncher]]**: Asuvat Devil's Platterin läntisissä luolistoissa lännessä. Tunnettuja lintujen metsästyksestä ja syömisestä.
 2.  **[[Licktoad]]**: Asuvat Brinestump-suolla. Erinomaisia uimareita.
-3.  **[[Seven Tooth]]**: Asuvat Shank's Woodissa. Raidkaavat usein kaupungin kaatopaikkoja. Johtajana [[Koruvus]].
+3.  **[[Seven Tooth]]**: Asuvat Shank's Woodissa. Raidkaavat usein kaupungin kaatopaikkoja. Johtajana [[Koruvus]], jolla on taikamiekka.
 4.  **[[Mosswood]]**: Suurin ja voimakkain heimo. Asuvat syvällä metsässä.
 5.  **[[Thistletop]]**: Asuvat pienellä saarella pohjoisrannikolla. Heimoa johtaa kuningas [[Ripnugget]].
 

@@ -8,7 +8,7 @@ Päivä alkaa [[Sandpoint]]in kaupungissa Pääskynpyrstö-festivaalin (Swallowt
 ## Tapahtumat
 
 ### Juhlavalmistelut
-Seurue herää [[The Rusty Dragon]] -majatalossa ja suuntaa torille. [[Signar]] ilmoittautuu festivaalin kilpailuihin. Kaupunki on täynnä elämää: lapset leikkivät, ja kauppiaat, kuten [[Ven Vinder]], myyvät tuotteitaan (mm. *Two Knights Brewery* -oluita). [[Ameiko Kaijitsu]] kantaa lohta myyntiin, ja keittiöissä valmistuu monenlaisia herkkuja.
+Seurue herää [[The Rusty Dragon]] -majatalossa ja suuntaa torille. [[Einar]] ilmoittautuu festivaalin vartijaksi. Kaupunki on täynnä elämää: lapset leikkivät, ja kauppiaat, kuten [[Ven Vinder]], myyvät tuotteitaan (mm. *Two Knights Brewery* -oluita). [[Ameiko Kaijitsu]] kantaa lohta myyntiin, ja keittiöissä valmistuu monenlaisia herkkuja.
 
 ### Juhlapuheet
 Festivaali alkaa virallisilla puheilla katedraalin aukiolla:
@@ -21,9 +21,9 @@ Puolenpäivän aikaan Isä [[Isä Zantus|Abstalar Zantus]] vapauttaa suuren mä�
 
 ### Goblinihyökkäys
 Heti kun [[Isä Zantus]] lyö ukkoskiveään, katedraalin ympäriltä ja katoilta hyökkää lauma [[Goblin-heimot|goblineja]].
-*   **Taistelu torilla:** [[Luku]], [[Valo]], [[Einar]] ja [[Silander]] ryhtyvät vastarintaan. Luku pelästyttää yhden goblinin huutamalla, kun taas Valo ja Einar kukistavat kaksi muuta.
+*   **Taistelu torilla:** [[Inko]], [[Valo]], [[Einar]] ja [[George]] ryhtyvät vastarintaan. Luku pelästyttää yhden goblinin huutamalla, kun taas Valo ja Einar kukistavat kaksi muuta.
 *   **Siviilien suojelu:** Silander ohjaa kauhistuneita siviilejä suojaan temppeliin.
-*   **Pohjoisportin tulipalo:** Seurue kuulee taistelun ääniä eri puolilta kaupunkia ja suuntaa pohjoisportille. Siellä viisi goblin-sytyttäjää yrittää sytyttää rakennuksia tuleen. Taistelu on vaikea, mutta lopulta goblinit voitetaan, ja [[Ruutana]] sammuttaa palot loitsulla (*Create Water*).
+*   **Pohjoisportin tulipalo:** Seurue kuulee taistelun ääniä eri puolilta kaupunkia ja suuntaa pohjoisportille. Siellä viisi goblin-sytyttäjää yrittää sytyttää rakennuksia tuleen. Taistelu on vaikea, mutta lopulta goblinit voitetaan, ja [[George]] sammuttaa palot loitsulla (*Create Water*).
 
 ## Saaliit (Loot)
 *   20 kultarahaa (GP)

@@ -1,5 +1,5 @@
 # Savah's Armory
-**Sijainti:** Sandpoint
+**Sijainti:** [[Sandpoint]]
 **Omistaja:** [[Savah Bevaniky]]
 **Tyyppi:** Ase- ja haarniskakauppa
 

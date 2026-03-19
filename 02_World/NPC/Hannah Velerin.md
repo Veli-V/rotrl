@@ -2,6 +2,7 @@
 **Tyyppi:** NPC
 **Sijainti:** Sandpoint
 **Ammatti:** Yrttiparantaja ja kätilö
+**Rotu:** [[Haltia]]
 
 ## Kuvaus
 Tunnettu yrttiparantaja Sandpointissa.

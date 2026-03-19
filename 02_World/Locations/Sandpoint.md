@@ -1,6 +1,7 @@
 # Sandpoint
 
 **Tyyppi:** Rannikkokaupunki [[Varisia]]ssa.
+**Asukasluku:** 1260
 **Kuvaus:** Rauhallinen mutta kasvava kaupunki, joka tunnetaan lasitehtaastaan ja hiljattain valmistuneesta uudesta temppelistä.
 **Hallinto:** 
 *   Pormestari [[Kendra Deverin]]

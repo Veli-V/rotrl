@@ -7,7 +7,7 @@
 Omistaa asekaupan nimeltä Savah's Armory. Tunnettu hyvälaatuisista aseistaan.
 
 ## Suhteet
-*   **Ginar:** Myi Ginarille laadukkaita aseita ja panssareita.
+*   **Einar:** Myi Einarille laadukkaita aseita ja panssareita.
 
 ## Maininnat
 *   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] - Myi ryhmälle villisikakeihäitä.

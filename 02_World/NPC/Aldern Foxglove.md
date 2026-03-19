@@ -7,7 +7,7 @@
 Nuori ja komea aatelismies Magnimarista. Hän on Sandpointissa metsästämässä villisikoja Tickwoodin metsässä.
 
 ## Suhteet
-*   **Ginar:** Aldern on erittäin kiinnostunut Ginarista ja kiitollinen tälle hengenpelastuksesta (Goblinihyökkäyksen aikana).
+*   **Einar:** Aldern on erittäin kiinnostunut Einarista ja kiitollinen tälle hengenpelastuksesta (Goblinihyökkäyksen aikana).
 *   **Sankarit:** Kutsuu ryhmän mukaansa metsästämään ja tarjoaa kierroksen [[The Rusty Dragon]]issa.
 
 ## Maininnat

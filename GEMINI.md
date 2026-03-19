@@ -18,6 +18,7 @@ Toimi tämän ohjeen mukaan, kun käyttäjä pyytää käsittelemään uuden pel
 - Jos hahmolle/paikalle ei ole vielä tiedostoa `02_World/` -kansiossa, luo se.
 - Päivitä kaikkiin mainittuihin maailman tiedostoihin (NPC, Locations, Lore) **Maininnat**-osio (backlinkit) kyseiseen sessioon.
 - Päivitä tarvittavat `Index.md` -tiedostot `02_World/` alikansioissa.
+- Päivitä `Aikajana.md` `Timeline/` alikansiossa perustuen sessiossa mainittuun ajan etenemiseen.
 
 ## 4. Konventiot
 - **Kieli:** Suomi.

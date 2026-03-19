@@ -3,8 +3,8 @@
 Sessio alkaa lounaalla ja valmistautumisella festivaaleihin. Maailmanpolitiikasta todetaan, että lähes kaikki tärkeä tapahtuu [[Inner Sea]] -alueen ympärillä.
 
 ## Valmistelut
-*   Käynti [[Sandpoint Savories]] -leipomossa. Omistaja [[Alma Avertin]] ja tytär [[Arika]] (?) pyörittävät paikkaa.
-*   Matkalla [[Kukkakedot|Kukkakedoille]] ryhmä kohtaa [[Vinder]]in perheen naisia: [[Shayliss Vinder]] (punatukkainen, "10/10") ja hänen sisarensa [[Shelby Vinder]] (Katrine?). Isä [[Ven Vinder]] omistaa sekatavarakaupan ja kehuskelee viinikellarillaan.
+*   Käynti [[Sandpoint Savories]] -leipomossa. Omistaja [[Alma Avertin]] ja tyttäret [[Arika]] sekä [[Aneka]] pyörittävät paikkaa.
+*   Matkalla [[Kukkakedot|Kukkakedoille]] ryhmä kohtaa [[Vinder]]in perheen naisia: [[Shayliss Vinder]] (punatukkainen, "10/10") ja hänen sisarensa [[Shelby Vinder]] (Katrine?). Isä [[Ven Vinder]] omistaa sekatavarakaupan [[Sandpoint General Store]] ja kehuskelee viinikellarillaan.
 *   Käynti [[Two Knights Brewery]] -panimolla.
 
 ## Swallowtail Festival (Neitoperhosten juhla)

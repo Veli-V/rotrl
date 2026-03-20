@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "fi-FI",
-    baseUrl: "riseoftherunelords.github.io", // Tämä kannattaa päivittää vastaamaan oikeaa URL:ää
+    baseUrl: "runelords.taubert.fi",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

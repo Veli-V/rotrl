@@ -17,21 +17,21 @@ Toimi tämän ohjeen mukaan, kun käyttäjä pyytää käsittelemään uuden pel
     - **Huom:** Appendix-numerointi on itsenäinen eikä liity sessioiden numeroihin. Käsittele ne erillisinä päivityksinä.
 
 ## 2. Jalostus (Sessions-vaihe)
-- Kirjoita muistiinpanot puhtaaksi tiedostoon `01_Sessions/Sessio X - [Otsikko].md`.
+- Kirjoita muistiinpanot puhtaaksi tiedostoon `content/01_Sessions/Sessio X - [Otsikko].md`.
 - Käytä selkeää suomen kieltä ja korjaa tunnistusvirheet (vrt. Pathfinder-lore).
 - Lisää `[[Wikilinkit]]` kaikille hahmoille, paikoille ja tärkeille termeille.
     - **Käytäntö:** Linkitä pääsääntöisesti vain termin ensimmäinen maininta sivulla tai kun se on kontekstin selkeyden kannalta oleellista, välttääksesi turhaa linkkien paljoutta.
-- Päivitä `01_Sessions/Index.md` lisäämällä uusi sessio listaan.
+- Päivitä `content/01_Sessions/Index.md` lisäämällä uusi sessio listaan.
 
 ## 3. Maailman päivittäminen (World-vaihe)
 - Tunnista tekstistä uudet NPC:t, paikat ja lore-tiedot.
-- Jos hahmolle/paikalle ei ole vielä tiedostoa `02_World/` -kansiossa, luo se.
+- Jos hahmolle/paikalle ei ole vielä tiedostoa `content/02_World/` -kansiossa, luo se.
 - Päivitä kaikkiin mainittuihin maailman tiedostoihin (NPC, Locations, Lore) **Maininnat**-osio (backlinkit) kyseiseen sessioon.
-- Päivitä tarvittavat `Index.md` -tiedostot `02_World/` alikansioissa.
-- Päivitä `Aikajana.md` `Timeline/` alikansiossa perustuen sessiossa mainittuun ajan etenemiseen.
+- Päivitä tarvittavat `Index.md` -tiedostot `content/02_World/` alikansioissa.
+- Päivitä `Aikajana.md` `content/02_World/Timeline/` alikansiossa perustuen sessiossa mainittuun ajan etenemiseen.
 
 ## 4. Konventiot
 - **Kieli:** Suomi.
 - **Linkitys:** Käytä aina muotoa `[[TiedostonNimi]]`.
 - **Nimeäminen:** Käytä virallisia Pathfinder (Rise of the Runelords) nimenkirjoitusasuja.
-- **Rakenne:** Säilytä kansiorakenne `00_Raw`, `01_Sessions`, `02_World`.
+- **Rakenne:** Säilytä kansiorakenne `00_Raw`, `content/01_Sessions`, `content/02_World`.

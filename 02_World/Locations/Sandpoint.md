@@ -12,3 +12,4 @@
 * [[Sessio 00 - Kampanjan Aloitus]]
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
+* [[Appendix 0]]

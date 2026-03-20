@@ -13,9 +13,11 @@
 * Sai hengenpelastuksesta 60 kultarahaa [[Aldern Foxglove]]lta, joka on erityisen kiinnostunut hänesta ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 * Käytti menestyksekkäästi pelottelutaktiikkaa gobliinin kuulustelussa [[Belor Hemlock]]in kanssa ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 * Osti laadukkaita aseita ja panssareita [[Savah Bevaniky]]ltä ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
+* Värvätty vartijaksi [[Sandpoint Garrison]]iin.
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+* [[Appendix 0]]

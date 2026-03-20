@@ -11,3 +11,4 @@
 ## Maininnat
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] (Kuulustelussa selvisi Thistletop-heimon kotipaikka ja "Pitkäjalka"-johtaja)
+* [[Appendix 0]] (Birdcruncher ja Seven Tooth -heimojen kotipaikat)

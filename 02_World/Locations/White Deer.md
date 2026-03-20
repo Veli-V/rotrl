@@ -14,3 +14,4 @@ Siisti majatalo, joka sijaitsee kaupungin pohjoisosassa. Majatalon edessä on ka
 * **[[Chask Haladan]]**: Kanta-asiakas
 
 ## Maininnat
+* [[Appendix 0]]

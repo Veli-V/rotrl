@@ -10,5 +10,7 @@
 ## Henkilöstö
 * **[[Belor Hemlock]]**: Sheriffi, johtaja
 * **[[Vachedi]]**: Shoanti-sotilas, sheriffin vasemman käden apulainen
+* **[[Einar]]**: Vartija (vastikään värvätty)
 
 ## Maininnat
+* [[Appendix 0]]

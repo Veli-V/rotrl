@@ -12,3 +12,4 @@ Tunnettu yrttiparantaja Sandpointissa.
 
 ## Maininnat
 *   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] - Mainittiin mahdollisena tietolähteenä, kun goblinit mainitsivat "haltia-juonittelijan".
+*   [[Appendix 0]]

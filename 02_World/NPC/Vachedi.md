@@ -10,3 +10,4 @@ Shoanti-sotilas, joka toimii [[Belor Hemlock]]in vasemman käden apulaisena [[Sa
 
 ## Maininnat
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+* [[Appendix 0]]

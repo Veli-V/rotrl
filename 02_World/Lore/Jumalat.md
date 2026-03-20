@@ -39,3 +39,4 @@ Golarionin jumalaistoa. Seuraavat jumalat ovat merkityksellisiä Sandpoint-seudu
 ## Maininnat
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
+* [[Appendix 0]] (Jumalten yksityiskohtaiset kuvaukset)

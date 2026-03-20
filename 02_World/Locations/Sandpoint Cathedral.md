@@ -17,3 +17,4 @@ Uutta rakennettava katedraalissa palvotaan useita jumalia. Pääasiassa [[Desna]
 ## Maininnat
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
+* [[Appendix 0]]

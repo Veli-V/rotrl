@@ -8,3 +8,4 @@
 Hoitaa [[Sandpoint Boneyard]]iä, joka sijaitsee [[Sandpoint Cathedral]]in yhteydessä.
 
 ## Maininnat
+* [[Appendix 0]]

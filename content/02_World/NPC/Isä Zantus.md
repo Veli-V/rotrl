@@ -1,5 +1,7 @@
 # Isä Zantus (Abstalar Zantus)
 
+![Isä Zantus](../03_Images/Abstalar_Zantus.png)
+
 **Rooli:** [[Sandpoint]]in katedraalin ylipappi.
 **Kuvaus:** [[Desna]]n pappi, joka johtaa kaupungin hengellistä elämää.
 **Tapahtumat:** Johti Swallowtail Festivalin vihkiäisrituaaleja ja vapautti perhoset.

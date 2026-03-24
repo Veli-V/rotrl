@@ -1,4 +1,7 @@
 # Savah Bevaniky
+
+![Savah Bevaniky](../03_Images/Savah_Bevaniky.png)
+
 **Tyyppi:** NPC
 **Sijainti:** Sandpoint, [[Savah's Armory]]
 **Ammatti:** Asekauppias

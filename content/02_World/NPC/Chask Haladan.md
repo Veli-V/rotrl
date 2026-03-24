@@ -1,5 +1,7 @@
 # Chask Haladan
 
+![Chask Haladan](../03_Images/Chask_Haladan.png)
+
 **Tyyppi:** NPC
 **Sijainti:** [[Sandpoint]]
 **Ammatti:** Kauppias/Omistaja

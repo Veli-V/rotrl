@@ -1,5 +1,7 @@
 # Arika Avertin
 
+![Arika Avertin](../03_Images/Aneka_Avertin.png)
+
 **Tyyppi:** NPC
 **Sijainti:** [[Sandpoint]]
 **Ammatti:** Myyjä [[Sandpoint Savories]] -leipomossa.

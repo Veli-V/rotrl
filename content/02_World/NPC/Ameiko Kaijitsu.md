@@ -1,5 +1,7 @@
 # Ameiko Kaijitsu
 
+![Ameiko Kaijitsu](../03_Images/Ameiko_Kaijitsu.png)
+
 **Rooli:** [[The Rusty Dragon]] -majatalon omistaja.
 **Kuvaus:** Entinen seikkailija, nykyinen menestynyt yrittäjä. Tunnettu vieraanvaraisuudestaan ja kyvystään käsitellä hankaliakin asiakkaita. Lupasi seurueelle varusteita kiitokseksi goblinihyökkäyksen torjumisesta.
 **Suku:** [[Kaijitsu]]-suku on yksi [[Sandpoint]]in neljästä perustajasuvusta, mutta Ameikon välit isäänsä [[Lonjiku Kaijitsu]]un ovat erittäin tulehtuneet. Lonjiku ei pidä seikkailijoita sankareina vaan häiriköinä. Ameikon velipuoli on [[Tsuto Kaijitsu]].

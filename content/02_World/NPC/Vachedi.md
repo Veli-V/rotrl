@@ -1,5 +1,7 @@
 # Vachedi
 
+![Vachedi](../03_Images/Vachedi.png)
+
 **Tyyppi:** NPC
 **Rotu:** [[Shoanti]]
 **Ammatti:** Sotilas

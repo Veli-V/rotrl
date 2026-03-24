@@ -1,4 +1,7 @@
 # Hannah Velerin
+
+![Hannah Velerin](../03_Images/Hannah_Velerin.png)
+
 **Tyyppi:** NPC
 **Sijainti:** Sandpoint
 **Ammatti:** Yrttiparantaja ja kätilö

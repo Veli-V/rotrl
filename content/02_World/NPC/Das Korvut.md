@@ -1,5 +1,7 @@
 # Das Korvut
 
+![Das Korvut](../03_Images/Das_Korvut.png)
+
 **Rooli:** [[Sandpoint]]in seppä, [[Red Dog Smith]]yn omistaja.
 **Kuvaus:** Hyvin vihainen ja äärimmäisen vaikea luonne. Rakastaa koiriaan (kaksi isoa mastiffia) enemmän kuin ihmisiä. Inhoaa lapsia.
 **Juorut:** Lapset laulavat pilkkalaulua hänestä selän takana.

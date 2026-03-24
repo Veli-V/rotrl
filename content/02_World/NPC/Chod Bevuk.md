@@ -1,5 +1,7 @@
 # Chod Bevuk
 
+![Chod Bevuk](../03_Images/Chod_Bevuk.png)
+
 **Tyyppi:** NPC
 **Sijainti:** [[Sandpoint]]
 **Ammatti:** Lihakauppias

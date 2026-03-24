@@ -1,5 +1,7 @@
 # Lonjiku Kaijitsu
 
+![Lonjiku Kaijitsu](../03_Images/Lonjiku_Kaijitsu.png)
+
 **Suku:** [[Ameiko Kaijitsu]]n isä ja [[Tsuto Kaijitsu]]n isäpuoli. Yksi Sandpointin neljästä perustajasuvusta.
 **Asema:** Sandpointin ylimys, [[Sandpoint Glassworks]]in omistaja.
 **Kuvaus:** Kaupungin pahanhajuisin ja kenties epämiellyttävin mies. On ollut viime aikoina erittäin väsynyt ja vihainen. Hänen vaimonsa kuoli vuosia sitten pudottuaan kalliolta.

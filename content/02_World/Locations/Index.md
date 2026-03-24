@@ -15,7 +15,7 @@
 * [[The Rusty Dragon]] - *Päämajamme Sandpointissa*
 * [[Thistletop]] - *Goblini-saari*
 * [[Two Knights Brewery]] - *Paikallinen panimo*
-* [[White Deer]] - *Majatalo*
+* [[The White Deer]] - *Majatalo*
 
 ---
 [Takaisin maailman tietoihin]([[02_World/Index]])

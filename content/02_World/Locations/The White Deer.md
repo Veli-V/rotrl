@@ -1,4 +1,4 @@
-# White Deer
+# The White Deer
 
 **Tyyppi:** Majatalo.
 **Sijainti:** [[Sandpoint]] (pohjoisosassa)

@@ -10,6 +10,9 @@
 * Suunnittelee matkaa [[Magnimar]]iin.
 * Sulkenut lasitehtaansa ja irtisanonut työntekijöitään.
 
+* Löydetty kuolleena [[Sandpoint Glassworks|lasitehtaalta]], peitettynä sulalla lasilla. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
+
 ## Maininnat
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+* [[Sessio 05 - Kirjeitä ja lasinsiruja]]

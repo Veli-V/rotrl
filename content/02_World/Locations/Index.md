@@ -2,6 +2,7 @@
 
 * [[Chopper's Isle]] - *Kirottu saari*
 * [[Curious Goblin]] - *Kirjakauppa*
+* [[Devils Platter]] - *Kalliotasanko*
 * [[Fatman's Feedbag]] - *Hämäräperäinen taverna*
 * [[Magnimar]] - *Suurkaupunki etelässä*
 * [[Meat Market]] - *Lihakauppa*
@@ -14,6 +15,7 @@
 * [[Savah's Armory]] - *Asekauppa*
 * [[The Rusty Dragon]] - *Päämajamme Sandpointissa*
 * [[Thistletop]] - *Goblini-saari*
+* [[Tickwood]] - *Metsästysalue*
 * [[Two Knights Brewery]] - *Paikallinen panimo*
 * [[The White Deer]] - *Majatalo*
 

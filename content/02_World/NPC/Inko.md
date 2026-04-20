@@ -12,10 +12,12 @@
 * Epäili [[Sandpoint Cathedral]]ia syylliseksi goblinien hyökkäykseen, mutta konkreettista todistetta ei löytynyt ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 * Yritti esiintyä "goblin-asianajajana" kuulustelussa, mutta lähestymistapa ei ollut tehokas ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 * Kävi [[Fatman's Feedbag]] -tavernassa [[Valo]]n kanssa, jossa hän jäi kiinni korttipelin huijauksesta, sai tappelun jälkeen turpaan ja heitettiin pois ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
+* Osallistui villisikajahtiin Tickwoodissa ja lasitehtaan tutkimuksiin. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+* [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Appendix 0]]

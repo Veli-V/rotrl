@@ -13,5 +13,8 @@ Nuori ja komea aatelismies Magnimarista. Hän on Sandpointissa metsästämässä
 *   **Einar:** Aldern on erittäin kiinnostunut Einarista ja kiitollinen tälle hengenpelastuksesta (Goblinihyökkäyksen aikana).
 *   **Sankarit:** Kutsuu ryhmän mukaansa metsästämään ja tarjoaa kierroksen [[The Rusty Dragon]]issa.
 
+* Tarjosi seikkailijoille villisikajahdin Tickwoodin metsässä ja antoi [[Einar]]ille parannusjuoman. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
+
 ## Maininnat
-*   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] - Tapaa sankarit, tarjoaa palkkion ja kutsuu metsästämään.
+* [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+* [[Sessio 05 - Kirjeitä ja lasinsiruja]] - Tapaa sankarit, tarjoaa palkkion ja kutsuu metsästämään.

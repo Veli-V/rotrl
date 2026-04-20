@@ -8,5 +8,8 @@
 * [[Valo]] kuuli huhuja [[Fatman's Feedbag]] -tavernassa, että Tsuto olisi seurusta Lonjikun vaimon syrjähypystä haltian kanssa ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 * Epäillään mahdollisesti olevan gobliinien kanssa yhteistyötä tekevä "haltia-hahmo", josta vankeina olevat goblinit kertoivat ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 
+* Jätti siskolleen [[Ameiko Kaijitsu]]lle kirjeen, jossa kutsui hänet salaa lasitehtaalle ja vihjasi isänsä syyllisyydestä. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
+
 ## Maininnat
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+* [[Sessio 05 - Kirjeitä ja lasinsiruja]]

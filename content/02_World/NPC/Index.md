@@ -13,6 +13,7 @@
 * [[Aneka Avertin]] (Sandpoint Savories)
 * [[Arika Avertin]] (Sandpoint Savories)
 * [[Belor Hemlock]] (Sheriffi)
+* [[Bethana Corwin]] (The Rusty Dragon)
 * [[Chask Haladan]] (Curious Goblinin omistaja)
 * [[Chod Bevuk]] (Lihakauppias)
 * [[Das Korvut]] (Seppä)
@@ -23,6 +24,7 @@
 * [[Kendra Deverin]] (Pormestari)
 * [[Lonjiku Kaijitsu]] (Ylimys)
 * [[Naffer Vosk]] (Hautausmaanhoitaja)
+* [[Rynshinn Povalli]] (Vernash Fine Clothing)
 * [[Savah Bevaniky]] (Savah's Armory)
 * [[Shayliss Vinder]]
 * [[Shelby Vinder]]

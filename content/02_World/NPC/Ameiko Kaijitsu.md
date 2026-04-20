@@ -10,7 +10,10 @@
 * Ajoi isänsä [[Lonjiku Kaijitsu]]n ulos majatalostaan kiivaan sanaharkan jälkeen ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 * Kertoi [[George]]lle suvun lasitehtaan sulkemisesta ja isänsä muuttuneesta, vihaisesta käytöksestä ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 
+* Katosi majatalostaan jättäen jälkeensä viestin veljeltään [[Tsuto Kaijitsu]]lta. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
+
 ## Maininnat
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+* [[Sessio 05 - Kirjeitä ja lasinsiruja]]

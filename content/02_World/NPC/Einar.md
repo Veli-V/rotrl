@@ -15,11 +15,13 @@
 * Käytti menestyksekkäästi pelottelutaktiikkaa gobliinin kuulustelussa [[Belor Hemlock]]in kanssa ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 * Osti laadukkaita aseita ja panssareita [[Savah Bevaniky]]ltä, mukaan lukien kaksi villisikakeihästä (*boar spear*) tulevaa metsästystä varten ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 * Suostui lähtemään [[Aldern Foxglove]]n mukaan villisikajahtiin Tickwoodin metsään ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
-* Värvätty vartijaksi [[Sandpoint Garrison]]iin.
+* Osallistui villisikajahtiin Tickwoodissa, haavoittui vaikeasti mutta selvisi Aldernin parannusjuoman avulla. Sankarit nousivat tasolle 2. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
+* Tutki Ameikon huoneen ja löysi Tsuton kirjeen yhdessä [[Bethana Corwin]]in kanssa. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+* [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Appendix 0]]

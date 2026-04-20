@@ -12,9 +12,11 @@
 * Kannusti [[Valo]]a tämän orastavassa ihastuksessa [[Aneka Avertin]]ia kohtaan ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 * Todisti [[Ameiko Kaijitsu]]n ja tämän isän [[Lonjiku Kaijitsu]]n välistä riitaa [[The Rusty Dragon]]issa ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 * Jäi keskustelemaan [[Ameiko Kaijitsu]]n kanssa tämän vuoron jälkeen ja sai tietoa [[Kaijitsu]]-suvun tilanteesta ja lasitehtaan sulkemisesta ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
+* Osallistui villisikajahtiin Tickwoodissa ja auttoi [[Valo]]a peseytymään *Create Water* -loitsulla. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+* [[Sessio 05 - Kirjeitä ja lasinsiruja]]

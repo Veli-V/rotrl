@@ -14,7 +14,7 @@ Päivämäärä: 13/4/26 (pelinsisäinen aika?)
 - Aldern Foxglove saapuu paikalle. "Ah, sankarit seikkailijat".
 - "Lähdetään, minä tarjoan heroset tallilta".
 
-## Squash Goblin Tallit
+## Goblin Squash Stables Tallit
 - Saadaan hevoset.
 - Matkataan kaakkoon yli joen (Duran Darok).
 - Tickwood metsä kohteena.

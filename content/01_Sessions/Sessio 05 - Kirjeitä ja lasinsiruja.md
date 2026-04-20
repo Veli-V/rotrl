@@ -12,7 +12,7 @@ title: Sessio 05 - Kirjeitä ja lasinsiruja
 Seikkailijat olivat kuulustelleet vankeudessa olevia gobliineja ja saaneet selville, että hyökkäyksen takana on "pitkäkorva", joka täsmää kuvaukseltaan [[Tsuto Kaijitsu]]un. [[Fatman's Feedbag]] -tavernassa oli liikkunut huhuja [[Kaijitsu]]-suvusta, ja [[The Rusty Dragon]]issa oli todistettu [[Lonjiku Kaijitsu]]n ja [[Ameiko Kaijitsu]]n välistä rajua riitaa. Lonjiku oli raivonnut tyttärelleen ja väittänyt tämän olevan "yhtä kuollut kuin äitinsä", viitaten huhuihin, joiden mukaan hän olisi tönäissyt vaimonsa alas kalliolta. [[Sandpoint Glassworks|Sandpointin lasitehdas]] on myös ollut suljettuna jo jonkin aikaa.
 
 ## Villisikajahti Tickwoodissa
-Aamu alkoi yhteisellä aamupalalla [[The Rusty Dragon|The Rusty Dragonissa]] Ameikon piikkiin. Paikalle saapui hyväntuulinen [[Aldern Foxglove]], joka kutsui sankarit mukaansa villisikajahtiin kiitokseksi henkensä pelastamisesta. Aldern tarjosi hevoset [[Squash Goblin Stables|Squash Goblinin talleilta]].
+Aamu alkoi yhteisellä aamupalalla [[The Rusty Dragon|The Rusty Dragonissa]] Ameikon piikkiin. Paikalle saapui hyväntuulinen [[Aldern Foxglove]], joka kutsui sankarit mukaansa villisikajahtiin kiitokseksi henkensä pelastamisesta. Aldern tarjosi hevoset [[Goblin Squash Stables|Goblin Squashin talleilta]].
 
 Seurue ratsasti kaakkoon yli joen pitkin rantaa. Matkan varrella ohitettiin ankea [[Devils Platter]] -kalliotasanko, ja Aldern viihdytti ryhmää kertomalla metsästystarinoita nuoruudestaan. Lopulta saavuttiin [[Tickwood]]-metsän reunaan, jonne hevoset jätettiin.
 

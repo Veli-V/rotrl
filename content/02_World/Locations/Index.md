@@ -13,11 +13,13 @@
 * [[Sandpoint Glassworks]] - *Kaijitsujen lasitehdas*
 * [[Sandpoint Savories]] - *Leipomo*
 * [[Savah's Armory]] - *Asekauppa*
+* [[Goblin Squash Stables]] - *Hevostalli*
 * [[The Rusty Dragon]] - *Päämajamme Sandpointissa*
+* [[The White Deer]] - *Majatalo*
 * [[Thistletop]] - *Goblini-saari*
 * [[Tickwood]] - *Metsästysalue*
 * [[Two Knights Brewery]] - *Paikallinen panimo*
-* [[The White Deer]] - *Majatalo*
+* [[Vernash Fine Clothing]] - *Vaatekauppa*
 
 ---
 [Takaisin maailman tietoihin]([[02_World/Index]])

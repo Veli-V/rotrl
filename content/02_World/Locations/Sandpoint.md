@@ -37,19 +37,19 @@
 23. [[Sandpoint Theater]]
 24. Carpenter's Guild (kiltatalo)
 25. Sandpoint Lumbermill (saha)
-26. [[General Store]]
+26. [[Sandpoint General Store]]
 27. Turandarok Academy (koulu/orpokoti)
 28. Madame Mvashti's House (ennustaja)
 29. Grocer's Hall (ruokakauppa)
-30. Vernah's Fine Clothing (vaatturi)
+30. [[Vernash Fine Clothing]] (vaatturi)
 31. Wheen's Wagons (pyöräseppä)
 32. Scarnetti Mill (mylly)
 33. [[The Hagfish]]
 34. Valdemar Fish Market (kalakauppias)
 35. Sandpoint Market (kaupungin tori)
 36. [[Sandpoint Meat Market]]
-37. [[Rusty Dragon]]
-38. Goblin Squash Stables (talli)
+37. [[The Rusty Dragon]]
+38. [[Goblin Squash Stables]] (talli)
 39. [[Two Knights Brewery]]
 40. Merchantile Legue (kokoontumispaikka)
 41. Sandpoint Boutique (kirpputori)
@@ -69,4 +69,5 @@
 * [[Sessio 00 - Kampanjan Aloitus]]
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
+* [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Appendix 0]]

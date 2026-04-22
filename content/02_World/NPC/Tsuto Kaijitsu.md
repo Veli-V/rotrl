@@ -1,5 +1,7 @@
 # Tsuto Kaijitsu
 
+![Tsuto Kaijitsu](../03_Images/Tsuto_Kaijitsu.png)
+
 **Suku:** [[Ameiko Kaijitsu]]n velipuoli, [[Lonjiku Kaijitsu]]n edesmenneen vaimon poika.
 **Kuvaus:** Puolihaltia, jolla on mustat hiukset. Hänen huhutaan olevan seurausta Lonjikun vaimon ja tuntemattoman haltian salasuhteesta. Lonjiku ei ole koskaan hyväksynyt poikaa ja lähetti hänet sisäoppilaitokseen vuosia sitten.
 **Asema:** Kadonnut tai poissa kaupungista, ei ole nähty vuosiin.

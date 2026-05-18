@@ -12,8 +12,11 @@
 
 * Katosi majatalostaan jättäen jälkeensä viestin veljeltään [[Tsuto Kaijitsu]]lta. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
 
+* Pelastettiin kahlittuna [[Sandpoint Glassworks|lasitehtaan]] kellarista, jossa häntä pidettiin vankina. Hän sai pahasti selkäänsä ja hänet toimitettiin [[The Rusty Dragon|majatalaansa]], jossa [[Hannah Velerin]] hoiti hänen vammojaan. ([[Sessio 06 - Lasitehtaan salaisuudet]])
+
 ## Maininnat
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
+* [[Sessio 06 - Lasitehtaan salaisuudet]]

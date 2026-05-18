@@ -6,4 +6,4 @@
 ## Maininnat
 * [[Sessio 02 - Swallowtail Festival]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]] (Maininta recapissa)
-* [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] (Mainittu kuulustelussa)
+* [[Sessio 06 - Lasitehtaan salaisuudet]] (Tsuton päiväkirja paljasti Ripnuggetin olevan osa suurempaa suunnitelmaa hyökätä Sandpointiin satojen gobliinien voimin)

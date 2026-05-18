@@ -8,11 +8,15 @@
 **Rotu:** [[Haltia]]
 
 ## Kuvaus
-Tunnettu yrttiparantaja Sandpointissa.
+Tunnettu yrttiparantaja ja kätilö Sandpointissa. Hänellä on oma liike [[Hannah's]] kaupungin pohjoisosassa.
+
+## Kohokohtia
+* Hoiti [[Ameiko Kaijitsu]]n vammoja [[The Rusty Dragon|Rusty Dragonissa]] lasitehtaan tapahtumien jälkeen. ([[Sessio 06 - Lasitehtaan salaisuudet]])
 
 ## Suhteet
 *   **Haltiat:** Mainittu mahdolliseksi tietolähteeksi haltioista (goblin-kuulustelun yhteydessä).
 
 ## Maininnat
-*   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] - Mainittiin mahdollisena tietolähteenä, kun goblinit mainitsivat "haltia-juonittelijan".
+*   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+*   [[Sessio 06 - Lasitehtaan salaisuudet]]
 *   [[Appendix 0]]

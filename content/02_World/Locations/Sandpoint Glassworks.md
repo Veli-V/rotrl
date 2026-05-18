@@ -10,7 +10,10 @@ Kaijitsun suvun omistama, Sandpointin yksi merkittävimmistä teollisuuslaitoksi
 *   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] - Mainittiin olevan suljettu.
 *   [[Sessio 05 - Kirjeitä ja lasinsiruja]] - Ryhmä tunkeutui tehtaalle, löysi kymmenkunta gobliinia ja [[Lonjiku Kaijitsu]]n lasilla peitetyn ruumiin.
 
+*   [[Sessio 06 - Lasitehtaan salaisuudet]] - Taistelu gobliineja ja [[Tsuto Kaijitsu]]a vastaan. Kellarista löytyi vankina pidetty [[Ameiko Kaijitsu]] ja salakuljettajien tunneli, joka johtaa meren rantaan.
+
 ## Maininnat
 *   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 *   [[Sessio 05 - Kirjeitä ja lasinsiruja]]
+*   [[Sessio 06 - Lasitehtaan salaisuudet]]
 *   [[Appendix 0]]

@@ -3,15 +3,15 @@
 ![Tsuto Kaijitsu](../03_Images/Tsuto_Kaijitsu.png)
 
 **Suku:** [[Ameiko Kaijitsu]]n velipuoli, [[Lonjiku Kaijitsu]]n edesmenneen vaimon poika.
-**Kuvaus:** Puolihaltia, jolla on mustat hiukset. Hänen huhutaan olevan seurausta Lonjikun vaimon ja tuntemattoman haltian salasuhteesta. Lonjiku ei ole koskaan hyväksynyt poikaa ja lähetti hänet sisäoppilaitokseen vuosia sitten.
-**Asema:** Kadonnut tai poissa kaupungista, ei ole nähty vuosiin.
+**Kuvaus:** Puolihaltia, jolla on vaaleat hiukset ja selkeä tianilainen (aasialainen) ulkonäkö. Hän on [[Ameiko Kaijitsu]]n velipuoli, [[Lonjiku Kaijitsu]]n edesmenneen vaimon poika. Lonjiku ei ole koskaan hyväksynyt poikaa ja lähetti hänet sisäoppilaitokseen vuosia sitten.
+**Asema:** Vangittu (tai kukistettu) [[Sandpoint Glassworks|lasitehtaalla]].
 
 ## Kohokohtia
-* [[Valo]] kuuli huhuja [[Fatman's Feedbag]] -tavernassa, että Tsuto olisi seurusta Lonjikun vaimon syrjähypystä haltian kanssa ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
-* Epäillään mahdollisesti olevan gobliinien kanssa yhteistyötä tekevä "haltia-hahmo", josta vankeina olevat goblinit kertoivat ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
-
-* Jätti siskolleen [[Ameiko Kaijitsu]]lle kirjeen, jossa kutsui hänet salaa lasitehtaalle ja vihjasi isänsä syyllisyydestä. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
+* [[Valo]] kuuli huhuja [[Fatman's Feedbag]] -tavernassa, että Tsuto olisi seurausta Lonjikun vaimon syrjähypystä haltian kanssa ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
+* Paljastui gobliinien hyökkäyksen takana olevaksi "pitkäkorvaksi". Johti gobliineja [[Sandpoint Glassworks|lasitehtaalla]] ja yritti saada siskonsa puolelleen. ([[Sessio 06 - Lasitehtaan salaisuudet]])
+* Hänen päiväkirjansa paljasti yhteyden [[Lamashtu]]-kulttiin ja suunnitelman tuhota [[Sandpoint]]. Päiväkirjassa oli myös eroottisia piirustuksia eräästä naisesta ja piirustuksia demonisesta olennosta. ([[Sessio 06 - Lasitehtaan salaisuudet]])
 
 ## Maininnat
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
+* [[Sessio 06 - Lasitehtaan salaisuudet]]

@@ -105,10 +105,10 @@ Malfeshnekor = Demonin nimi. Tämän tyyppisiä nimiä Barghest-olennoilla. Tois
 
 Quasit = Demoni, pieni lentävä.
 
-Ezekien Tobin = Pappi joka kuoli kun temppeli paloi. (Ezren? Ezakien?)
+Ezekien Tobyn = Pappi joka kuoli kun temppeli paloi. (Ezren? Ezakien?)
 
 Rakastaja uhrannut Aasimar-taustansa.
-Tobin on "Rakastajan" isä.
+Tobyn on "Rakastajan" isä.
 Feast ymmärrettävästi peruttu.
 
 Aneka saapuu kuitenkin suhteellisen juhlavasti pukeutuneena. Valo myös laittanut parhaat päälle.

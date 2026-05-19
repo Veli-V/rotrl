@@ -1,6 +1,6 @@
-# Nuala Tobyn (Nualas Tobyn)
+# Nelli Tobyn (Nelli Tobyn)
 
-**Rooli:** [[Ezakien Tobin]]in ottotytär.
+**Rooli:** [[Ezakien Tobyn]]in ottotytär.
 **Rotu:** [[Aasimar]]
 **Kuvaus:** Kaunis ottotytär, jonka uskottiin kuolleen samassa tulipalossa kuin isänsä. Tsuton päiväkirja kuitenkin viittaa hänen olevan elossa ja toimivan "Rakastajana".
 

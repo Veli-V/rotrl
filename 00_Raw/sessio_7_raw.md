@@ -26,10 +26,10 @@ Naffer Vosk vastassa, ohjaa Isä Zantuksen luokse.
 Iäkäs nainen Isä Zantuksen luona.
 -> Zantus sanoo jotain rauhoittavia sanoja naiselle ja Naffer vie naisen syrjään.
 
-Alerkast Barett.
+Alergast Barett.
 Jonkun suvun isä on löytynyt kuolleena.
--> Aeron (poika?) löysi. Kaapissa oli mörkö ollut pari päivää.
--> Alerkast tutki pesiä ja kuoli.
+-> Aeren (poika?) löysi. Kaapissa oli mörkö ollut pari päivää.
+-> Alergast tutki pesiä ja kuoli.
 -> Myös perheen koira kuollut puolustaessa.
 -> Perheen äiti löysi ruumiin ja toi lapset temppelille.
 
@@ -55,7 +55,7 @@ Kun Dancing Lights liikkuu lattian alla kuuluu huutoja.
 -> Nahka heilahtaa päällä.
 -> Koittaa soria valopalloja.
 -> Huomaa meidät ja heittää kivellä.
--> Heitti Acid Splashin kans oli.
+-> Heitti Acid Splashin kans ohi.
 => Roll for initiative.
 
 Goblin juo jonkun potionin.
@@ -94,7 +94,7 @@ Kaunis Aasimar.
 - Seurusteli Delek Viskantan kanssa.
 - Laidapuolen kulkija.
 -> Nafferin mukaan ei asu enää Sandpointissa, ehkä muuttanut Magnimariin.
--> Tobin ei ollut suhteesta innoissaan.
+-> Tobyn ei ollut suhteesta innoissaan.
 -> Ei kestänyt että varisialaiset miehet liehitteli tytärtään.
 
 - Nelli tuli noihin aikoihin raskaaksi.

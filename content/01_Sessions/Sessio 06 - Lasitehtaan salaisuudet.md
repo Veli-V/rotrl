@@ -28,7 +28,7 @@ Tsuton huoneesta löytyi hänen päiväkirjansa, joka paljasti järkyttäviä as
 * **Hyökkäyssuunnitelmat:** Päiväkirjassa oli karttoja [[Sandpoint|Sandpointista]] ja suunnitelmia hyökätä kaupunkiin satojen gobliinien voimin.
 * **Lamashtu:** Mainintoja [[Lamashtu]]-kultista (Petojen äiti).
 * **Malfeshnekor:** Viittauksia demoniseen olentoon nimeltä [[Malfeshnekor]], joka on vangittuna jonnekin lähistölle.
-* **Rakastaja:** Eroottisia piirustuksia naisesta, jota Tsuto kutsui "Rakastajaksi". Kirjoitusten mukaan tämä nainen oli uhrannut Aasimar-perimänsä ja oli entisen papin, [[Ezakien Tobin]]in, tytär.
+* **Rakastaja:** Eroottisia piirustuksia naisesta, jota Tsuto kutsui "Rakastajaksi". Kirjoitusten mukaan tämä nainen oli uhrannut Aasimar-perimänsä ja oli entisen papin, [[Ezakien Tobyn]]in, tytär.
 
 ## Jälkipyykkiä Rusty Dragonissa
 Ryhmä palasi [[The Rusty Dragon|The Rusty Dragoniin]]. [[Aneka Avertin]] saapui paikalle juhlavasti pukeutuneena tapaamaan [[Valo]]a, ja he viettivät iltaa yhdessä simaa juoden, vaikka päivän tapahtumat painoivatkin mieliä. [[Ameiko Kaijitsu|Ameiko]] alkoi toipua Hannahin hoidossa, mutta oli syvästi järkyttynyt veljensä petoksesta ja isänsä kuolemasta.
@@ -47,6 +47,6 @@ Ryhmä palasi [[The Rusty Dragon|The Rusty Dragoniin]]. [[Aneka Avertin]] saapui
 * [[Sandpoint Glassworks]]
 * [[Lamashtu]]
 * [[Malfeshnekor]]
-* [[Ezakien Tobin]]
+* [[Ezakien Tobyn]]
 * [[Aneka Avertin]]
 * [[The Rusty Dragon]]

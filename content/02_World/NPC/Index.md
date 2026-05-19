@@ -30,7 +30,6 @@
 * [[Shayliss Vinder]]
 * [[Shelby Vinder]]
 * [[Solsta Vinder]]
-* [[Tsuto Kaijitsu]] (Kukistettu juonittelija)
 * [[Vachedi]] (Shoanti-sotilas)
 * [[Ven Vinder]] (Kauppias)
 
@@ -40,6 +39,7 @@
 * [[Jervis Stoot]] (Chopper)
 * [[Malfeshnekor]] (Demoni/Barghest)
 * [[Ripnugget]] (Goblin-kuningas)
+* [[Tsuto Kaijitsu]] (Kukistettu juonittelija)
 
 ---
 [Takaisin maailman tietoihin]([[02_World/Index]])

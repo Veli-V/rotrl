@@ -1,5 +1,7 @@
 # Naffer Vosk
 
+![Maffer Vosk](../03_Images/Naffer_Vosk.png)
+
 **Tyyppi:** NPC
 **Sijainti:** [[Sandpoint]]
 **Ammatti:** Hautausmaanhoitaja

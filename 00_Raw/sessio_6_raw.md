@@ -12,8 +12,8 @@ Roll for initiative
 Eka goblin kuolee ylhäällä.
 Alakerran Goblin huutaa "Tsuto auta!"
 -> Tsuto tulee yhdestä kellarin huoneesta
-   -> Vaaleahiuksinen puolihaltia (Aasialainen habitus)
-Ampuu jousella ja huutelee Goblineita.
+   -> Vaaleanruskeahiuksinen puolihaltia (Aasialainen habitus)
+   -> Ampuu jousella ja huutelee Goblineita.
 Yläkerran Goblin heittelee kauhalla sulaa lasia.
 Goblineilta pikkuhiljaa poistuu henki.
 Divine shield of faith itselle ja protection from evil Valolle.
@@ -58,7 +58,7 @@ Luolan suulta jälkiä:
 - Kengänjälkiä (Tsuton kengät?)
 - Goblinin jälkiä
 - Yhdet hyvin mystiset jäljet
-  - 4 kolmiomaista aukon rypylää? joissa pitkät kynnet.
+  - A4 kokoiset ankan rypylät joissa pitkät kynnet.
   - Joku epäluonnollinen.
 
 Tunneli kaivettu joitakin kymmeniä vuosia sitten.
@@ -83,7 +83,7 @@ Makkara niminen lasinpuhaltajan oppipoika.
 - Piiloutui kun goblinit hyökkäsi.
 
 Matkaamme Rusty Dragoniin.
-Hannah Velerin (suutka ihoinen haltia?) hoitamassa Ameikon haavoja. Salveilla ja siteillä huoneessa.
+Hannah Velerin (suklaa-ihoinen haltia) hoitamassa Ameikon haavoja. Salveilla ja siteillä huoneessa.
 
 Seuraamme keskustelua:
 Tsuto puhui että Ameikon pitäisi lähteä Thistletopiin.
@@ -105,17 +105,17 @@ Malfeshnekor = Demonin nimi. Tämän tyyppisiä nimiä Barghest-olennoilla. Tois
 
 Quasit = Demoni, pieni lentävä.
 
-Ezekien Tobin = Pappi joka kuoli kun temppeli paloi. (Ezren? Ezakien?)
+Ezekien Tobyn = Pappi joka kuoli kun temppeli paloi. (Ezren? Ezakien?)
 
 Rakastaja uhrannut Aasimar-taustansa.
-Tobin on "Rakastajan" isä.
+Tobyn on "Rakastajan" isä.
 Feast ymmärrettävästi peruttu.
 
 Aneka saapuu kuitenkin suhteellisen juhlavasti pukeutuneena. Valo myös laittanut parhaat päälle.
 Aneka ja Valo juovat simaa yhdessä.
 Valo kyselee paljon Anekan elämästä ja leipomisesta.
-Valo ja Luko viettävät laatuaikaa.
+Valo ja Inko viettävät laatuaikaa.
 
 Kirjoittaminen on vaikeaa, kun kirjoittaa paperiin se varastaa ajatuksia (goblin-uskomus).
 
-Makkara kertoilee mutageeneistä ja sammakoiden syönnistä jne.
+Makkara kertoilee mutapainista ja sammakoiden syönnistä jne.

@@ -10,4 +10,6 @@ Tämä tiedosto seuraa raakamateriaalin käsittelytilaa.
 | sessio_3_raw.md | Sessio | Käsitelty | Sessio 3 |
 | sessio_4_raw.md | Sessio | Käsitelty | Sessio 4 |
 | sessio_5_raw.md | Sessio | Käsitelty | Sessio 5 |
-| appendix_0_raw.md | Appendix | Käsitelty | DM:n lisätiedot (Maailman tiedot) |
+| GM_appendix_0_raw.md | Appendix | Käsitelty | GM:n lisätiedot (Maailman tiedot) |
+| appendix_goblin_lore.md | Appendix | Käsitelty | GM:n lisätiedot (Goblineista) |
+| GM_appendix_6_raw.md | Appendix | Käsitelty | GM:n lisätiedot (Sessio 6) |

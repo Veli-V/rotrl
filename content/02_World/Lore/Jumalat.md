@@ -37,9 +37,9 @@ Golarionin jumalaistoa. Seuraavat jumalat ovat merkityksellisiä Sandpoint-seudu
 **Kuvaus:** Shelyn rohkaisee luovuuteen ja innoittaa maailmaa. Hän haastaa uskollisiaan koettelemaan rajojaan, jakamaan luomansa ja iloitsemaan myös muiden lahjoista.
 
 ## Lamashtu
-**Nimitys:** Hirviöiden äiti  
+**Nimitys:** Hirviöiden äiti, Petojen äiti  
 **Sukupuoli:** Naispuoleinen  
-**Kuvaus:** Petojen ja sikiöiden äiti sekä pahennuksen jumala. Hän on pahuuden ja epämuodostumien lähde.
+**Kuvaus:** Petojen ja sikiöiden äiti sekä pahennuksen jumala. Hän on pahuuden ja epämuodostumien lähde.    
 
 ## Maininnat
 * [[Sessio 01 - Saapuminen Sandpointiin]]

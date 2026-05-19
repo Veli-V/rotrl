@@ -9,8 +9,7 @@
 * Ajettiin ulos [[The Rusty Dragon]]ista kiivaan Ameikon kanssa käydyn riidan jälkeen ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 * Suunnittelee matkaa [[Magnimar]]iin.
 * Sulkenut lasitehtaansa ja irtisanonut työntekijöitään.
-
-* Löydetty kuolleena [[Sandpoint Glassworks|lasitehtaalta]], murhattuna ja peitettynä sulalla lasilla. Hänen ruumiinsa oli työnnetty uuniin muiden työntekijöiden ruumiiden kanssa. ([[Sessio 06 - Lasitehtaan salaisuudet]])
+* Löydetty kuolleena [[Sandpoint Glassworks|lasitehtaalta]], murhattuna ja peitettynä sulalla lasilla. Todennäköisesti peitetty lasilla tämän vielä ollessa hengissä. ([[Sessio 06 - Lasitehtaan salaisuudet]])
 
 ## Maininnat
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]

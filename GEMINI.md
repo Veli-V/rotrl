@@ -12,9 +12,9 @@ Toimi tämän ohjeen mukaan, kun käyttäjä pyytää käsittelemään uuden pel
 - Etsi uusi PDF- tai kuvatiedosto kansiosta `00_Raw/`.
 - Lue tiedoston sisältö ja muunna se tekstiksi (OCR).
 - Tallenna teksti sellaisenaan tiedostoon `00_Raw/sessio_X_raw.md`.
-- Tarkista myös 00_Raw/ kansiossa olevat appendix_X_.md tiedostot onko niihin tullut muutoksia tai uusia.
-    - Nämä appendix tiedostot ovat dungeon masterin lisäämiä lisätietoja, joten käsittele ne kuten muistiinpanot. Jos muistiinpanoissa tai muissa lähteissä on ristiriitoja, dungeon masterin muistiinpanot ovat primäärisiä totuuksia.
-    - **Huom:** Appendix-numerointi on itsenäinen eikä liity sessioiden numeroihin. Käsittele ne erillisinä päivityksinä.
+- Tarkista myös 00_Raw/ kansiossa olevat GM_appendix_X_raw.md tiedostot onko niihin tullut muutoksia tai uusia.
+    - Nämä GM_appendix tiedostot ovat game masterin lisäämiä lisätietoja, joten käsittele ne kuten muistiinpanot. Jos muistiinpanoissa tai muissa lähteissä on ristiriitoja, game masterin muistiinpanot ovat primäärisiä totuuksia.
+    - **Huom:** GM_Appendix-numerointi on itsenäinen eikä liity sessioiden numeroihin. Käsittele ne erillisinä päivityksinä.
 
 ## 2. Jalostus (Sessions-vaihe)
 - Kirjoita muistiinpanot puhtaaksi tiedostoon `content/01_Sessions/Sessio X - [Otsikko].md`.

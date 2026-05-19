@@ -18,3 +18,5 @@ Entinen katedraali paloi traagisesti viisi vuotta sitten (4702 AR), ja silloinen
 ## Maininnat
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
+* [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
+* [[Appendix 0]]

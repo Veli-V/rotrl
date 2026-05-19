@@ -17,6 +17,9 @@
 * Suostui lähtemään [[Aldern Foxglove]]n mukaan villisikajahtiin Tickwoodin metsään ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 * Osallistui villisikajahtiin Tickwoodissa, haavoittui vaikeasti mutta selvisi Aldernin parannusjuoman avulla. Sankarit nousivat tasolle 2. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
 * Tutki Ameikon huoneen ja löysi Tsuton kirjeen yhdessä [[Bethana Corwin]]in kanssa. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
+* Auttoi pahoinpidellyn [[Ameiko Kaijitsu]]n ulos lasitehtaan kellarista ja toimitti hänet [[The Rusty Dragon|Rusty Dragoniin]]. ([[Sessio 06 - Lasitehtaan salaisuudet]])
+* Vahti toipuvaa [[Ameiko Kaijitsu]]a aamulla. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
+* Mainitsi [[Isä Zantus|Isä Zantukselle]] lasitehtaan kellarista löytyneet tunnelit. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -24,4 +27,6 @@
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
+* [[Sessio 06 - Lasitehtaan salaisuudet]]
+* [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Appendix 0]]

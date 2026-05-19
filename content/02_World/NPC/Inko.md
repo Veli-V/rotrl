@@ -13,6 +13,9 @@
 * Yritti esiintyä "goblin-asianajajana" kuulustelussa, mutta lähestymistapa ei ollut tehokas ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 * Kävi [[Fatman's Feedbag]] -tavernassa [[Valo]]n kanssa, jossa hän jäi kiinni korttipelin huijauksesta, sai tappelun jälkeen turpaan ja heitettiin pois ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 * Osallistui villisikajahtiin Tickwoodissa ja lasitehtaan tutkimuksiin. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
+* Osallistui taisteluun [[Sandpoint Glassworks|lasitehtaalla]]. ([[Sessio 06 - Lasitehtaan salaisuudet]])
+* Lähetti *Dancing Lights* -valopallot ryömintätilaan, paljastaen gobliinin piilostaan [[Alergast Barett|Barettien]] talossa. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
+* Kukisti gobliinin taioilla yhdessä [[George]]n kanssa. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -20,4 +23,6 @@
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
+* [[Sessio 06 - Lasitehtaan salaisuudet]]
+* [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Appendix 0]]

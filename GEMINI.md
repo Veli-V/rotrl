@@ -29,6 +29,7 @@ Toimi tämän ohjeen mukaan, kun käyttäjä pyytää käsittelemään uuden pel
 - Päivitä kaikkiin mainittuihin maailman tiedostoihin (NPC, Locations, Lore) **Maininnat**-osio (backlinkit) kyseiseen sessioon.
 - Päivitä tarvittavat `Index.md` -tiedostot `content/02_World/` alikansioissa.
 - Päivitä `Aikajana.md` `content/02_World/Timeline/` alikansiossa perustuen sessiossa mainittuun ajan etenemiseen.
+- Päivitä pelaajahahmojen tiedostoja tarpeen tullen. Erityisesti "Kohokohtia" on hyvä lisätä. Einar, Inko, Valo, George sekä Makkara ovat pelaajahahmoja.
 
 ## 4. Konventiot
 - **Kieli:** Suomi.

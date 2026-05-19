@@ -31,7 +31,7 @@ Lamashtu-kultti on pahuuden liikkeelle omistautuneita seuraajia, jotka pyrkivät
 
 ## Hyökkäyssuunnitelma
 
-Kultin päätavoite on tuhoaa [[Sandpoint]].
+Kultin päätavoite on tuhota [[Sandpoint]].
 
 ### Strategiset elementit (Tsuton päiväkirjasta):
 1. **Quasit-hyökkäyksien käyttäminen:** Pieninä, kohdennettuina osina "quasit" (demoni) apulaiset

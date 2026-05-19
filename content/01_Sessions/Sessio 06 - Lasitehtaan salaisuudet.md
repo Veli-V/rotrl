@@ -25,10 +25,11 @@ Yläkerran uuneista löytyi karmaiseva näky: puoli tusinaa ihmisruumista, mukaa
 
 ## Tsuton päiväkirja
 Tsuton huoneesta löytyi hänen päiväkirjansa, joka paljasti järkyttäviä asioita:
-* **Hyökkäyssuunnitelmat:** Päiväkirjassa oli karttoja [[Sandpoint|Sandpointista]] ja suunnitelmia hyökätä kaupunkiin satojen gobliinien voimin.
-* **Lamashtu:** Mainintoja [[Lamashtu]]-kultista (Petojen äiti).
+* **Hyökkäyssuunnitelmat:** Päiväkirjassa oli karttoja [[Sandpoint]]ista ja suunnitelmia hyökätä kaupunkiin satojen gobliinien voimin. Siinä mainitaan strategisia eroja: [[Ripnugget]] halusi massiivista maahökkäystä, mutta Tsuto painotti pienempiä mutta kohdennetumpia iskuja sekä salakuljettajien tunneleita käyttäen.
+* **Lamashtu:** Mainintoja [[Lamashtu-kultti|Lamashtu-kultista]] (Petojen äiti).
 * **Malfeshnekor:** Viittauksia demoniseen olentoon nimeltä [[Malfeshnekor]], joka on vangittuna jonnekin lähistölle.
 * **Rakastaja:** Eroottisia piirustuksia naisesta, jota Tsuto kutsui "Rakastajaksi". Kirjoitusten mukaan tämä nainen oli uhrannut Aasimar-perimänsä ja oli entisen papin, [[Ezakien Tobyn]]in, tytär.
+* **Lasitehtaan tragedian tausta:** Päiväkirjassa mainittiin, miten Tsuto "onnistui saamaan Tobynin jäämistön helposti" Swallowtail-festivaalin hyökkääksen aikana, kun kaikki olivat muun hälinän harhauttamia.
 
 ## Jälkipyykkiä Rusty Dragonissa
 Ryhmä palasi [[The Rusty Dragon|The Rusty Dragoniin]]. [[Aneka Avertin]] saapui paikalle juhlavasti pukeutuneena tapaamaan [[Valo]]a, ja he viettivät iltaa yhdessä simaa juoden, vaikka päivän tapahtumat painoivatkin mieliä. [[Ameiko Kaijitsu|Ameiko]] alkoi toipua Hannahin hoidossa, mutta oli syvästi järkyttynyt veljensä petoksesta ja isänsä kuolemasta.

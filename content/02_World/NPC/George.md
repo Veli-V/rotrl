@@ -13,6 +13,9 @@
 * Todisti [[Ameiko Kaijitsu]]n ja tämän isän [[Lonjiku Kaijitsu]]n välistä riitaa [[The Rusty Dragon]]issa ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 * Jäi keskustelemaan [[Ameiko Kaijitsu]]n kanssa tämän vuoron jälkeen ja sai tietoa [[Kaijitsu]]-suvun tilanteesta ja lasitehtaan sulkemisesta ([[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]])
 * Osallistui villisikajahtiin Tickwoodissa ja auttoi [[Valo]]a peseytymään *Create Water* -loitsulla. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
+* Löysi varastosta piileskellyt [[Makkara]]n lasitehtaalla. ([[Sessio 06 - Lasitehtaan salaisuudet]])
+* Gobliini huusi hänelle "Kuole ukko!" ja hyökkäsi; kukisti sen kaulahuivilla yhdessä [[Inko]]n kanssa. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
+* Hoiti [[Makkara]]n verille raavitut kädet session lopussa. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -20,3 +23,5 @@
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
+* [[Sessio 06 - Lasitehtaan salaisuudet]]
+* [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]

@@ -15,9 +15,13 @@
 * Yritti suudella [[Aneka Avertin]]ia, mutta osuikin vahingossa siskoon. Sai lopulta sovittua illallisen Anekan kanssa. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
 * Osti aatelisvaatteet [[Rynshinn Povalli]]lta. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
 * Tiirikoi lasitehtaan oven auki. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
+* Sai *Protection from Evil* -suojan taistelussa [[Sandpoint Glassworks|lasitehtaalla]]. ([[Sessio 06 - Lasitehtaan salaisuudet]])
+* Vietti illan [[Aneka Avertin]]in kanssa simaa juoden. ([[Sessio 06 - Lasitehtaan salaisuudet]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
+* [[Sessio 06 - Lasitehtaan salaisuudet]]
+* [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]

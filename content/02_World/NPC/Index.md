@@ -7,6 +7,7 @@
 * [[Valo]] (Rogue)
 
 ### Sandpointin asukkaat
+* [[Alerkast Barett]] (Edesmennyt perheenisä)
 * [[Alma Avertin]] (Sandpoint Savories)
 * [[Aldern Foxglove]] (Aatelismies Magnimarista)
 * [[Ameiko Kaijitsu]] (The Rusty Dragon)
@@ -17,6 +18,7 @@
 * [[Chask Haladan]] (Curious Goblinin omistaja)
 * [[Chod Bevuk]] (Lihakauppias)
 * [[Das Korvut]] (Seppä)
+* [[Delek Viskanta]] (Nualan entinen kumppani)
 * [[Garridan Viskalai]] (White Deer)
 * [[Hannah Velerin]] (Parantaja)
 * [[Isä Zantus]] (Pappi)
@@ -39,6 +41,7 @@
 * [[Ezakien Tobin]] (Edesmennyt pappi)
 * [[Jervis Stoot]] (Chopper)
 * [[Malfeshnekor]] (Demoni/Barghest)
+* [[Nuala Tobyn]] (Ezakien Tobinin ottotytär)
 * [[Ripnugget]] (Goblin-kuningas)
 
 ---

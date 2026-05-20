@@ -71,3 +71,4 @@
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Appendix 0]]
+* [[appendix_varisia_lore]]

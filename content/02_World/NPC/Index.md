@@ -9,7 +9,7 @@
 ### Sandpointin asukkaat
 * [[Alergast Barett]] (Edesmennyt perheenisä)
 * [[Alma Avertin]] (Sandpoint Savories)
-* [[Aldern Foxglove]] (Aatelismies Magnimarista)
+* [[Aldern Foxglove]] (Aatelismies Magnimarista, vierailulla Sandpointissa)
 * [[Ameiko Kaijitsu]] (The Rusty Dragon)
 * [[Aneka Avertin]] (Sandpoint Savories)
 * [[Arika Avertin]] (Sandpoint Savories)

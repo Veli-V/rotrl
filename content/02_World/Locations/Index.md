@@ -4,7 +4,7 @@
 * [[Curious Goblin]] - *Kirjakauppa*
 * [[Devils Platter]] - *Kalliotasanko*
 * [[Fatman's Feedbag]] - *Hämäräperäinen taverna*
-* [[Magnimar]] - *Suurkaupunki etelässä*
+* [[Magnimar]] - *Varisian suuri vapaakaupunki, satama ja monumenttien keskus*
 * [[Meat Market]] - *Lihakauppa*
 * [[Red Dog Smithy]] - *Sepän verstas*
 * [[Sandpoint]] - *Rannikkokaupunki*

@@ -9,7 +9,6 @@
 ### Sandpointin asukkaat
 * [[Alergast Barett]] (Edesmennyt perheenisä)
 * [[Alma Avertin]] (Sandpoint Savories)
-* [[Aldern Foxglove]] (Aatelismies Magnimarista)
 * [[Ameiko Kaijitsu]] (The Rusty Dragon)
 * [[Aneka Avertin]] (Sandpoint Savories)
 * [[Arika Avertin]] (Sandpoint Savories)
@@ -18,7 +17,6 @@
 * [[Chask Haladan]] (Curious Goblinin omistaja)
 * [[Chod Bevuk]] (Lihakauppias)
 * [[Das Korvut]] (Seppä)
-* [[Delek Viskanta]] (Nellin entinen kumppani)
 * [[Garridan Viskalai]] (White Deer)
 * [[Hannah Velerin]] (Parantaja)
 * [[Isä Zantus]] (Pappi)
@@ -34,6 +32,10 @@
 * [[Solsta Vinder]]
 * [[Vachedi]] (Shoanti-sotilas)
 * [[Ven Vinder]] (Kauppias)
+
+### Magnimarin asukkaat
+* [[Delek Viskanta]] (Nellin entinen kumppani)
+* [[Aldern Foxglove]] (Aatelismies Magnimarista)
 
 ### Viholliset ja muut
 * [[Bruthazmus]] (Bugbear)

@@ -1,25 +1,38 @@
 # Paikat (Locations)
 
-* [[Chopper's Isle]] - *Kirottu saari*
+## Asutukset
+
+**[[Magnimar]]** - *Suurkaupunki etelässä*
+
+**[[Sandpoint]]** - *Rannikkokaupunki*
+* [[Choppers Isle|Chopper's Isle]] - *Kirottu saari*
 * [[Curious Goblin]] - *Kirjakauppa*
 * [[Devils Platter]] - *Kalliotasanko*
 * [[Fatman's Feedbag]] - *Hämäräperäinen taverna*
-* [[Magnimar]] - *Suurkaupunki etelässä*
-* [[Meat Market]] - *Lihakauppa*
+* [[Hannah's]] - *Parantaja ja kätilö*
 * [[Red Dog Smithy]] - *Sepän verstas*
-* [[Sandpoint]] - *Rannikkokaupunki*
+* [[Risa's Place]] - *Rauhallinen taverna*
+* [[Sandpoint Boneyard]] - *Hautausmaa*
 * [[Sandpoint Cathedral]] - *Temppeli*
 * [[Sandpoint Garrison]] - *Sotilaslinna*
-* [[Sandpoint Glassworks]] - *Kaijitsujen lasitehdas*
+* [[Sandpoint General Store|General Store]] - *Sekatavarakauppa*
+* [[Sandpoint Glassworks|Glassworks]] - *Kaijitsujen lasitehdas*
+* [[Sandpoint Meat Market|Meat Market]] - *Lihakauppa*
 * [[Sandpoint Savories]] - *Leipomo*
+* [[Sandpoint Theater]] - *Teatteri*
 * [[Savah's Armory]] - *Asekauppa*
-* [[Goblin Squash Stables]] - *Hevostalli*
+* [[Squash Goblin Stables|Goblin Squash Stables]] - *Hevostalli*
+* [[The Hagfish]] - *Taverna*
 * [[The Rusty Dragon]] - *Päämajamme Sandpointissa*
 * [[The White Deer]] - *Majatalo*
-* [[Thistletop]] - *Goblini-saari*
-* [[Tickwood]] - *Metsästysalue*
 * [[Two Knights Brewery]] - *Paikallinen panimo*
 * [[Vernash Fine Clothing]] - *Vaatekauppa*
+
+## Alueet
+
+**[[Thistletop]]** - *Goblini-saari*
+
+**[[Tickwood]]** - *Metsästysalue*
 
 ---
 [Takaisin maailman tietoihin]([[02_World/Index]])

@@ -8,6 +8,7 @@
 
 ## Kuvaus
 Nuori ja komea aatelismies Magnimarista. Hän on Sandpointissa metsästämässä villisikoja Tickwoodin metsässä.
+Aldernin käytös ja tyyli heijastavat Magnimarin vauraampaa kaupunkikulttuuria. Hänen suhtautumisensa Sandpointiin on utelias ja hieman yläluokkainen.
 
 ## Suhteet
 *   **Einar:** Aldern on erittäin kiinnostunut Einarista ja kiitollinen tälle hengenpelastuksesta (Goblinihyökkäyksen aikana).

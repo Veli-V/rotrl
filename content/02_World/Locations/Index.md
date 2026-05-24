@@ -10,6 +10,8 @@
 * [[Devils Platter]] - *Kalliotasanko*
 * [[Fatman's Feedbag]] - *Hämäräperäinen taverna*
 * [[Hannah's]] - *Parantaja ja kätilö*
+* [[Magnimar]] - *Suurkaupunki etelässä*
+* [[Meat Market]] - *Lihakauppa*
 * [[Red Dog Smithy]] - *Sepän verstas*
 * [[Risa's Place]] - *Rauhallinen taverna*
 * [[Sandpoint Boneyard]] - *Hautausmaa*

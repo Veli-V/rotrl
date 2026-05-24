@@ -9,7 +9,7 @@ Tämä on keskitetty hakemisto Pathfinder-kampanjan muistiinpanoille.
 
 ## Ryhmän sankarit
 * [[02_World/NPC/Einar|Einar]] (Puoliorkki Fighter) – Pelaaja: Jouni
-* [[02_World/NPC/George|George]] (Varisian Inquisitor) – Pelaaja: Veli V
+* [[02_World/NPC/George|George]] ([[Varisia|Varisian]] Inquisitor) – Pelaaja: Veli V
 * [[02_World/NPC/Inko|Inko]] (Ihminen Sorcerer) – Pelaaja: Helge
 * [[02_World/NPC/Valo|Valo]] (Aasimar Rogue) – Pelaaja: Aleksi
 

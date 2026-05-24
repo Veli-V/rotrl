@@ -11,3 +11,5 @@
 ## Maininnat
 * [[Sessio 06 - Lasitehtaan salaisuudet]] (Mainittu "Rakastajana")
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
+
+**HUOM!** Kirjoitusasu saattaa vaihdella (esim. Nuala, Nala, jne.), mutta aina tarkoitetaan Nelliä.

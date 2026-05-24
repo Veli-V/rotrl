@@ -1,7 +1,7 @@
 # George
 
 **Pelaaja:** Veli V
-**Rotu:** Varisian
+**Rotu:** [[Varisia|Varisian]]
 **Luokka:** Inquisitor (Heretic) 
 **Tausta:** *Bladed Scarf*, King's Man.
 **Uskonto:** Varian (?) - liittynyt paikalliseen kirkkoon luonnon parista.

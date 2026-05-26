@@ -12,6 +12,12 @@ Varisia ulottuu Varisianlahden rannikolta kohti vuoria, ylänköjä ja harvaan a
 
 Rannikon eteläosassa [[Magnimar]] hallitsee Yondabakari-joen suuta ja yhtä alueen tärkeimmistä satamista. Sen asema vaikuttaa laajasti Lost Coastin kauppaan, liikenteeseen ja poliittisiin suhteisiin.
 
+## Muinainen historia ja Thassilon
+
+Varisian maisema on täynnä vanhoja jättiläisiä kivirakenteita, raunioita ja outoja pylväitä, joiden tekijöistä ei ole enää elävää muistoa. Nämä ovat [[Thassilon]]-imperiumin jäänteitä, muinaisen vallan jälkiä, jotka muistuttavat siitä, että nykyinen Varisia on rakennettu paljon vanhemman maailman päälle.
+
+Vanhoihin riimuihin ja raunioihin liittyy kansanperinteessä varoituksia: niihin suhtaudutaan varauksella, sillä ne yhdistetään unohtuneisiin hallitsijoihin, kirouksiin ja asioihin, joita on parempi olla häiritsemättä.
+
 ## Kansa ja historia
 
 Varisian alkuperäisiä kansoja ovat varisialaiset ja shoantit. Historiallisesti Cheliaxista tulleet siirtolaiset valtasivat erityisesti eteläisiä alueita, mikä muutti vallan rakenteita pysyvästi. Tämän perinnön vaikutukset näkyvät yhä kaupunkien hallinnossa, luokkaeroissa ja ennakkoluuloissa.
@@ -37,3 +43,4 @@ Magnimarin kasvu korostaa samalla Varisian sisäistä jännitettä: rannikon kau
 ## Maininnat
 * [[appendix_varisia_lore]]
 * [[appendix_magnimar_lore]]
+* [[appendix_thassilon_lore]]

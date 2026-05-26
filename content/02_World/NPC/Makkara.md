@@ -1,6 +1,6 @@
 # Makkara
 
-![Maffer Vosk](../03_Images/Naffer_Vosk.png)
+![Makkara](../03_Images/Makkara.png)
 
 **Rooli:** Lasinpuhaltajan oppipoika.
 **Kuvaus:** Nuori poika, joka selvisi hengissä gobliinien hyökkäyksestä [[Sandpoint Glassworks|lasitehtaalle]] piiloutumalla varastoon. Hän on erittäin traumatisoitunut ja osaa sanoa vain sanan "makkara" ja "kyllä". Hän on ollut lukittuna [[The Rusty Dragon]]issa [[George]]n huoneeseen.

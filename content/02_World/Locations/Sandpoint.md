@@ -16,7 +16,7 @@
 2. [[Sandpoint Boneyard]]
 3. [[The White Deer]]
 4. The Way North (kartturi)
-5. Rings and Thingd (korupaja ja rahanlainaamo)
+5. Rings and Things (korupaja ja rahanlainaamo)
 6. Junker's Edge (kaatopaikka)
 7. Gorvi's Shack (Gorvin koti)
 8. Quink's House (tietäjä)

@@ -1,7 +1,6 @@
-# Aldern Foxglove
+﻿# Aldern Foxglove
 
-![Aldern Foxglove](../03_Images/Aldern_Foxglove.png)
-
+<img src="../03_Images/Aldern_Foxglove.png" alt="Aldern Foxglove" class="portrait" />
 **Tyyppi:** NPC
 **Sijainti:** Sandpoint (väliaikaisesti), kotoisin [[Magnimar]]ista
 **Ammatti:** Aatelismies
@@ -20,3 +19,5 @@ Aldernin käytös ja tyyli heijastavat Magnimarin vauraampaa kaupunkikulttuuria.
 ## Maininnat
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
+
+

@@ -1,7 +1,6 @@
 # Sinspawn - Syntisyintyinen
 
-![Sinspawn](../03_Images/Sinspawn.png)
-
+<img src="../03_Images/Sinspawn.png" alt="Sinspawn" class="portrait" />
 ## Ulkonäkö ja olemus
 
 Sinspawn on karvaton, luurankomaisen laiha ja epämuodostunut humanoidi. Sen epäluonnollisen pitkät käsivarret päättyvät kolmisormisiin kynsiin, ja sen jalat taittuvat taaksepäin kuin koiran takajalat.

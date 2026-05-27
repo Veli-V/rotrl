@@ -1,7 +1,6 @@
-# Solsta Vinder
+﻿# Solsta Vinder
 
-![Solsta Vinder](../03_Images/Solsta_Vinder.png)
-
+<img src="../03_Images/Solsta_Vinder.png" alt="Solsta Vinder" class="portrait" />
 **Tyyppi:** NPC
 **Sijainti:** [[Sandpoint]]
 
@@ -15,3 +14,5 @@
 
 ## Maininnat
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+
+

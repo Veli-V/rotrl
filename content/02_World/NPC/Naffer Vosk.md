@@ -1,7 +1,6 @@
-# Naffer Vosk
+﻿# Naffer Vosk
 
-![Maffer Vosk](../03_Images/Naffer_Vosk.png)
-
+<img src="../03_Images/Naffer_Vosk.png" alt="Maffer Vosk" class="portrait" />
 **Tyyppi:** NPC
 **Sijainti:** [[Sandpoint]]
 **Ammatti:** Hautausmaanhoitaja
@@ -16,3 +15,5 @@ Hoitaa [[Sandpoint Boneyard]]iä, joka sijaitsee [[Sandpoint Cathedral]]in yhtey
 ## Maininnat
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Appendix 0]]
+
+

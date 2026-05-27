@@ -1,5 +1,6 @@
 # Einar (PC)
 
+<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
 **Tyyppi:** Pelaajahahmo
 **Pelaaja:** Jouni
 **Rotu:** Puoliorkki (Half-orc)

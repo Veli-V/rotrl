@@ -1,5 +1,6 @@
 # George
 
+<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
 **Pelaaja:** Veli V
 **Rotu:** [[Varisia|Varisian]]
 **Luokka:** Inquisitor (Heretic) 

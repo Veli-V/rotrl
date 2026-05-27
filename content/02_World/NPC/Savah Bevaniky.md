@@ -1,7 +1,6 @@
-# Savah Bevaniky
+﻿# Savah Bevaniky
 
-![Savah Bevaniky](../03_Images/Savah_Bevaniky.png)
-
+<img src="../03_Images/Savah_Bevaniky.png" alt="Savah Bevaniky" class="portrait" />
 **Tyyppi:** NPC
 **Sijainti:** Sandpoint, [[Savah's Armory]]
 **Ammatti:** Asekauppias
@@ -14,3 +13,5 @@ Omistaa asekaupan nimeltä Savah's Armory. Tunnettu hyvälaatuisista aseistaan.
 
 ## Maininnat
 *   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] - Myi ryhmälle villisikakeihäitä.
+
+

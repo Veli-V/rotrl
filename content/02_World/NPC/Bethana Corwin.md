@@ -1,7 +1,6 @@
-# Bethana Corwin
+﻿# Bethana Corwin
 
-<img src="../03_Images/Bethana_Corvin.png" alt="Bethana Corwin" width="420" />
-
+<img src="../03_Images/Bethana_Corvin.png" alt="Bethana Corwin" class="portrait" />
 **Tyyppi:** NPC
 **Ammatti:** Tarjoilija ja apulainen [[The Rusty Dragon]]issa.
 **Rotu:** Puolituinen (Halfling)
@@ -13,3 +12,5 @@ Bethana on [[Ameiko Kaijitsu]]n luotettu työntekijä ja ystävä. Hän on huoli
 
 ## Maininnat
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
+
+

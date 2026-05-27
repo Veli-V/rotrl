@@ -1,7 +1,6 @@
-# Aneka Avertin
+﻿# Aneka Avertin
 
-![Aneka Avertin](../03_Images/Aneka_Avertin.png)
-
+<img src="../03_Images/Aneka_Avertin.png" alt="Aneka Avertin" class="portrait" />
 **Tyyppi:** NPC
 **Sijainti:** [[Sandpoint]]
 **Ammatti:** Myyjä [[Sandpoint Savories]] -leipomossa.
@@ -21,3 +20,5 @@
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Appendix 0]]
+
+

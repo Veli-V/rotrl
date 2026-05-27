@@ -1,7 +1,6 @@
-# Alma Avertin
+﻿# Alma Avertin
 
-![Alma Avertin](../03_Images/Alma_Avertin.png)
-
+<img src="../03_Images/Alma_Avertin.png" alt="Alma Avertin" class="portrait" />
 **Tyyppi:** NPC
 **Sijainti:** [[Sandpoint]]
 **Ammatti:** Paistaja, leipomon omistaja
@@ -21,3 +20,5 @@
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Appendix 0]]
+
+

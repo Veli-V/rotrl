@@ -1,6 +1,7 @@
 # Shelby Vinder
 
 <img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+
 **Tyyppi:** NPC
 **Sijainti:** [[Sandpoint]]
 

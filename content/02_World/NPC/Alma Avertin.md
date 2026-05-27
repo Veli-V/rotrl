@@ -1,6 +1,7 @@
 ﻿# Alma Avertin
 
 <img src="../03_Images/Alma_Avertin.png" alt="Alma Avertin" class="portrait" />
+
 **Tyyppi:** NPC
 **Sijainti:** [[Sandpoint]]
 **Ammatti:** Paistaja, leipomon omistaja

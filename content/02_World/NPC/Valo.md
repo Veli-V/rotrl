@@ -1,6 +1,7 @@
 # Valo
 
 <img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+
 **Pelaaja:** Aleksi
 **Rotu:** Aasimar
 **Luokka:** Rogue (Sanctified Rogue)

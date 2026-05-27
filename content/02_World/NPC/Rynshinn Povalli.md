@@ -1,6 +1,7 @@
 # Rynshinn Povalli
 
 <img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+
 **Tyyppi:** NPC
 **Ammatti:** Omistaja, [[Vernash Fine Clothing]].
 **Rotu:** Puolihaltia (Half-elf)

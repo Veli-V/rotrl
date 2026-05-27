@@ -1,6 +1,7 @@
 ﻿# Aldern Foxglove
 
 <img src="../03_Images/Aldern_Foxglove.png" alt="Aldern Foxglove" class="portrait" />
+
 **Tyyppi:** NPC
 **Sijainti:** Sandpoint (väliaikaisesti), kotoisin [[Magnimar]]ista
 **Ammatti:** Aatelismies

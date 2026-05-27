@@ -1,6 +1,7 @@
 ﻿# Isä Zantus (Abstalar Zantus)
 
 <img src="../03_Images/Abstalar_Zantus.png" alt="Isä Zantus" class="portrait" />
+
 **Rooli:** [[Sandpoint]]in katedraalin ylipappi.
 **Kuvaus:** [[Desna]]n pappi, joka johtaa kaupungin hengellistä elämää.
 **Tapahtumat:** 

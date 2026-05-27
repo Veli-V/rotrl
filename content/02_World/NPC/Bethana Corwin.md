@@ -1,6 +1,7 @@
 ﻿# Bethana Corwin
 
 <img src="../03_Images/Bethana_Corvin.png" alt="Bethana Corwin" class="portrait" />
+
 **Tyyppi:** NPC
 **Ammatti:** Tarjoilija ja apulainen [[The Rusty Dragon]]issa.
 **Rotu:** Puolituinen (Halfling)

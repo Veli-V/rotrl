@@ -1,6 +1,7 @@
 ﻿# Solsta Vinder
 
 <img src="../03_Images/Solsta_Vinder.png" alt="Solsta Vinder" class="portrait" />
+
 **Tyyppi:** NPC
 **Sijainti:** [[Sandpoint]]
 

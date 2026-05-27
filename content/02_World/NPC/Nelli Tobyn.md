@@ -1,6 +1,7 @@
 # Nelli Tobyn
 
 <img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+
 **Rooli:** [[Ezakien Tobyn]]in ottotytär.
 **Rotu:** [[Aasimar]]
 **Kuvaus:** Kaunis ottotytär, jonka uskottiin kuolleen samassa tulipalossa kuin isänsä. Tsuton päiväkirja kuitenkin viittaa hänen olevan elossa ja toimivan "Rakastajana".

@@ -1,6 +1,6 @@
 # Goblinit
 
-![Goblinit](../03_Images/goblins.png)
+![Goblinit](../03_Images/goblins.jpg)
 
 Goblinit näkevät maailman täysin eri tavalla kuin humanoidit. Heille maailma ei ole järjestyksen paikka, vaan vaarojen, hajujen, piilojen ja tilaisuuksien sekamelska.
 

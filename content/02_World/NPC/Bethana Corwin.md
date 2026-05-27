@@ -1,6 +1,6 @@
 # Bethana Corwin
 
-![Bethana Corwin](../03_Images/Bethana_Corvin.png)
+<img src="../03_Images/Bethana_Corvin.png" alt="Bethana Corwin" width="420" />
 
 **Tyyppi:** NPC
 **Ammatti:** Tarjoilija ja apulainen [[The Rusty Dragon]]issa.

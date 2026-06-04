@@ -8,6 +8,7 @@ Sandpointin katedraalin yhteydessä oleva hautausmaa, jota hoitaa [[Naffer Vosk]
 
 ## Tapahtumat
 * [[Ezakien Tobyn]]in hautamuistomerkkiin murtauduttiin ja hänen jäänteensä varastettiin. Muurin viereltä löytyi tikapuiden painamia, jotka viittaavat gobliinien osallisuuteen. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
+* Hautausmaalla oli vain yksi hautakammio, jossa säilytettiin Isä Tobynin jäänteitä ennen ryöstöä. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
 
 ## Maininnat
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]

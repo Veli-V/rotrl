@@ -12,9 +12,12 @@ Kaijitsun suvun omistama, Sandpointin yksi merkittävimmistä teollisuuslaitoksi
 
 *   [[Sessio 06 - Lasitehtaan salaisuudet]] - Taistelu gobliineja ja [[Tsuto Kaijitsu]]a vastaan. Kellarista löytyi vankina pidetty [[Ameiko Kaijitsu]] ja salakuljettajien tunneli, joka johtaa meren rantaan.
     - Lasitehtaalla oli töissä ainakin tusinan verran kaupunkilaisia, mutta heidät oli murhattu sänkyihinään ja ruumiit heitetty polttouuniin.
+*   [[Sessio 08 - Katakombeihin meno]] - Lasitehtaan alla sijaitsevat [[Catacombs|katakombit]] nousivat tutkimuksen kohteeksi.
 
 ## Maininnat
 *   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 *   [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 *   [[Sessio 06 - Lasitehtaan salaisuudet]]
+*   [[Sessio 08 - Katakombeihin meno]]
+*   [[Catacombs]]
 *   [[Appendix 0]]

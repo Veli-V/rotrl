@@ -36,7 +36,7 @@ Palattuaan katedraalille raportoimaan, sankarit keskustelivat Isä Zantuksen kan
 Keskustelu kääntyi Ezakienin perheeseen. Naffer kertoi tyttärestä, kauniista Aasimarista, joka oli Ezakienin ottolapsi. Tytär (jonka nimeä Naffer ei halunnut suoraan sanoa, mutta tiedämme hänen olevan [[Nelli Tobyn|Nelli]]) ei ollut nauttinut kauneutensa tuomasta huomiosta ja oli seurustellut erään [[Delek Viskanta]]n kanssa, mistä Ezakien ei ollut pitänyt. Naffer kertoi myös "Nellistä", joka oli tullut raskaaksi reilu vuosi ennen suurta tulipaloa, mutta vaikeni, kun asiat menivät liian henkilökohtaisiksi.
 
 ## Katakombit ja tikapuut
-Hautausmaan muurin viereltä löytyi tikapuiden painamia ja gobliinien jalanjälkiä, jotka johtivat kohti katakombeja. Sankarit tutkivat katakombit, mutta ne oli jo ryöstetty – eräs "alttaripöytä" oli tyhjennetty arvoesineistä. Vaikutti siltä, että gobliinit olivat käyneet siellä nopeasti ja poistuneet.
+Hautausmaan muurin viereltä löytyi tikapuiden painamia ja gobliinien jalanjälkiä. Hautausmaalla oli vain yksi hautakammio, jossa oli säilytetty Isä Tobynin jäänteitä. Sankarit jäljittivät ryöstöön liittyviä johtolankoja [[Sandpoint Glassworks|lasitehtaan]] alla sijaitseviin [[Catacombs|katakombeihin]], mutta paikka vaikutti jo ryöstetyltä ja hiljattain hylätyltä.
 
 Ryhmä palasi [[The Rusty Dragon|Rusty Dragoniin]], jossa [[George]] joutui hoitamaan [[Makkara]]n käsiä; poika oli raapinut sormensa verille yrittäessään paeta lukitusta huoneesta.
 Inko katsoo oven pielestä kummastellen.
@@ -56,4 +56,5 @@ Inko katsoo oven pielestä kummastellen.
 * [[Nelli Tobyn]]
 * [[Sandpoint Cathedral]]
 * [[Sandpoint Boneyard]]
+* [[Catacombs]]
 * [[The Rusty Dragon]]

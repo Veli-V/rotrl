@@ -6,6 +6,7 @@
 
 **[[Sandpoint]]** - *Rannikkokaupunki*
 * [[Choppers Isle|Chopper's Isle]] - *Kirottu saari*
+* [[Catacombs]] - *Katakombit lasitehtaan alla*
 * [[Curious Goblin]] - *Kirjakauppa*
 * [[Devils Platter]] - *Kalliotasanko*
 * [[Fatman's Feedbag]] - *Hämäräperäinen taverna*

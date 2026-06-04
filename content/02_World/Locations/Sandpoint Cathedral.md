@@ -2,7 +2,7 @@
 
 **Tyyppi:** Temppeli/katedraali.
 **Sijainti:** [[Sandpoint]]
-**Johtaja:** [[Isä Zantus|Abstalar Zantus]]
+**Johtaja:** [[Abstalar Zantus|Abstalar Zantus]]
 
 ## Kuvaus
 Uudessa katedraalissa palvotaan useita jumalia. Pääasiassa [[Desna]]a, mutta myös [[Abadar]]ia, [[Sarenrae]]ta, [[Shelyn]]iä, [[Gozreh]]ia ja [[Erastil]]ia.

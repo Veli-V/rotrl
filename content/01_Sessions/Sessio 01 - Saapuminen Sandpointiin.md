@@ -1,10 +1,10 @@
 # Sessio 01: Saapuminen Sandpointiin (9.2.2026)
 
-Ryhmä saapuu [[Sandpoint]]in kaupunkiin. Majoituspaikkana toimii [[Rusty Dragon Inn]], jota pyörittää [[Ameiko Kaijitsu]]. Kaupungissa valmistellaan uuden temppelin vihkiäisiä, mutta ilmassa on myös synkempää historiaa: ihmiset haluavat unohtaa menneisyyden painajaiset ja "muinaiset".
+Ryhmä saapuu [[Sandpoint]]in kaupunkiin. Majoituspaikkana toimii [[The Rusty Dragon|Rusty Dragon Inn]], jota pyörittää [[Ameiko Kaijitsu]]. Kaupungissa valmistellaan uuden temppelin vihkiäisiä, mutta ilmassa on myös synkempää historiaa: ihmiset haluavat unohtaa menneisyyden painajaiset ja "muinaiset".
 
 ## Kaupungin vaikuttajia
 *   [[Belor Hemlock]]: Sheriffi, tummapintainen ja jämäkkä.
-*   [[Isä Zantus]]: Temppelin ylipappi.
+*   [[Abstalar Zantus]]: Temppelin ylipappi.
 *   [[Niska Mvashti]]: Paikallinen mystikko ja tietäjä.
 *   [[Brodert Quink]]: Kirjastonhoitaja ja oppinut (muistiinpanoissa "Vosnut Parush"). Tunnetaan hyvästä puurostaan.
 

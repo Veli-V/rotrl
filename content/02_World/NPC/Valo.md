@@ -5,6 +5,7 @@
 **Pelaaja:** Aleksi
 **Rotu:** Aasimar
 **Luokka:** Rogue (Sanctified Rogue)
+**Tausta:** Saapui [[Sandpoint]]iin [[Magnimar]]ista. Hänen menneisyytensä on edelleen hämärän peitossa, eikä hän ole varisialaista alkuperää.
 **Rooli:** Jousipyssy
 **Erikoista:** Pelokas naisten kanssa, mutta osoittaa orastavaa kiinnostusta [[Aneka Avertin]]ia kohtaan.
 **Kohokohtia:**

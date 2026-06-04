@@ -4,13 +4,13 @@
 
 **Tyyppi:** NPC
 **Sijainti:** [[Sandpoint]]
-**Ammatti:** Paistaja, leipomon omistaja
+**Ammatti:** Leipuri, leipomon omistaja
 
 ## Kuvaus
 [[Sandpoint Savories]] -leipomon omistaja. Hoitaa leipomoa yhdessä tytärtensä kanssa.
 
 ## Perhe
-* Poika: [[Casp Avertin]] (kuollut - murhattu [[Chopper]]in toimesta)
+* Poika: Casp Avertin (kuollut - murhattu [[Chopper]]in toimesta)
 * Tytär: [[Aneka Avertin]]
 * Tytär: [[Arika Avertin]]
 

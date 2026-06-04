@@ -3,7 +3,7 @@
 <img src="../03_Images/Tsuto_Kaijitsu.png" alt="Tsuto Kaijitsu" class="portrait" />
 
 **Suku:** [[Ameiko Kaijitsu]]n velipuoli, [[Lonjiku Kaijitsu]]n edesmenneen vaimon poika.
-**Kuvaus:** Puolihaltia, jolla on ruskeat hiukset ja selkeä tianilainen (aasialainen) ulkonäkö. Hän on [[Ameiko Kaijitsu]]n velipuoli, [[Lonjiku Kaijitsu]]n edesmenneen vaimon poika. Lonjiku ei ole koskaan hyväksynyt poikaa ja lähetti hänet sisäoppilaitokseen vuosia sitten.
+**Kuvaus:** Puolihaltia, jolla on ruskeat hiukset ja selkeä [[Tian Xia|tianilainen]] ulkonäkö. Hän on [[Ameiko Kaijitsu]]n velipuoli, [[Lonjiku Kaijitsu]]n edesmenneen vaimon poika. Lonjiku ei ole koskaan hyväksynyt poikaa ja lähetti hänet sisäoppilaitokseen vuosia sitten.
 **Asema:** Tapettu [[Sandpoint Glassworks|lasitehtaalla]] [[Einar]]in toimesta.
 
 ## Kohokohtia

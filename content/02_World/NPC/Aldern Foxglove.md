@@ -16,7 +16,7 @@ Aldernin käytös ja tyyli heijastavat Magnimarin vauraampaa kaupunkikulttuuria.
 *   **Sankarit:** Kutsuu ryhmän mukaansa metsästämään ja tarjoaa kierroksen [[The Rusty Dragon]]issa.
 
 * Tarjosi seikkailijoille villisikajahdin Tickwoodin metsässä ja antoi [[Einar]]ille parannusjuoman. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
-* Antoi [[Valo]]lle riiausevinkkejä ja neuvoja aamupalalla. ([[Sessio 08 - Katakombien kutsu]])
+* Antoi [[Valo]]lle riiausevinkkejä ja neuvoja aamupalalla. Taputteli [[Inko]]a ja [[Valo]]a ystävällisesti selkään. ([[Sessio 08 - Katakombien kutsu]])
 
 ## Maininnat
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]

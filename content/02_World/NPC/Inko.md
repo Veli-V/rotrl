@@ -1,10 +1,11 @@
 # Inko
 
-<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+<img src="../03_Images/Inko_sketch.png" alt="Inko sketch" class="portrait" />
 
 **Pelaaja:** Helge
 **Rotu:** Ihminen
 **Luokka:** Sorcerer (Tattooed Sorcerer)
+**Tausta:** Mystinen hahmo, joka ei juuri kerro menneisyydestään.
 **Rooli:** Ryhmän "Face", valitettavasti.
 **Erikoista:** Käyttää diplomatiaa ja hämäystä (Deceive). Ei keskity perinteisiin vahinkoloitsuihin ("ei tulipallo pum pum").
 **Kohokohtia:**

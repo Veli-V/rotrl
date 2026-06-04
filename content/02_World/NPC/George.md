@@ -1,11 +1,11 @@
 # George
 
-<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+<img src="../03_Images/George_sketch.png" alt="George sketch" class="portrait" />
 
 **Pelaaja:** Veli V
 **Rotu:** [[Varisia|Varisian]]
 **Luokka:** Inquisitor (Heretic) 
-**Tausta:** *Bladed Scarf*, King's Man.
+**Tausta:** Entinen temppelin inkvisiittori [[Magnimar]]ista. Vanha herra, joka on löytänyt tarkoitusta temppelin ulkopuolelta. *Bladed Scarf*, King's Man.
 **Uskonto:** Varian (?) - liittynyt paikalliseen kirkkoon luonnon parista.
 **Rooli:** Tukija ja tarkkailija.
 **Kohokohtia:**

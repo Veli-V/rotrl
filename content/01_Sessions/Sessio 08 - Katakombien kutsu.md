@@ -62,6 +62,7 @@ Temppelin "vankilaosastolta" löytyi kuopan yläpuolella kulkeva silta. Varjojen
 * [[Belor Hemlock]]
 * [[Sandpoint Glassworks]]
 * [[The Rusty Dragon]]
+* [[Catacombs]]
 * [[Sinspawn]]
 * [[Alaznist]]
 * [[Thassilon]]

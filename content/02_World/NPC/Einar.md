@@ -1,13 +1,13 @@
 # Einar (PC)
 
-<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+<img src="../03_Images/Einar_sketch.png" alt="Einar sketch" class="portrait" />
 
 **Tyyppi:** Pelaajahahmo
 **Pelaaja:** Jouni
-**Rotu:** Puoliorkki (Half-orc)
+**Rotu:** Neljäsosaörkki, puoliörkin poika
 **Luokka:** Fighter
 **Rooli:** Ryhmän tankki ja etulinjan taistelija.
-**Erikoista:** Erittäin kestävä ja voimakas.
+**Erikoista:** Saapui pohjoisilta vuorilta. Toimii [[Belor Hemlock]]in apuna Swallowtail-festivaaleilla ja on "palkattu" vapaaehtoiseksi vartijaksi kaupungin kaartiin. Erittäin kestävä ja voimakas.
 **Kohokohtia:**
 * Selvitti tapahtumia [[Belor Hemlock]]in sheriffille teurastamon tulipalo-vahingoituksesta ([[Sessio 01 - Saapuminen Sandpointiin]])
 * Vartioi [[Inko]]a sellissä, kun tätä epäiltiin tupakoinnista ([[Sessio 01 - Saapuminen Sandpointiin]])

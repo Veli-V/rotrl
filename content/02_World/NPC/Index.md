@@ -14,6 +14,7 @@
 * [[Arika Avertin]] (Sandpoint Savories)
 * [[Belor Hemlock]] (Sheriffi)
 * [[Bethana Corwin]] (The Rusty Dragon)
+* [[Cyrdak Drokkus]] (Sandpoint Theater)
 * [[Chask Haladan]] (Curious Goblinin omistaja)
 * [[Chod Bevuk]] (Lihakauppias)
 * [[Das Korvut]] (Seppä)
@@ -36,6 +37,7 @@
 ### Magnimarin asukkaat
 * [[Delek Viskanta]] (Nellin entinen kumppani)
 * [[Aldern Foxglove]] (Aatelismies Magnimarista)
+* [[Allishanda]] (Oopperadiiva)
 
 ### Viholliset ja muut
 * [[Alaznist]] (Vihan riimulordi)

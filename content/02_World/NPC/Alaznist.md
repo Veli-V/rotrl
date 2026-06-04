@@ -1,6 +1,6 @@
 # Alaznist
 
-<img src="../03_Images/person-placeholder.png" alt="Alaznist" class="portrait" />
+<img src="../03_Images/Alaznist.png" alt="Alaznist" class="portrait" />
 
 **Rooli:** Muinainen [[Thassilon|Thassilonin]] riimulordi.
 **Titteli:** Vihan riimulordi (Runelord of Wrath).

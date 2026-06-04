@@ -1,3 +1,9 @@
+---
+id: Makkara
+aliases: []
+tags: []
+---
+
 # Makkara
 
 ![Maffer Vosk](../03_Images/Naffer_Vosk.png)

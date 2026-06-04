@@ -13,11 +13,13 @@
 * Hänen päiväkirjansa paljasti yhteyden [[Lamashtu-kultti]]in ja suunnitelmaan tuhota [[Sandpoint]]. Päiväkirja sisälsi yksityiskohtia hyökkäyssuunnitelmista: "quasit"-apulaisen käyttö, salakuljettajien tunnelistä tulevat iskut. ([[Sessio 06 - Lasitehtaan salaisuudet]])
 * Päiväkirjassa oli eroottisia piirustuksia eräasta naisesta ja ihmisestä, jolla oli siivet ja muita demonisia piirteitä - ilmeisesti succubi. Tsuton kirjoitusten perusteella tämä nainen oli hänen "rakkaansa" ja Sandpointin hyökkäyksen pääpahis.
 * Päiväkirjassa viitattiin demoniin nimeltä [[Malfeshnekor]].
+* Ameiko paljasti, että Tsuto yritti suostutella häntä mukaan Sandpointin tuhoamiseen ja salaperäiseen kulttiin ennen vangitsemistaan. ([[Sessio 08 - Katakombien kutsu]])
 
 ## Maininnat
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
+* [[Sessio 08 - Katakombien kutsu]]
 * [[GM_appendix_6_raw]] - Tsuton päiväkirjasivu kuvilla ja täydellisellä sisällöllä
 
 

@@ -38,6 +38,7 @@
 * [[Aldern Foxglove]] (Aatelismies Magnimarista)
 
 ### Viholliset ja muut
+* [[Alaznist]] (Vihan riimulordi)
 * [[Bruthazmus]] (Bugbear)
 * [[Ezakien Tobyn]] (Edesmennyt pappi)
 * [[Jervis Stoot]] (Chopper)

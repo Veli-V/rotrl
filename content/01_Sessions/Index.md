@@ -10,6 +10,7 @@ Tässä on lista kaikista pelatuista sessioista kronologisessa järjestyksessä.
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]] (13.4.2026) - *Metsästystä ja mysteereitä lasitehtaalla*
 * [[Sessio 06 - Lasitehtaan salaisuudet]] (20.4.2026) - *Taistelu Tsutoa vastaan ja järkyttäviä paljastuksia*
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]] (18.5.2026) - *Barett-perheen tragedia ja Ezakien Tobynin hautaryöstö*
+* [[Sessio 08 - Katakombien kutsu]] (25.5.2026) - *Tutkimuksia lasitehtaan alla ja muinaisia kauhuja*
 
 ---
 [Takaisin alkuun]([[Index]])

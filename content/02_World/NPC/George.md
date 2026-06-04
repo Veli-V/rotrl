@@ -18,6 +18,7 @@
 * Löysi varastosta piileskellyt [[Makkara]]n lasitehtaalla. ([[Sessio 06 - Lasitehtaan salaisuudet]])
 * Gobliini huusi hänelle "Kuole ukko!" ja hyökkäsi; kukisti sen kaulahuivilla yhdessä [[Inko]]n kanssa. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
 * Hoiti [[Makkara]]n verille raavitut kädet session lopussa. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
+* Kulki Inkon rinnalla lasitehtaan alla olevissa tunneleissa ja osallistui taisteluihin Sinspawnia vastaan. ([[Sessio 08 - Katakombien kutsu]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -27,3 +28,4 @@
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
+* [[Sessio 08 - Katakombien kutsu]]

@@ -16,5 +16,6 @@
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
+* [[Sessio 08 - Katakombien kutsu]]
 
 

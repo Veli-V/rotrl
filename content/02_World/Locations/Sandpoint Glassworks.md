@@ -12,9 +12,11 @@ Kaijitsun suvun omistama, Sandpointin yksi merkittävimmistä teollisuuslaitoksi
 
 *   [[Sessio 06 - Lasitehtaan salaisuudet]] - Taistelu gobliineja ja [[Tsuto Kaijitsu]]a vastaan. Kellarista löytyi vankina pidetty [[Ameiko Kaijitsu]] ja salakuljettajien tunneli, joka johtaa meren rantaan.
     - Lasitehtaalla oli töissä ainakin tusinan verran kaupunkilaisia, mutta heidät oli murhattu sänkyihinään ja ruumiit heitetty polttouuniin.
+*   [[Sessio 08 - Katakombien kutsu]] - Ryhmä palasi tehtaalle ja jatkoi salakuljettajien tunnelin tutkimista. Tunnelit johtivat syvemmälle maanalaisiin katakombeihin, joista löytyi muinaisia [[Thassilon|Thassilonin]] aikaisia rakenteita ja [[Alaznist|Alaznistin]] patsas.
 
 ## Maininnat
 *   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 *   [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 *   [[Sessio 06 - Lasitehtaan salaisuudet]]
+*   [[Sessio 08 - Katakombien kutsu]]
 *   [[Appendix 0]]

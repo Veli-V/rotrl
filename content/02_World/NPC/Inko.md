@@ -18,6 +18,7 @@
 * Osallistui taisteluun [[Sandpoint Glassworks|lasitehtaalla]]. ([[Sessio 06 - Lasitehtaan salaisuudet]])
 * Lähetti *Dancing Lights* -valopallot ryömintätilaan, paljastaen gobliinin piilostaan [[Alergast Barett|Barettien]] talossa. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
 * Kukisti gobliinin taioilla yhdessä [[George]]n kanssa. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
+* Yritti tunnistaa taikasormusta tuloksetta. Tunki Valon ja Aldernin väliin aamupalalla. Löi Sinspawnia huivillaan taistelussa ja paransi Valon haavat. Menetti yhden loitsunsa taistelun tuoksinassa. ([[Sessio 08 - Katakombien kutsu]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -27,4 +28,5 @@
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
+* [[Sessio 08 - Katakombien kutsu]]
 * [[Appendix 0]]

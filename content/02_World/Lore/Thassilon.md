@@ -26,6 +26,9 @@ Monet Thassilonin suurimmista rakennelmista ovat niin valtavia, että niiden syn
 
 * **[[Magnimar|Irespanin sillanraunio]]** — Thassilonilainen megarakennelma, jonka varjossa [[Magnimar]] on kasvanut.
 
+* **[[Sandpoint Glassworks|Lasitehtaan katakombit]]** — Sandpointin alta löytynyt muinainen temppelikokonaisuus, joka on omistettu riimulordi [[Alaznist|Alaznistille]].
+
 ## Maininnat
 
+* [[Sessio 08 - Katakombien kutsu]]
 * [[appendix_thassilon_lore]]

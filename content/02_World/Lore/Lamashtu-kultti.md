@@ -56,8 +56,12 @@ Kultin päätavoite on tuhota [[Sandpoint]].
 - Salakuljettajien tunneli löydettiin (osittain tutkittu)
 - [[Malfeshnekor]] mainittiin
 
+* [[Nelli Tobyn|Nualia]] on kultin keskeinen hahmo, joka pyrkii poistamaan "taivaallisen tahmansa" ja muuttumaan Lamashtun lapseksi. Hän uskoo, että Sandpointin polttaminen on osa tätä muodonmuutosta. ([[Sessio 08 - Katakombien kutsu]])
+
 ## Maininnat
-* [[Sessio 06 - Lasitehtaan salaisuudet]] - Paljastaminen
+* [[Sessio 06 - Lasitehtaan salaisuudet]]
+* [[Sessio 08 - Katakombien kutsu]]
+ - Paljastaminen
 * [[GM_appendix_6_raw]] - Tsuton päiväkirja kokonaisuudessaan
 * [[Tsuto Kaijitsu]] - Kultin jäsen
 * [[Malfeshnekor]] - Demon kultin palvelussa

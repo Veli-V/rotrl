@@ -45,4 +45,6 @@ Golarionin jumalaistoa. Seuraavat jumalat ovat merkityksellisiä Sandpoint-seudu
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
-* [[Appendix 0]] (Jumalten yksityiskohtaiset kuvaukset)
+* [[Sessio 08 - Katakombien kutsu]]
+* [[Appendix 0]]
+ (Jumalten yksityiskohtaiset kuvaukset)

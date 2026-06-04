@@ -19,6 +19,7 @@
 * Tiirikoi lasitehtaan oven auki. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
 * Sai *Protection from Evil* -suojan taistelussa [[Sandpoint Glassworks|lasitehtaalla]]. ([[Sessio 06 - Lasitehtaan salaisuudet]])
 * Vietti illan [[Aneka Avertin]]in kanssa simaa juoden. ([[Sessio 06 - Lasitehtaan salaisuudet]])
+* Kysyi [[Aldern Foxglove]]lta riiausevinkkejä aamupalalla. Tiirikoi lasitehtaan toisen oven auki päästäkseen vartijan ohi. Eteni etujoukoissa katakombeissa etsien ansoja. Otti osumaa ensimmäisessä taistelussa Sinspawnia vastaan. ([[Sessio 08 - Katakombien kutsu]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -27,3 +28,4 @@
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
+* [[Sessio 08 - Katakombien kutsu]]

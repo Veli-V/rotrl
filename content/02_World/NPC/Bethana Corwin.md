@@ -13,5 +13,6 @@ Bethana on [[Ameiko Kaijitsu]]n luotettu työntekijä ja ystävä. Hän on huoli
 
 ## Maininnat
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
+* [[Sessio 08 - Katakombien kutsu]]
 
 

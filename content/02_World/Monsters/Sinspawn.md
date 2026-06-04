@@ -12,6 +12,7 @@ Ihon läpi näkyy pullistuneiden suonten verkosto, joka muodostaa tummansiniset 
 
 
 ## Käytös
-
+Sinspawnit ovat vihamielisiä ja hyökkäävät välittömästi havaitessaan tunkeilijoita. Ne kykenevät parantamaan haavojaan erittäin nopeasti (regeneraatio).
 
 ## Maininnat
+* [[Sessio 08 - Katakombien kutsu]] - Ensimmäinen kohtaaminen lasitehtaan alla olevissa katakombeissa.

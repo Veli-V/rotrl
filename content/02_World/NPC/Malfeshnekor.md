@@ -11,4 +11,5 @@
 
 ## Maininnat
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
+* [[Sessio 08 - Katakombien kutsu]]
 * [[GM_appendix_6_raw]] - Täydelliset tiedot suunnitelmista

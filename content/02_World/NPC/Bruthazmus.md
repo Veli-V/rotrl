@@ -6,10 +6,12 @@
 **Kuvaus:** Pahamaineinen bugbear, joka hyökkäilee karavaanien kimppuun ja tekee yhteistyötä goblin-heimojen kanssa. Inhoaa haltijoita.
 
 ## Kohokohtia
-* Tsuton päiväkirjan mukaan Bruthazmus oli vastahakoinenToisen strategian suhteen ja piti olevansa "vain vastahakoinen ärsyttääkseen" Tsutoa.
+* Tsuton päiväkirjan mukaan Bruthazmus on yksi hyökkäyssuunnitelman osapuolista, mutta hän on jatkuvasti eri mieltä Tsuton kanssa.
+* Ameiko mainitsi hänet keskustelussa ja hänet mainittiin Tsuton päiväkirjassa vastahakoisena osapuolena. ([[Sessio 08 - Katakombien kutsu]])
 
 ## Maininnat
 * [[Sessio 02 - Swallowtail Festival]]
-* [[Sessio 03 - Pääskynpyrstö-festivaali]] (Maininta recapissa)
-* [[Sessio 06 - Lasitehtaan salaisuudet]] (Mainittu Tsuton päiväkirjassa yhtenä hyökkäykseen osallistuvista voimista)
-* [[GM_appendix_6_raw]] - Tsuton päiväkirjamainittu hänen olemuksestaan
+* [[Sessio 03 - Pääskynpyrstö-festivaali]]
+* [[Sessio 06 - Lasitehtaan salaisuudet]]
+* [[Sessio 08 - Katakombien kutsu]]
+* [[GM_appendix_6_raw]]

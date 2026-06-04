@@ -1,6 +1,6 @@
 # Kaijitsu
 
-<img src="../03_Images/lore-placeholder.png" alt="placeholder" class="portrait" />
+<img src="../03_Images/Kaijitsu.png" alt="Kaijitsu" class="portrait" />
 
 **Tyyppi:** Suku
 

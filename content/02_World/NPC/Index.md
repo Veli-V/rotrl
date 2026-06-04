@@ -20,7 +20,7 @@
 * [[Das Korvut]] (Seppä)
 * [[Garridan Viskalai]] (White Deer)
 * [[Hannah Velerin]] (Parantaja)
-* [[Isä Zantus]] (Pappi)
+* [[Abstalar Zantus]] (Pappi)
 * [[Jubrayl Vhiski]] (Fatman's Feedbag)
 * [[Kendra Deverin]] (Pormestari)
 * [[Lonjiku Kaijitsu]] (Edesmennyt ylimys)

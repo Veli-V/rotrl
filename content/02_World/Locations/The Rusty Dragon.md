@@ -1,5 +1,7 @@
 # The Rusty Dragon
 
+<img src="../03_Images/Rusty_Dragon_Inn.png" alt="Rusty Dragon" class="portrait" />
+
 **Tyyppi:** Majatalo ja taverna [[Sandpoint]]issa.
 **Omistaja:** [[Ameiko Kaijitsu]].
 **Kuvaus:** Sandpointin suosituin ja vanhin majatalo. Tunnettu erinomaisesta ruoastaan, erityisesti Ameikon valmistamasta lohesta, ja ystävällisestä ilmapiiristään. Seikkailijaystävällinen paikka, joka toimii usein seurueen tukikohtana.

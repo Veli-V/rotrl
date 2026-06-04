@@ -1,6 +1,6 @@
 # Cyrdak Drokkus
 
-<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+<img src="../03_Images/Cyrdak_Drokkus.png" alt="Cyrdak Drokkus" class="portrait" />
 
 **Tyyppi:** NPC
 **Ammatti:** [[Sandpoint Theater]]in omistaja ja johtaja

@@ -14,7 +14,7 @@ Juhla on omistettu [[Desna]]-jumalattarelle syyspäiväntasauksen kunniaksi.
 
 ## Paikalliset tavernoussuositukset (Juorut)
 *   [[White Deer Inn]]: Siisti, pohjoispuolella. Baarimikkona shoanti [[Garridan Viskalai]].
-*   [[Rusty Dragon Inn]]: Hohdokas ja suosittu (Ameiko).
+*   [[The Rusty Dragon|Rusty Dragon Inn]]: Hohdokas ja suosittu (Ameiko).
 *   [[Risa's Place]]: Rauhallinen, mausteinen tuoksu. Omistajana vanha ja lähes sokea [[Risa]], joka oli ennen sorcerer.
 *   [[The Hagfish]]: Suosittu, halvempi kuin Rusty Dragon.
 *   [[Fatman's Feedbag]]: Pahamaineinen alamaailman paikka.
@@ -36,4 +36,4 @@ Muita mainittuja uhkia:
 *   [[Gogmurt]]: Goblin-druidi.
 *   [[Bruthazmus]]: Bugbear-metsästäjä, joka hyökkäilee karavaanien kimppuun.
 
-Sessio päättyy ryhmän mennessä nukkumaan [[Rusty Dragon Inn]]iin.
+Sessio päättyy ryhmän mennessä nukkumaan [[The Rusty Dragon|Rusty Dragon Inniin]].

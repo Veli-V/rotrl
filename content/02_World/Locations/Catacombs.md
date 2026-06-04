@@ -2,6 +2,8 @@
 
 <img src="../03_Images/location_placeholder.png" alt="Catacombs" class="portrait" />
 
+![[Thassilon_riimut.png]]
+
 **Tyyppi:** Katakombit / maanalainen hautakompleksi  
 **Sijainti:** [[Sandpoint Glassworks]]in alla, [[Sandpoint]]
 
@@ -10,7 +12,7 @@ Lasitehtaan alla sijaitseva vanha maanalainen käytävästö ja hautatila, joka 
 
 ## Tapahtumat
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]] - Sankarit seurasivat goblinien jälkiä katakombeihin. Eräs "alttaripöytä" oli ryöstetty, ja paikka vaikutti hiljattain hylätyltä.
-* [[Sessio 08 - Katakombeihin meno]] - Ryhmä palasi katakombeihin selvittämään ryöstöön liittyviä johtolankoja.
+* [[Sessio 08 - Katakombien kutsu]] - Ryhmä palasi katakombeihin selvittämään ryöstöön liittyviä johtolankoja.
 
 ## Liittyvat
 * [[Sandpoint Glassworks]]
@@ -20,7 +22,7 @@ Lasitehtaan alla sijaitseva vanha maanalainen käytävästö ja hautatila, joka 
 
 ## Maininnat
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
-* [[Sessio 08 - Katakombeihin meno]]
+* [[Sessio 08 - Katakombien kutsu]]
 * [[Sandpoint Glassworks]]
 * [[Sandpoint Boneyard]]
 

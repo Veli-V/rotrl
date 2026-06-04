@@ -1,5 +1,7 @@
 # Varisia
 
+<img src="../03_Images/Varisia.png" alt="Varisia">
+
 **Tyyppi:** Alue ja kulttuurinen kokonaisuus Avistanin luoteisosassa.  
 **Keskeiset kaupungit:** [[Magnimar]], [[Sandpoint]].  
 **Kuvaus:** Karun kaunis ja osin kesyttämätön rajamaa, jossa rannikkokaupungit, vanhat tiet ja laajat erämaa-alueet kohtaavat.
@@ -25,6 +27,8 @@ Varisian alkuperäisiä kansoja ovat varisialaiset ja shoantit. Historiallisesti
 Varisialaiset ovat vaeltava kansa, jolle tie, suku ja yhteisöllinen muisti ovat keskeisiä arvoja. He liikkuvat karavaaneissa, käyvät kauppaa kaupunkien ja kylien välillä sekä välittävät uutisia ja tarinoita eri alueiden välillä.
 
 ## Kulttuuri
+
+<img src="../03_Images/Varisian.png" alt="Varisian" class="portrait" />
 
 Varisialaisessa kulttuurissa korostuvat perhe, vapaus, tarinat ja matkanteko. Musiikki, tanssi, tatuoinnit ja suullinen perinne ovat merkittävä osa identiteettiä. Monissa suvuissa harrow-kortit liittyvät ennustamiseen, perimätietoon ja rituaaleihin.
 

@@ -1,6 +1,5 @@
 # Thassilon
 
-![[Thassilon_riimut.png]]
 
 **Tyyppi:** Muinainen imperiumi
 **Sijainti:** [[Varisia]] ja sen lähialueet
@@ -15,6 +14,8 @@ Thassilon ei ollut pelkkä kansantarujen nimi, vaan todellinen muinainen imperiu
 Varisian maisemassa seisoo edelleen muinaisia raunioita, valtavia kivirakenteita, sortuneita siltoja, outoja pylväitä ja rakennelmia, joiden tekijöistä ei ole enää elävää muistoa. Useimmat eivät tunne niiden alkuperää tarkasti, mutta kaikki ymmärtävät, etteivät ne ole nykyisten kaupunkien tai kansojen rakentamia. Ne kuuluvat aikaan, jolloin maa oli toisenlainen ja suuremmat voimat muovasivat sen kasvoja.
 
 ## Riimut
+
+<img src="../03_Images/Thassilon_riimut.png" alt="Thassilon riimut" class="portrait" />
 
 Varisian kivissä, raunioissa ja joskus vanhoissa esineissä näkyy outoja riimumerkkejä. Tavallinen väki ei osaa lukea niitä, mutta niihin suhtaudutaan varauksella — ne yhdistetään vanhaan taikuuteen, unohtuneisiin hallitsijoihin, kirouksiin ja asioihin, joita on parempi olla häiritsemättä. Riimut voivat houkutella oppineita ja aarteenetsijöitä, mutta tavalliselle kulkijalle ne ovat ennen kaikkea varoitusmerkkejä.
 

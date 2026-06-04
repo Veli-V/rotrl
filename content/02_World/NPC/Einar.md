@@ -21,7 +21,7 @@
 * Tutki Ameikon huoneen ja löysi Tsuton kirjeen yhdessä [[Bethana Corwin]]in kanssa. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
 * Auttoi pahoinpidellyn [[Ameiko Kaijitsu]]n ulos lasitehtaan kellarista ja toimitti hänet [[The Rusty Dragon|Rusty Dragoniin]]. ([[Sessio 06 - Lasitehtaan salaisuudet]])
 * Vahti toipuvaa [[Ameiko Kaijitsu]]a aamulla. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
-* Mainitsi [[Isä Zantus|Isä Zantukselle]] lasitehtaan kellarista löytyneet tunnelit. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
+* Mainitsi [[Abstalar Zantus|Isä Zantukselle]] lasitehtaan kellarista löytyneet tunnelit. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
 * Keskusteli toipuvan Ameikon kanssa. Sai haltuunsa taikasormuksen (+1 AC). Löysi muinaisen [[Alaznist|Alaznistin]] patsaan luota mestarillisen keihään ([[Ranseur]]). Keräsi Sinspawnin kynnet ja oudon "vauvan käden" muistoksi. ([[Sessio 08 - Katakombien kutsu]])
 
 ## Maininnat

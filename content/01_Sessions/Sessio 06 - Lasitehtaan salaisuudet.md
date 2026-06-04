@@ -34,7 +34,7 @@ Tsuton huoneesta löytyi hänen päiväkirjansa, joka paljasti järkyttäviä as
 ## Jälkipyykkiä Rusty Dragonissa
 Ryhmä palasi [[The Rusty Dragon|The Rusty Dragoniin]]. [[Aneka Avertin]] saapui paikalle juhlavasti pukeutuneena tapaamaan [[Valo]]a, ja he viettivät iltaa yhdessä simaa juoden, vaikka päivän tapahtumat painoivatkin mieliä. [[Ameiko Kaijitsu|Ameiko]] alkoi toipua Hannahin hoidossa, mutta oli syvästi järkyttynyt veljensä petoksesta ja isänsä kuolemasta.
 
-## Liittyv\u00e4t resurssit
+## Liittyvä resurssit
 * [[GM_appendix_6_raw]] - Tsuton päiväkirja kokonaisuudessaan kuvilla ja täysin käänettynä
 
 ## Maininnat

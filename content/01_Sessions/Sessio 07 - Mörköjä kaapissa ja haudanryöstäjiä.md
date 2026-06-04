@@ -14,7 +14,7 @@ Sankarit olivat juuri kukistaneet [[Tsuto Kaijitsu]]n [[Sandpoint Glassworks|las
 ## Kutsu katedraalille
 Aamu alkoi [[The Rusty Dragon|Rusty Dragonissa]]. [[George]] ja [[Makkara]] söivät aamupalaa Georgen huoneessa, kun taas [[Einar]] vahti toipuvaa Ameikoa. [[Valo]] oli lähtenyt kaupungille. Villisikajuhlat, joita [[Aldern Foxglove]] oli suunnitellut, oli lykätty Ameikon tilan vuoksi.
 
-Majataloon saapui kalpea herrasmies, joka kertoi [[Isä Zantus|Isä Zantuksen]] haluavan tavata seikkailijat välittömästi katedraalilla. Syynä oli uusi "gobliini-ongelma". Ryhmä kerääntyi kokoon (lukiten Makkaran huoneeseen turvaan) ja suuntasi katedraalille.
+Majataloon saapui kalpea herrasmies, joka kertoi [[Abstalar Zantus|Isä Zantuksen]] haluavan tavata seikkailijat välittömästi katedraalilla. Syynä oli uusi "gobliini-ongelma". Ryhmä kerääntyi kokoon (lukiten Makkaran huoneeseen turvaan) ja suuntasi katedraalille.
 
 ## Barett-perheen tragedia
 Katedraalilla heitä oli vastassa hautausmaanhoitaja [[Naffer Vosk]], joka ohjasi heidät Zantuksen luokse. Ylipapin luona oli murtunut nainen, jonka mies, [[Alergast Barett]], oli löydetty kuolleena heidän kotoaan.
@@ -47,7 +47,7 @@ Inko katsoo oven pielestä kummastellen.
 * [[Valo]]
 * [[Makkara]]
 * [[George]]
-* [[Isä Zantus]]
+* [[Abstalar Zantus]]
 * [[Naffer Vosk]]
 * [[Alergast Barett]]
 * [[Ameiko Kaijitsu]]

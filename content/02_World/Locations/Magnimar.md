@@ -25,6 +25,14 @@ Varisialaisille Magnimar on sekä mahdollisuus että riski: kaupungissa on vahva
 * [[Aldern Foxglove]] on kotoisin Magnimarista.
 * [[Lonjiku Kaijitsu]]n huhuttiin olevan lähdössä Magnimariin ennen kuolemaansa.
 
+## Irespan
+
+Magnimarin yllä kohoava Irespan on enemmän kuin sortunut silta. Se on kaupungin vanhin, mahtavin ja arvoituksellisin maamerkki, jonka varjoon koko Magnimar on kasvanut. Se muistuttaa siitä, että kaupunki on rakennettu paljon vanhemman maailman jäänteiden päälle. Irespanin kivi, koko ja sijainti ovat muovanneet Magnimarin historiaa, kaupunkikuvaa ja mielikuvitusta alusta asti.
+
+Irespanin alla sijaitsee **Shadow**-kaupunginosa, johon valo ei juuri pääse — kaupungin synkimmät luvut kirjoitetaan siellä.
+
+Irespanin rakentajia olivat muinaisen [[Thassilon]]-imperiumin voimat, ja sen mittasuhteet kertovat aikakaudesta, jolloin jättiläiset toimivat ihmisten rinnalla.
+
 ## Kaupunginosia
 
 * **Alabaster District:** Ylhäisten sukujen alue.

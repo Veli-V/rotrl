@@ -1,5 +1,7 @@
 # Delek Viskanta
 
+<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+
 **Rooli:** Sandpointilainen asukas (entinen).
 **Kuvaus:** Mies, joka seurusteli [[Nelli Tobyn|Nellin]] kanssa ennen suurta tulipaloa. Hän on sittemmin poistunut kaupungista, ja huhujen mukaan suuntasi [[Magnimar]]iin.
 

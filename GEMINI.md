@@ -24,9 +24,10 @@ Toimi tämän ohjeen mukaan, kun käyttäjä pyytää käsittelemään uuden pel
 - Päivitä `content/01_Sessions/Index.md` lisäämällä uusi sessio listaan.
 
 ## 3. Maailman päivittäminen (World-vaihe)
-- Tunnista tekstistä uudet NPC:t, paikat ja lore-tiedot.
+- Tunnista tekstistä uudet NPC:t, olennot, paikat ja lore-tiedot.
 - Jos hahmolle/paikalle ei ole vielä tiedostoa `content/02_World/` -kansiossa, luo se.
-- Päivitä kaikkiin mainittuihin maailman tiedostoihin (NPC, Locations, Lore) **Maininnat**-osio (backlinkit) kyseiseen sessioon.
+- Päivitä kaikkiin mainittuihin maailman tiedostoihin (NPC, Locations, Monsters, Lore) **Maininnat**-osio (backlinkit) kyseiseen sessioon.
+- Mikäli tiedostossa mainittuihin aiheisiin on olemassa kuva, liitä se tiedoston alkuun. Mikäli hyvää kuvitusta ei ole, lisää *-placeholder.png kuva sivun alkuun.
 - Päivitä tarvittavat `Index.md` -tiedostot `content/02_World/` alikansioissa.
 - Päivitä `Aikajana.md` `content/02_World/Timeline/` alikansiossa perustuen sessiossa mainittuun ajan etenemiseen.
 - Päivitä pelaajahahmojen tiedostoja tarpeen tullen. Erityisesti "Kohokohtia" on hyvä lisätä. Einar, Inko, Valo, George sekä Makkara ovat pelaajahahmoja.

@@ -1,6 +1,6 @@
 # Goblinit
 
-![Goblinit](../03_Images/goblins.png)
+![Goblinit](../03_Images/goblins.jpg)
 
 Goblinit näkevät maailman täysin eri tavalla kuin humanoidit. Heille maailma ei ole järjestyksen paikka, vaan vaarojen, hajujen, piilojen ja tilaisuuksien sekamelska.
 
@@ -103,7 +103,7 @@ Goblin ei yleensä määrittele itseään sukuluetteloilla tai oppineilla kertom
 
 Goblinien identiteetti on **äänekäs, yhteisöllinen, kaoottinen ja hyvin elävä**.
 
-## Liittyvät resurssit
+## Maininnat
 * [[Goblin-heimot]] - Viisi pääasiassa Sandpoint-alueella vaikuttavaa goblin-heimoa
 * [[Sessio 02 - Swallowtail Festival]] - Thistletop-heimon hyökkäys festivaalissa
 * [[Sessio 03 - Pääskynpyrstö-festivaali]] - Goblinien rooli festivaalin tapahtumissa

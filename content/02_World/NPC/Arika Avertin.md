@@ -1,6 +1,6 @@
-# Arika Avertin
+﻿# Arika Avertin
 
-![Arika Avertin](../03_Images/Aneka_Avertin.png)
+<img src="../03_Images/Aneka_Avertin.png" alt="Arika Avertin" class="portrait" />
 
 **Tyyppi:** NPC
 **Sijainti:** [[Sandpoint]]
@@ -21,3 +21,5 @@
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Appendix 0]]
+
+

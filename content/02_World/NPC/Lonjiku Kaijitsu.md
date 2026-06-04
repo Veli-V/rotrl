@@ -1,6 +1,6 @@
-# Lonjiku Kaijitsu
+﻿# Lonjiku Kaijitsu
 
-![Lonjiku Kaijitsu](../03_Images/Lonjiku_Kaijitsu.png)
+<img src="../03_Images/Lonjiku_Kaijitsu.png" alt="Lonjiku Kaijitsu" class="portrait" />
 
 **Suku:** [[Ameiko Kaijitsu]]n isä ja [[Tsuto Kaijitsu]]n isäpuoli. Yksi Sandpointin neljästä perustajasuvusta.
 **Asema:** Edesmennyt Sandpointin ylimys, [[Sandpoint Glassworks]]in omistaja.
@@ -16,3 +16,5 @@
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
+
+

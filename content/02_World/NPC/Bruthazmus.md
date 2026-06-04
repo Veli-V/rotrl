@@ -1,5 +1,7 @@
 # Bruthazmus
 
+<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+
 **Rooli:** Bugbear-metsästäjä.
 **Kuvaus:** Pahamaineinen bugbear, joka hyökkäilee karavaanien kimppuun ja tekee yhteistyötä goblin-heimojen kanssa. Inhoaa haltijoita.
 

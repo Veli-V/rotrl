@@ -1,4 +1,6 @@
-# Valo
+# Valo Sarenrae
+
+<img src="../03_Images/Valo_Sarenrae.png" alt="Valo Sarenrae" class="portrait" />
 
 **Pelaaja:** Aleksi
 **Rotu:** Aasimar

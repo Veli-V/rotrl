@@ -1,5 +1,7 @@
 # Inko
 
+<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+
 **Pelaaja:** Helge
 **Rotu:** Ihminen
 **Luokka:** Sorcerer (Tattooed Sorcerer)

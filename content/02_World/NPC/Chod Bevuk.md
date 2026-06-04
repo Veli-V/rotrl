@@ -1,6 +1,6 @@
-# Chod Bevuk
+﻿# Chod Bevuk
 
-![Chod Bevuk](../03_Images/Chod_Bevuk.png)
+<img src="../03_Images/Chod_Bevuk.png" alt="Chod Bevuk" class="portrait" />
 
 **Tyyppi:** NPC
 **Sijainti:** [[Sandpoint]]
@@ -13,3 +13,5 @@ Meat Marketin lihakauppias Sandpointissa. Häneltä puuttuu vasemmasta kädestä
 * [[Sandpoint Meat Market]] - Lihakauppa Sandpointissa
 
 ## Maininnat
+
+

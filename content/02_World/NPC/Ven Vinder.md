@@ -1,6 +1,6 @@
-# Ven Vinder
+﻿# Ven Vinder
 
-![Ven Vinder](../03_Images/Ven_vinder.png)
+<img src="../03_Images/Ven_vinder.png" alt="Ven Vinder" class="portrait" />
 
 **Rooli:** Sandpointin sekatavarakauppias (Sandpoint General Store).
 **Kuvaus:** Arvostettu kauppias ja perheenisä. Myy muun muassa [[Two Knights Brewery]] -panimon oluita.
@@ -8,3 +8,5 @@
 
 ## Maininnat
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
+
+

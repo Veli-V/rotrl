@@ -1,5 +1,7 @@
 # Ezakien Tobyn
 
+<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+
 **Rooli:** Entinen Sandpointin korkea pappi.
 **Kuvaus:** Sandpointin katedraalin entinen pappi, joka kuoli traagisessa tulipalossa viisi vuotta sitten. Hänen ottotyttärensä oli kaunis Aasimar nimeltä [[Nelli Tobyn|Nelli]], joka myös menehtyi Sandpointin temppelin palossa.
 

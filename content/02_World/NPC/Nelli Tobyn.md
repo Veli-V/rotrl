@@ -1,4 +1,6 @@
-# Nelli Tobyn (Nelli Tobyn)
+# Nelli Tobyn
+
+<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
 
 **Rooli:** [[Ezakien Tobyn]]in ottotytär.
 **Rotu:** [[Aasimar]]

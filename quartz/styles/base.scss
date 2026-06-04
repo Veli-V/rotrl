@@ -560,6 +560,12 @@ img {
   content-visibility: auto;
 }
 
+img.portrait {
+  width: 350px;
+  max-width: 100%;
+  height: auto;
+}
+
 p > img + em {
   display: block;
   transform: translateY(-1rem);

@@ -1,6 +1,6 @@
-# Shayliss Vinder
+﻿# Shayliss Vinder
 
-![Shayliss Vinder](../03_Images/Shayliss_Vinder.png)
+<img src="../03_Images/Shayliss_Vinder.png" alt="Shayliss Vinder" class="portrait" />
 
 **Rooli:** [[Ven Vinder]]in ja [[Solsta Vinder]]in tytär.
 **Kuvaus:** Punatukkainen ja eläväinen nuori nainen.
@@ -9,3 +9,5 @@
 ## Maininnat
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Appendix 0]]
+
+

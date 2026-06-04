@@ -1,6 +1,6 @@
-# Tsuto Kaijitsu
+﻿# Tsuto Kaijitsu
 
-![Tsuto Kaijitsu](../03_Images/Tsuto_Kaijitsu.png)
+<img src="../03_Images/Tsuto_Kaijitsu.png" alt="Tsuto Kaijitsu" class="portrait" />
 
 **Suku:** [[Ameiko Kaijitsu]]n velipuoli, [[Lonjiku Kaijitsu]]n edesmenneen vaimon poika.
 **Kuvaus:** Puolihaltia, jolla on ruskeat hiukset ja selkeä tianilainen (aasialainen) ulkonäkö. Hän on [[Ameiko Kaijitsu]]n velipuoli, [[Lonjiku Kaijitsu]]n edesmenneen vaimon poika. Lonjiku ei ole koskaan hyväksynyt poikaa ja lähetti hänet sisäoppilaitokseen vuosia sitten.
@@ -19,3 +19,5 @@
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[GM_appendix_6_raw]] - Tsuton päiväkirjasivu kuvilla ja täydellisellä sisällöllä
+
+

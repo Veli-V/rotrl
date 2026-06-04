@@ -1,6 +1,6 @@
-# Garridan Viskalai
+﻿# Garridan Viskalai
 
-![Garridan Viskalai](../03_Images/Garridan_Viskalai.png)
+<img src="../03_Images/Garridan_Viskalai.png" alt="Garridan Viskalai" class="portrait" />
 
 **Tyyppi:** NPC
 **Sijainti:** [[Sandpoint]]
@@ -11,3 +11,5 @@
 
 ## Maininnat
 * [[Appendix 0]]
+
+

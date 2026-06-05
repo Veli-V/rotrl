@@ -15,7 +15,7 @@ Lamashtu-kultti on pahuuden liikkeelle omistautuneita seuraajia, jotka pyrkivät
 - **Rooli:** Hyökkäyksen koordinaattori ja goblinien johtaja
 - Tapettu [[Sessio 06 - Lasitehtaan salaisuudet]] -istunnossa
 
-### Succubi (nimetön)
+### [[Nelli Tobyn]]
 - Ezakien Tobyn tytär, Aasimar joka muuttui demoneksi
 - Tsuton "rakkaus" ja kultin tärkeä johtaja
 - Omistautunut Lamashtulle ja pyrki poistamaan "taivaallisen tahransa" korvaamalla sen "Äidin armolla/lahjalla"
@@ -56,7 +56,7 @@ Kultin päätavoite on tuhota [[Sandpoint]].
 - Salakuljettajien tunneli löydettiin (osittain tutkittu)
 - [[Malfeshnekor]] mainittiin
 
-* [[Nelli Tobyn|Nualia]] on kultin keskeinen hahmo, joka pyrkii poistamaan "taivaallisen tahmansa" ja muuttumaan Lamashtun lapseksi. Hän uskoo, että Sandpointin polttaminen on osa tätä muodonmuutosta. ([[Sessio 08 - Katakombien kutsu]])
+* [[Nelli Tobyn|Nelli]] on kultin keskeinen hahmo, joka pyrkii poistamaan "taivaallisen tahmansa" ja muuttumaan Lamashtun lapseksi. Hän uskoo, että Sandpointin polttaminen on osa tätä muodonmuutosta. ([[Sessio 08 - Katakombien kutsu]])
 
 ## Maininnat
 * [[Sessio 06 - Lasitehtaan salaisuudet]]

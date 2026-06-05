@@ -16,10 +16,10 @@ Myöhäisenä iltana aurinko oli jo laskenut, kun ryhmä palasi [[The Rusty Drag
 
 Ameiko paljasti, ettei hän tiennyt isänsä osallisuudesta lasitehtaan tapahtumiin tai gobliinien hyökkäykseen. Tsuto oli kuitenkin tiennyt enemmän; hän oli yrittänyt suostutella Ameikon mukaan Sandpointin tuhoamiseen ja salaperäiseen kulttiin. Ameikon kieltäydyttyä Tsuto oli hyökännyt hänen kimppuunsa ja vanginnut hänet.
 
-## Tsuton päiväkirja ja Nualia
-Tsuton päiväkirjasta (ks. [[GM_appendix_6_raw]]) paljastui synkkiä yksityiskohtia. Hyökkäys katedraalille oli vain alku. Tobynin jäänteet oli varastettu poltettavaksi Thistletopin pyhäkössä, mikä liittyisi [[Nelli Tobyn|Nualian]] (tai Nallan) muodonmuutokseen. Nualia uskoi voivansa poistaa "taivaallisen tahmansa" (Aasimar-perimänsä) ja korvata sen [[Lamashtu]]-äidin armolla. Päiväkirjassa mainittiin myös salaperäinen **quasit**, jonka kummajaiset voisivat hyökätä lasitehtaan alta, sekä olento nimeltä [[Malfeshnekor]].
+## Tsuton päiväkirja ja Nelli
+Tsuton päiväkirjasta (ks. [[GM_appendix_6_raw]]) paljastui synkkiä yksityiskohtia. Hyökkäys katedraalille oli vain alku. Tobynin jäänteet oli varastettu poltettavaksi Thistletopin pyhäkössä, mikä liittyisi [[Nelli Tobyn|Nellin]] muodonmuutokseen. Nelli uskoi voivansa poistaa "taivaallisen tahmansa" (Aasimar-perimänsä) ja korvata sen [[Lamashtu]]-äidin armolla. Päiväkirjassa mainittiin myös salaperäinen **quasit**, jonka kummajaiset voisivat hyökätä lasitehtaan alta, sekä olento nimeltä [[Malfeshnekor]].
 
-Ameiko kertoi muistavansa Nualian kauniina aasimarna, jota kyläläiset osin kadehtivat ja osin pelkäsivät. Huhuttiin myös, että hän olisi ollut raskaana ennen katoamistaan suuressa tulipalossa.
+Ameiko kertoi muistavansa Nellin kauniina aasimaria, jota kyläläiset osin kadehtivat ja osin pelkäsivät. Huhuttiin myös, että hän olisi ollut raskaana ennen katoamistaan suuressa tulipalossa.
 
 ## Suunnittelua ja aamu
 Ryhmä keskusteli jatkosta. Einar halusi tutkia lasitehtaan alta löytyneet tunnelit välittömästi, mutta [[Inko]] piti riskiä liian suurena. [[Valo]] puolestaan mietti varojen keräämistä, kenties kihlat mielessään. Inko ja Valo yrittivät tunnistaa Tsutolta löydettyä sormusta, mutta epäonnistuivat. Einar laittoi sormuksen sormeensa ja tunsi olonsa suojatummaksi (+1 AC).
@@ -55,7 +55,7 @@ Temppelin "vankilaosastolta" löytyi kuopan yläpuolella kulkeva silta. Varjojen
 * [[Makkara]]
 * [[Ameiko Kaijitsu]]
 * [[Tsuto Kaijitsu]]
-* [[Nelli Tobyn|Nualia]]
+* [[Nelli Tobyn|Nelli]]
 * [[Lonjiku Kaijitsu]]
 * [[Aldern Foxglove]]
 * [[Bethana Corwin]]

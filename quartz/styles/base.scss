@@ -566,6 +566,13 @@ img.portrait {
   height: auto;
 }
 
+img.deity-picture,
+img.diety-picture {
+  width: 175px;
+  max-width: 100%;
+  height: auto;
+}
+
 p > img + em {
   display: block;
   transform: translateY(-1rem);

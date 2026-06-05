@@ -1,5 +1,7 @@
 # Risa's Place
 
+<img src="../03_Images/location-placeholder.png" alt="Risa's Place" class="portrait" />
+
 **Tyyppi:** Taverna/Kahvila.
 **Sijainti:** [[Sandpoint]]
 **Omistaja:** [[Risa Margavi]]

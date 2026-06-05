@@ -1,5 +1,7 @@
 # Goblin Squash Stables
 
+<img src="../03_Images/location-placeholder.png" alt="Goblin Squash Stables" class="portrait" />
+
 **Tyyppi:** Hevostalli.
 **Omistaja:** Daviren Hosk
 **Sijainti:** [[Sandpoint]]

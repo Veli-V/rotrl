@@ -1,5 +1,7 @@
 # Sandpoint Savories
 
+<img src="../03_Images/location-placeholder.png" alt="Sandpoint Savories" class="portrait" />
+
 **Tyyppi:** Leipomo ja ruokakauppa.
 **Sijainti:** [[Sandpoint]]
 

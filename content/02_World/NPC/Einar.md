@@ -6,6 +6,7 @@
 **Pelaaja:** Jouni
 **Rotu:** Neljäsosaörkki, puoliörkin poika
 **Luokka:** Fighter
+**Jumala:** [[Abadar]]
 **Rooli:** Ryhmän tankki ja etulinjan taistelija.
 **Erikoista:** Saapui pohjoisilta vuorilta. Toimii [[Belor Hemlock]]in apuna Swallowtail-festivaaleilla ja on "palkattu" vapaaehtoiseksi vartijaksi kaupungin kaartiin. Erittäin kestävä ja voimakas.
 **Kohokohtia:**

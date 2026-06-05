@@ -1,5 +1,7 @@
 # Red Dog Smithy
 
+<img src="../03_Images/location-placeholder.png" alt="Red Dog Smithy" class="portrait" />
+
 **Tyyppi:** Sepän verstas.
 **Sijainti:** [[Sandpoint]]
 **Omistaja:** [[Das Korvut]]

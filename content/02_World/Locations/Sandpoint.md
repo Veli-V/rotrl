@@ -1,6 +1,7 @@
 # Sandpoint
 
-![Sandpoint](../03_Images/Sandpoint.jpg)
+<img src="../03_Images/Sandpoint.jpg" alt="Sandpoint" class="full-page-image" />
+
 
 **Tyyppi:** Rannikkokaupunki [[Varisia]]ssa.
 **Asukasluku:** 1260
@@ -10,7 +11,7 @@
 *   Sheriffi [[Belor Hemlock]]
 **Historia:** Tunnettu "Myöhäisestä epämiellyttävyydestä" (Late Unpleasantness), johon kuuluivat [[Chopper]]in murhat ja suuri tulipalo.
 
-![Sandpoint kartta](../03_Images/Sandpoint_Map.jpg)
+<img src="../03_Images/Sandpoint_Map.jpg" alt="Sandpoint kartta" class="full-page-image" />
 
 1. [[Sandpoint Cathedral]]
 2. [[Sandpoint Boneyard]]

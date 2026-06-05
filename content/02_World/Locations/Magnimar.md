@@ -1,4 +1,7 @@
 # Magnimar
+
+<img src="../03_Images/Magnimar.png" alt="Magnimar"  class="full-page-image" />
+
 **Sijainti:** [[Varisia]], Lost Coastin eteläreuna, Yondabakari-joen suu.
 **Tyyppi:** Suuri vapaakaupunki ja satamakaupunki.
 

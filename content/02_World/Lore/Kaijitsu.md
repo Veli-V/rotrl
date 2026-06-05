@@ -1,6 +1,6 @@
 # Kaijitsu
 
-<img src="../03_Images/Kaijitsu.png" alt="Kaijitsu" class="portrait" />
+<img src="../03_Images/Kaijitsu.png" alt="Kaijitsu" class="full-page-image" />
 
 **Tyyppi:** Suku
 

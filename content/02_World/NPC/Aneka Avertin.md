@@ -15,11 +15,13 @@
 * Veli: [[Casp Avertin]] (kuollut)
 
 ## Kohokohtia
-* [[Valo]] yritti suudella häntä, mutta osuikin vahingossa siskoon. Lopulta suostui Valon illalliskutsuun. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
+* [[Valo]] yritti antaa Anekalle poskipusun, mutta osui hämmennyksissään vahingossa tämän siskoon [[Arika Avertin|Arikaan]]. Aneka seurasi pahoillaan olevaa Valoa ulos ja suostui lopulta tämän illalliskutsuun. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
 
 ## Maininnat
+* [[Sessio 02 - Swallowtail Festival]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
+* [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Appendix 0]]
 
 

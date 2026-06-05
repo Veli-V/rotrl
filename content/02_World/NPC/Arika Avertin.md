@@ -18,7 +18,7 @@
 * Joutui [[Valo]]n erehdyksessä antaman poskipusun kohteeksi. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
 
 ## Maininnat
-* [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+* [[Sessio 02 - Swallowtail Festival]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Appendix 0]]
 

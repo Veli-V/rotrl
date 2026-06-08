@@ -1,4 +1,10 @@
-﻿# Aneka Avertin
+﻿---
+id: Aneka Avertin
+aliases: []
+tags: []
+---
+
+# Aneka Avertin
 
 <img src="../03_Images/Aneka_Avertin.png" alt="Aneka Avertin" class="portrait" />
 

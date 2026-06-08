@@ -1,6 +1,6 @@
 # The Rusty Dragon
 
-<img src="../03_Images/Rusty_Dragon_Inn.png" alt="Rusty Dragon" class="portrait" />
+<img src="../03_Images/Rusty_Dragon_Inn.png" alt="Rusty Dragon" class="full-page-image" />
 
 **Tyyppi:** Majatalo ja taverna [[Sandpoint]]issa.
 **Omistaja:** [[Ameiko Kaijitsu]].

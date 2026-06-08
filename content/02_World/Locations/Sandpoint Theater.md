@@ -1,5 +1,7 @@
 # Sandpoint Theater
 
+<img src="../03_Images/location-placeholder.png" alt="Sandpoint Theater" class="portrait" />
+
 **Tyyppi:** Teatteri.
 **Sijainti:** [[Sandpoint]]
 **Omistaja:** [[Cyrdak Drokkus]]

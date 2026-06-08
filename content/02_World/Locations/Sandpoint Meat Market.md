@@ -1,5 +1,7 @@
 # Sandpoint Meat Market
 
+<img src="../03_Images/location-placeholder.png" alt="Sandpoint Meat Market" class="portrait" />
+
 **Tyyppi:** Lihakauppa.
 **Sijainti:** [[Sandpoint]]
 **Omistaja:** [[Chod Bevuk]]

@@ -1,5 +1,7 @@
 # Sandpoint Boneyard
 
+<img src="../03_Images/location-placeholder.png" alt="Sandpoint Boneyard" class="portrait" />
+
 **Tyyppi:** Hautausmaa
 **Sijainti:** [[Sandpoint Cathedral]] yhteydessä, [[Sandpoint]].
 

@@ -6,7 +6,7 @@ tags: ["npc", "sandpoint"]
 
 # Rynshinn Povalli
 
-<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+<img src="../03_Images/Rynshinn_Povalli.png" alt="Rynshinn Povalli" class="portrait" />
 
 **Tyyppi:** NPC
 **Ammatti:** Omistaja, [[Vernash Fine Clothing]].

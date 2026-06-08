@@ -1,5 +1,7 @@
 # Chopper's Isle
 
+<img src="../03_Images/location-placeholder.png" alt="Chopper's Isle" class="portrait" />
+
 **Tyyppi:** Saari/Raunio.
 **Sijainti:** [[Sandpoint]]in lähellä, merellä.
 

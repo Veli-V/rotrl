@@ -28,7 +28,7 @@ Varisialaiset ovat vaeltava kansa, jolle tie, suku ja yhteisöllinen muisti ovat
 
 ## Kulttuuri
 
-<img src="../03_Images/Varisian.png" alt="Varisian" class="portrait" />
+<img src="../03_Images/Varisian.png" alt="Varisian" class="diety-picture" />
 
 Varisialaisessa kulttuurissa korostuvat perhe, vapaus, tarinat ja matkanteko. Musiikki, tanssi, tatuoinnit ja suullinen perinne ovat merkittävä osa identiteettiä. Monissa suvuissa harrow-kortit liittyvät ennustamiseen, perimätietoon ja rituaaleihin.
 

@@ -1,5 +1,7 @@
 # Vernash Fine Clothing
 
+<img src="../03_Images/location-placeholder.png" alt="Vernash Fine Clothing" class="portrait" />
+
 **Tyyppi:** Vaatekauppa.
 **Sijainti:** [[Sandpoint]].
 **Omistaja:** [[Rynshinn Povalli]]

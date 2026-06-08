@@ -6,7 +6,7 @@ tags: ["npc", "sandpoint"]
 
 # Shelby Vinder
 
-<img src="../03_Images/Shelby_Vinder.png" alt="Shelby Vinder" class="portrait" 
+<img src="../03_Images/Shelby_Vinder.png" alt="Shelby Vinder" class="portrait" />
 
 **Tyyppi:** NPC
 **Sijainti:** [[Sandpoint]]

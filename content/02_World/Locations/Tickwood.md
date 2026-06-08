@@ -1,5 +1,7 @@
 # Tickwood
 
+<img src="../03_Images/location-placeholder.png" alt="Tickwood" class="portrait" />
+
 **Tyyppi:** Sijainti
 **Sijainti:** [[Sandpoint]]in kaakkoispuolella, joen toisella puolella.
 

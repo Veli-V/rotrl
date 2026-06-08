@@ -1,5 +1,7 @@
 # Goblin-heimot
 
+<img src="../03_Images/goblins.jpg" alt="Goblinit" class="full-page-image" />
+
 [[Sandpoint]]in ympäristössä vaikuttaa viisi suurta goblin-heimoa:
 
 1.  **[[Birdcruncher]]**: Asuvat Devil's Platterin läntisissä luolistoissa lännessä. Tunnettuja lintujen metsästyksestä ja syömisestä.

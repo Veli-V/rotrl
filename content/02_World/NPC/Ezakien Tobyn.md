@@ -1,3 +1,9 @@
+﻿---
+id: Ezakien Tobyn
+aliases: []
+tags: ["npc"]
+---
+
 # Ezakien Tobyn
 
 <img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
@@ -13,3 +19,4 @@
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[GM_appendix_6_raw]] - Sisältää tiedot katedraalin palosta ja kuolemasta
+

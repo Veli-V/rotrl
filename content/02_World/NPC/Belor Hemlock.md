@@ -1,4 +1,10 @@
-﻿# Belor Hemlock
+﻿---
+id: Belor Hemlock
+aliases: []
+tags: ["npc", "sandpoint"]
+---
+
+# Belor Hemlock
 
 <img src="../03_Images/Belor_Hemlock.png" alt="Belor Hemlock" class="portrait" />
 
@@ -10,5 +16,6 @@
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+
 
 

@@ -1,7 +1,7 @@
-﻿---
+---
 id: Aneka Avertin
 aliases: []
-tags: []
+tags: ["npc", "sandpoint"]
 ---
 
 # Aneka Avertin

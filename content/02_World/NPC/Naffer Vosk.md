@@ -1,4 +1,10 @@
-﻿# Naffer Vosk
+﻿---
+id: Naffer Vosk
+aliases: []
+tags: ["npc", "sandpoint"]
+---
+
+# Naffer Vosk
 
 <img src="../03_Images/Naffer_Vosk.png" alt="Maffer Vosk" class="portrait" />
 
@@ -16,5 +22,6 @@ Hoitaa [[Sandpoint Boneyard]]iä, joka sijaitsee [[Sandpoint Cathedral]]in yhtey
 ## Maininnat
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Appendix 0]]
+
 
 

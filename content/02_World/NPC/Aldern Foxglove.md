@@ -1,4 +1,10 @@
-﻿# Aldern Foxglove
+﻿---
+id: Aldern Foxglove
+aliases: []
+tags: ["npc"]
+---
+
+# Aldern Foxglove
 
 <img src="../03_Images/Aldern_Foxglove.png" alt="Aldern Foxglove" class="portrait" />
 
@@ -22,5 +28,6 @@ Aldernin käytös ja tyyli heijastavat Magnimarin vauraampaa kaupunkikulttuuria.
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Sessio 08 - Katakombien kutsu]]
+
 
 

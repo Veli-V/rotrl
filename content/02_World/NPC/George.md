@@ -1,3 +1,9 @@
+﻿---
+id: George
+aliases: []
+tags: ["pc"]
+---
+
 # George
 
 <img src="../03_Images/George_sketch.png" alt="George sketch" class="portrait" />
@@ -29,3 +35,4 @@
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
+

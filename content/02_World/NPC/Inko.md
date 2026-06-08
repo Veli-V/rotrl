@@ -1,3 +1,9 @@
+﻿---
+id: Inko
+aliases: []
+tags: ["pc"]
+---
+
 # Inko
 
 <img src="../03_Images/Inko_sketch.png" alt="Inko sketch" class="portrait" />
@@ -31,3 +37,4 @@
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Appendix 0]]
+

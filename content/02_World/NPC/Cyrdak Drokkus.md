@@ -1,3 +1,9 @@
+﻿---
+id: Cyrdak Drokkus
+aliases: ["Cydrak Drokkus"]
+tags: ["npc", "sandpoint"]
+---
+
 # Cyrdak Drokkus
 
 <img src="../03_Images/Cyrdak_Drokkus.png" alt="Cyrdak Drokkus" class="portrait" />
@@ -13,3 +19,4 @@
 ## Maininnat
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
+

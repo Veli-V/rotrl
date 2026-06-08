@@ -1,4 +1,10 @@
-﻿# Lonjiku Kaijitsu
+﻿---
+id: Lonjiku Kaijitsu
+aliases: []
+tags: ["npc", "sandpoint", "dead"]
+---
+
+# Lonjiku Kaijitsu
 
 <img src="../03_Images/Lonjiku_Kaijitsu.png" alt="Lonjiku Kaijitsu" class="portrait" />
 
@@ -17,5 +23,6 @@
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 08 - Katakombien kutsu]]
+
 
 

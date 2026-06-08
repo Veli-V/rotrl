@@ -1,4 +1,10 @@
-﻿# Garridan Viskalai
+﻿---
+id: Garridan Viskalai
+aliases: []
+tags: ["npc", "sandpoint"]
+---
+
+# Garridan Viskalai
 
 <img src="../03_Images/Garridan_Viskalai.png" alt="Garridan Viskalai" class="portrait" />
 
@@ -11,5 +17,6 @@
 
 ## Maininnat
 * [[Appendix 0]]
+
 
 

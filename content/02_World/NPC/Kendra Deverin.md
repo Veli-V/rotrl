@@ -1,4 +1,10 @@
-﻿# Kendra Deverin
+﻿---
+id: Kendra Deverin
+aliases: []
+tags: ["npc", "sandpoint"]
+---
+
+# Kendra Deverin
 
 <img src="../03_Images/Kendra_Deverin.png" alt="Kendra Deverin" class="portrait" />
 
@@ -7,5 +13,6 @@
 
 ## Maininnat
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
+
 
 

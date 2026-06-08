@@ -1,7 +1,7 @@
----
+﻿---
 id: Makkara
 aliases: []
-tags: []
+tags: ["npc", "sandpoint"]
 ---
 
 # Makkara
@@ -20,3 +20,4 @@ tags: []
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
+

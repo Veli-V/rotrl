@@ -1,3 +1,9 @@
+﻿---
+id: Rynshinn Povalli
+aliases: []
+tags: ["npc", "sandpoint"]
+---
+
 # Rynshinn Povalli
 
 <img src="../03_Images/Rynshinn_Povalli.png" alt="Rynshinn Povalli" class="portrait" />
@@ -13,3 +19,4 @@ Rynshinn pyörittää Sandpointin hienointa vaateliikettä. Hänen äitinsä oli
 
 ## Maininnat
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
+

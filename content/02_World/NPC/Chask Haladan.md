@@ -1,4 +1,10 @@
-﻿# Chask Haladan
+﻿---
+id: Chask Haladan
+aliases: ["Jusk Haladan"]
+tags: ["npc", "sandpoint"]
+---
+
+# Chask Haladan
 
 <img src="../03_Images/Chask_Haladan.png" alt="Chask Haladan" class="portrait" />
 
@@ -14,5 +20,6 @@ Curious Goblinin omistaja ja kauppias Sandpointissa. Hän on kanta-asiakas [[Whi
 
 ## Maininnat
 * [[Appendix 0]]
+
 
 

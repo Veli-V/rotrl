@@ -1,4 +1,10 @@
-﻿# Vachedi
+﻿---
+id: Vachedi
+aliases: []
+tags: ["npc", "sandpoint"]
+---
+
+# Vachedi
 
 <img src="../03_Images/Vachedi.png" alt="Vachedi" class="portrait" />
 
@@ -13,5 +19,6 @@ Shoanti-sotilas, joka toimii [[Belor Hemlock]]in vasemman käden apulaisena [[Sa
 ## Maininnat
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Appendix 0]]
+
 
 

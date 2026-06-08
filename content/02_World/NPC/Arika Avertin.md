@@ -1,7 +1,7 @@
-﻿---
+---
 id: Arika Avertin
 aliases: []
-tags: []
+tags: ["npc", "sandpoint"]
 ---
 
 # Arika Avertin

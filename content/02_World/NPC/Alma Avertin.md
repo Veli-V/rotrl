@@ -1,4 +1,10 @@
-﻿# Alma Avertin
+﻿---
+id: Alma Avertin
+aliases: []
+tags: ["npc", "sandpoint"]
+---
+
+# Alma Avertin
 
 <img src="../03_Images/Alma_Avertin.png" alt="Alma Avertin" class="portrait" />
 
@@ -21,5 +27,6 @@
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Appendix 0]]
+
 
 

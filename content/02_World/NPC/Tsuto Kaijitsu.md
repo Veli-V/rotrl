@@ -1,4 +1,10 @@
-﻿# Tsuto Kaijitsu
+﻿---
+id: Tsuto Kaijitsu
+aliases: []
+tags: ["npc", "dead"]
+---
+
+# Tsuto Kaijitsu
 
 <img src="../03_Images/Tsuto_Kaijitsu.png" alt="Tsuto Kaijitsu" class="portrait" />
 
@@ -21,5 +27,6 @@
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[GM_appendix_6_raw]] - Tsuton päiväkirjasivu kuvilla ja täydellisellä sisällöllä
+
 
 

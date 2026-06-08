@@ -1,3 +1,9 @@
+﻿---
+id: Delek Viskanta
+aliases: []
+tags: ["npc"]
+---
+
 # Delek Viskanta
 
 <img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
@@ -10,3 +16,4 @@
 
 ## Maininnat
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
+

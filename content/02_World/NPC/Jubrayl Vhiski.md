@@ -1,3 +1,9 @@
+﻿---
+id: Jubrayl Vhiski
+aliases: []
+tags: ["npc", "sandpoint"]
+---
+
 # Jubrayl Vhiski
 
 <img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
@@ -11,3 +17,4 @@ Tunnettu hämäräperäinen henkilö, johon liitetään "pahoja juttuja". Hänt�
 
 ## Maininnat
 *   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] - Mainittiin Fatman's Feedbagissa.
+

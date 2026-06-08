@@ -1,3 +1,9 @@
+﻿---
+id: Einar
+aliases: []
+tags: ["pc"]
+---
+
 # Einar (PC)
 
 <img src="../03_Images/Einar_sketch.png" alt="Einar sketch" class="portrait" />
@@ -35,3 +41,4 @@
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Appendix 0]]
+

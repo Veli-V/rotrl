@@ -1,4 +1,7 @@
 # Savah's Armory
+
+<img src="../03_Images/location-placeholder.png" alt="Savah's Armory" class="portrait" />
+
 **Sijainti:** [[Sandpoint]]
 **Omistaja:** [[Savah Bevaniky]]
 **Tyyppi:** Ase- ja haarniskakauppa

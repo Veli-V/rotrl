@@ -1,5 +1,7 @@
 # The Hagfish
 
+<img src="../03_Images/location-placeholder.png" alt="The Hagfish" class="portrait" />
+
 **Tyyppi:** Taverna.
 **Sijainti:** [[Sandpoint]]
 

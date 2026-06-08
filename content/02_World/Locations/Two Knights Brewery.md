@@ -1,5 +1,7 @@
 # Two Knights Brewery
 
+<img src="../03_Images/location-placeholder.png" alt="Two Knights Brewery" class="portrait" />
+
 **Tyyppi:** Panimo.
 **Sijainti:** [[Sandpoint]]
 

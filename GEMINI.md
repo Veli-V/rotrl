@@ -18,7 +18,7 @@ Toimi tämän ohjeen mukaan, kun käyttäjä pyytää käsittelemään uuden pel
 
 ## 2. Jalostus (Sessions-vaihe)
 - Kirjoita muistiinpanot puhtaaksi tiedostoon `content/01_Sessions/Sessio X - [Otsikko].md`.
-- Käytä selkeää suomen kieltä ja korjaa tunnistusvirheet (vrt. Pathfinder-lore).
+- Käytä selkeää suomen kieltä ja korjaa tunnistusvirheet (vrt. Pathfinder-lore). Ainoa poikkeus on "Nualia", joka tunnetaan tässä Wikissä nimellä "Nelli".
 - Lisää `[[Wikilinkit]]` kaikille hahmoille, paikoille ja tärkeille termeille.
     - **Käytäntö:** Linkitä pääsääntöisesti vain termin ensimmäinen maininta sivulla tai kun se on kontekstin selkeyden kannalta oleellista, välttääksesi turhaa linkkien paljoutta.
 - Päivitä `content/01_Sessions/Index.md` lisäämällä uusi sessio listaan.
@@ -27,7 +27,7 @@ Toimi tämän ohjeen mukaan, kun käyttäjä pyytää käsittelemään uuden pel
 - Tunnista tekstistä uudet NPC:t, olennot, paikat ja lore-tiedot.
 - Jos hahmolle/paikalle ei ole vielä tiedostoa `content/02_World/` -kansiossa, luo se.
 - Päivitä kaikkiin mainittuihin maailman tiedostoihin (NPC, Locations, Monsters, Lore) **Maininnat**-osio (backlinkit) kyseiseen sessioon.
-- Mikäli tiedostossa mainittuihin aiheisiin on olemassa kuva, liitä se tiedoston alkuun. Mikäli hyvää kuvitusta ei ole, lisää *-placeholder.png kuva sivun alkuun. Tämä pätee henkilöihin, paikkoihin sekä loreen.
+- Mikäli tiedostossa mainittuihin aiheisiin on olemassa kuva, liitä se tiedoston alkuun. Mikäli hyvää kuvitusta ei ole, lisää *-placeholder.png kuva sivun alkuun. Tämä pätee henkilöihin, paikkoihin sekä loreen. Suuresta osasta NPC:tä on kuva olemassa, joten tarkista nimen perusteella, onko sellaista `content/03_Images` kansiossa.
 - Päivitä tarvittavat `Index.md` -tiedostot `content/02_World/` alikansioissa.
     - **Rikastaminen:** Lisää Index-tiedostoihin hahmojen/paikkojen perään lyhyesti status (esim. [Kuollut], [Vankina]) tai merkittävä suhde, jos se on muuttunut, jotta kokonaiskuva säilyy selkeänä tiedostomäärän kasvaessa.
 - Päivitä `Aikajana.md` `content/02_World/Timeline/` alikansiossa perustuen sessiossa mainittuun ajan etenemiseen.

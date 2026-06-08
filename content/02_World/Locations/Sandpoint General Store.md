@@ -1,5 +1,7 @@
 # Sandpoint General Store
 
+<img src="../03_Images/location-placeholder.png" alt="Sandpoint General Store" class="portrait" />
+
 **Tyyppi:** Sekatavarakauppa.
 **Sijainti:** [[Sandpoint]]
 **Omistaja:** [[Ven Vinder]]

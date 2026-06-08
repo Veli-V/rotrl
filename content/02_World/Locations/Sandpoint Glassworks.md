@@ -1,4 +1,7 @@
 # Sandpoint Glassworks
+
+<img src="../03_Images/location-placeholder.png" alt="Sandpoint Glassworks" class="portrait" />
+
 **Sijainti:** Sandpoint, [[Lonjiku Kaijitsu]]n omistuksessa
 **Tyyppi:** Lasitehdas
 

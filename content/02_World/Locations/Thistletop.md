@@ -1,4 +1,7 @@
 # Thistletop
+
+<img src="../03_Images/location-placeholder.png" alt="Thistletop" class="portrait" />
+
 **Sijainti:** [[Varisia]], saari [[Nettlewood]]in metsän rannikolla, pohjoiseen Sandpointista
 **Tyyppi:** Goblin-linnoitus / Saari
 

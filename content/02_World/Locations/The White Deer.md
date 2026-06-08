@@ -1,5 +1,7 @@
 # The White Deer
 
+<img src="../03_Images/location-placeholder.png" alt="The White Deer" class="portrait" />
+
 **Tyyppi:** Majatalo.
 **Sijainti:** [[Sandpoint]] (pohjoisosassa)
 **Omistaja:** [[Garridan Viskalai]]

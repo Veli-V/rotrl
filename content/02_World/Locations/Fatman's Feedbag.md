@@ -1,4 +1,7 @@
 # Fatman's Feedbag
+
+<img src="../03_Images/location-placeholder.png" alt="Fatman's Feedbag" class="portrait" />
+
 **Sijainti:** Sandpoint, eteläpää (satama-alue?)
 **Omistaja:** [[Jubrayl Vhiski]] (mahdollisesti)
 **Tyyppi:** Taverna / Ruokapaikka

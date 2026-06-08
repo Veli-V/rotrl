@@ -1,5 +1,7 @@
 # Sandpoint Cathedral
 
+<img src="../03_Images/location-placeholder.png" alt="Sandpoint Cathedral" class="portrait" />
+
 **Tyyppi:** Temppeli/katedraali.
 **Sijainti:** [[Sandpoint]]
 **Johtaja:** [[Abstalar Zantus|Abstalar Zantus]]

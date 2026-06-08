@@ -1,5 +1,7 @@
 # Curious Goblin
 
+<img src="../03_Images/location-placeholder.png" alt="Curious Goblin" class="portrait" />
+
 **Tyyppi:** Kauppa.
 **Sijainti:** [[Sandpoint]]
 **Omistaja:** [[Chask Haladan]]

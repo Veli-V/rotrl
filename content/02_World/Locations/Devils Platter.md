@@ -1,5 +1,7 @@
 # Devils Platter
 
+<img src="../03_Images/location-placeholder.png" alt="Devils Platter" class="portrait" />
+
 **Tyyppi:** Sijainti
 **Sijainti:** [[Sandpoint]]in kaakkoispuolella.
 

@@ -1,5 +1,7 @@
 # Sandpoint Garrison
 
+<img src="../03_Images/location-placeholder.png" alt="Sandpoint Garrison" class="portrait" />
+
 **Tyyppi:** Sotilaslinna/Vartiosto.
 **Sijainti:** [[Sandpoint]]
 **Johtaja:** [[Belor Hemlock]] (Sheriffi)

@@ -1,6 +1,6 @@
 # Alergast Barett
 
-<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+<img src="../03_Images/Alergast_Barett.png" alt="Alergast Barett" class="portrait" />
 
 **Rooli:** Sandpointilainen perheenisä.
 **Asema:** Edesmennyt.

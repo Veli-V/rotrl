@@ -1,4 +1,10 @@
-﻿# Solsta Vinder
+﻿---
+id: Solsta Vinder
+aliases: []
+tags: ["npc", "sandpoint"]
+---
+
+# Solsta Vinder
 
 <img src="../03_Images/Solsta_Vinder.png" alt="Solsta Vinder" class="portrait" />
 
@@ -15,5 +21,6 @@
 
 ## Maininnat
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+
 
 

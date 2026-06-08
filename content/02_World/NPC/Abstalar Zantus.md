@@ -1,4 +1,10 @@
-﻿# Isä Zantus (Abstalar Zantus)
+﻿---
+id: Abstalar Zantus
+aliases: ["Isä Zantus", "Father Zantus"]
+tags: ["npc", "sandpoint"]
+---
+
+# Isä Zantus (Abstalar Zantus)
 
 <img src="../03_Images/Abstalar_Zantus.png" alt="Abstalar Zantus" class="portrait" />
 
@@ -14,5 +20,6 @@
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Appendix 0]]
+
 
 

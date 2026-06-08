@@ -1,4 +1,10 @@
-﻿# Shayliss Vinder
+﻿---
+id: Shayliss Vinder
+aliases: []
+tags: ["npc", "sandpoint"]
+---
+
+# Shayliss Vinder
 
 <img src="../03_Images/Shayliss_Vinder.png" alt="Shayliss Vinder" class="portrait" />
 
@@ -9,5 +15,6 @@
 ## Maininnat
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Appendix 0]]
+
 
 

@@ -1,3 +1,9 @@
+﻿---
+id: Shelby Vinder
+aliases: []
+tags: ["npc", "sandpoint"]
+---
+
 # Shelby Vinder
 
 <img src="../03_Images/Shelby_Vinder.png" alt="Shelby Vinder" class="portrait" 
@@ -15,3 +21,4 @@
 
 ## Maininnat
 * [[Sessio 02 - Swallowtail Festival]]
+

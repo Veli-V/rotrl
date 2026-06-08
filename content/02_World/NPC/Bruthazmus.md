@@ -1,3 +1,9 @@
+﻿---
+id: Bruthazmus
+aliases: []
+tags: ["npc"]
+---
+
 # Bruthazmus
 
 <img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
@@ -15,3 +21,4 @@
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[GM_appendix_6_raw]]
+

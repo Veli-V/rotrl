@@ -1,4 +1,10 @@
-﻿# Aneka Avertin
+﻿---
+id: Aneka Avertin
+aliases: []
+tags: ["npc", "sandpoint"]
+---
+
+# Aneka Avertin
 
 <img src="../03_Images/Aneka_Avertin.png" alt="Aneka Avertin" class="portrait" />
 
@@ -21,5 +27,6 @@
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Appendix 0]]
+
 
 

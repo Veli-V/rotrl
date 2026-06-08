@@ -1,3 +1,9 @@
+﻿---
+id: Alaznist
+aliases: []
+tags: ["npc"]
+---
+
 # Alaznist
 
 <img src="../03_Images/Alaznist.png" alt="Alaznist" class="portrait" />
@@ -12,3 +18,4 @@
 ## Maininnat
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Thassilon]]
+

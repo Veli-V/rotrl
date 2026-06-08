@@ -1,4 +1,10 @@
-﻿# Ameiko Kaijitsu
+﻿---
+id: Ameiko Kaijitsu
+aliases: []
+tags: ["npc", "sandpoint"]
+---
+
+# Ameiko Kaijitsu
 
 <img src="../03_Images/Ameiko_Kaijitsu.png" alt="Ameiko Kaijitsu" class="portrait" />
 
@@ -24,5 +30,6 @@
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
+
 
 

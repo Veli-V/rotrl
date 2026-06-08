@@ -1,3 +1,9 @@
+﻿---
+id: Nelli Tobyn
+aliases: ["Nualia", "Nalla", "Nala"]
+tags: ["npc"]
+---
+
 # Nelli Tobyn
 
 <img src="../03_Images/Nelli_Tobyn_sketch.png" alt="Nelli Tobyn" class="portrait" />
@@ -16,4 +22,3 @@
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
 
-**HUOM!** Kirjoitusasu saattaa vaihdella (esim. Nuala, Nala, jne.), mutta aina tarkoitetaan Nelliä.

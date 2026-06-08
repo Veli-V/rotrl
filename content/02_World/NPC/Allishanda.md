@@ -1,3 +1,9 @@
+﻿---
+id: Allishanda
+aliases: []
+tags: ["npc"]
+---
+
 # Allishanda
 
 <img src="../03_Images/Allishanda.png" alt="Allishanda" class="portrait" />
@@ -13,3 +19,4 @@
 ## Maininnat
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[GM_appendix_8_raw]]
+

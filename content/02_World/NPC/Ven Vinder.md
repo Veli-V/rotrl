@@ -1,4 +1,10 @@
-﻿# Ven Vinder
+﻿---
+id: Ven Vinder
+aliases: []
+tags: ["npc", "sandpoint"]
+---
+
+# Ven Vinder
 
 <img src="../03_Images/Ven_Vinder.png" alt="Ven Vinder" class="portrait" />
 
@@ -8,5 +14,6 @@
 
 ## Maininnat
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
+
 
 

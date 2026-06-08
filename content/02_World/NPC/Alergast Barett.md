@@ -1,3 +1,9 @@
+﻿---
+id: Alergast Barett
+aliases: []
+tags: ["npc", "sandpoint"]
+---
+
 # Alergast Barett
 
 <img src="../03_Images/Alergast_Barett.png" alt="Alergast Barett" class="portrait" />
@@ -11,3 +17,4 @@
 
 ## Maininnat
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
+

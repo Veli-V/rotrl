@@ -1,4 +1,10 @@
-﻿# Arika Avertin
+﻿---
+id: Arika Avertin
+aliases: []
+tags: ["npc", "sandpoint"]
+---
+
+# Arika Avertin
 
 <img src="../03_Images/Arika_Avertin.png" alt="Arika Avertin" class="portrait" />
 
@@ -21,5 +27,6 @@
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Appendix 0]]
+
 
 

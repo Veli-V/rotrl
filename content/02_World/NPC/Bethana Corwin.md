@@ -1,4 +1,10 @@
-﻿# Bethana Corwin
+﻿---
+id: Bethana Corwin
+aliases: []
+tags: ["npc", "sandpoint"]
+---
+
+# Bethana Corwin
 
 <img src="../03_Images/Bethana_Corwin.png" alt="Bethana Corwin" class="portrait" />
 
@@ -14,5 +20,6 @@ Bethana on [[Ameiko Kaijitsu]]n luotettu työntekijä ja ystävä. Hän on huoli
 ## Maininnat
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Sessio 08 - Katakombien kutsu]]
+
 
 

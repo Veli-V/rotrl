@@ -1,3 +1,9 @@
+﻿---
+id: Valo
+aliases: []
+tags: ["pc"]
+---
+
 # Valo Sarenrae
 
 <img src="../03_Images/Valo_Sarenrae.png" alt="Valo Sarenrae" class="portrait" />
@@ -30,3 +36,4 @@
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
+

@@ -1,3 +1,9 @@
+﻿---
+id: Ripnugget
+aliases: []
+tags: ["npc"]
+---
+
 # Ripnugget
 
 <img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
@@ -13,3 +19,4 @@
 * [[Sessio 03 - Pääskynpyrstö-festivaali]] (Maininta recapissa)
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] (Mainittu kuulustelussa)
 * [[Sessio 06 - Lasitehtaan salaisuudet]] (Tsuton päiväkirja paljasti Ripnuggetin olevan osa suurempaa suunnitelmaa hyökätä Sandpointiin satojen gobliinien voimin)
+

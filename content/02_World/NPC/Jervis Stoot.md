@@ -1,3 +1,9 @@
+﻿---
+id: Jervis Stoot
+aliases: ["Chopper"]
+tags: ["npc", "dead"]
+---
+
 # Jervis Stoot (Chopper)
 
 <img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
@@ -8,3 +14,4 @@
 
 ## Maininnat
 * [[Sessio 01 - Saapuminen Sandpointiin]]
+

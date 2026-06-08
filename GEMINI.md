@@ -29,6 +29,7 @@ Toimi tämän ohjeen mukaan, kun käyttäjä pyytää käsittelemään uuden pel
 - Päivitä kaikkiin mainittuihin maailman tiedostoihin (NPC, Locations, Monsters, Lore) **Maininnat**-osio (backlinkit) kyseiseen sessioon.
 - Mikäli tiedostossa mainittuihin aiheisiin on olemassa kuva, liitä se tiedoston alkuun. Mikäli hyvää kuvitusta ei ole, lisää *-placeholder.png kuva sivun alkuun. Tämä pätee henkilöihin, paikkoihin sekä loreen.
 - Päivitä tarvittavat `Index.md` -tiedostot `content/02_World/` alikansioissa.
+    - **Rikastaminen:** Lisää Index-tiedostoihin hahmojen/paikkojen perään lyhyesti status (esim. [Kuollut], [Vankina]) tai merkittävä suhde, jos se on muuttunut, jotta kokonaiskuva säilyy selkeänä tiedostomäärän kasvaessa.
 - Päivitä `Aikajana.md` `content/02_World/Timeline/` alikansiossa perustuen sessiossa mainittuun ajan etenemiseen.
 - Päivitä pelaajahahmojen tiedostoja tarpeen tullen. Erityisesti "Kohokohtia" on hyvä lisätä. Einar, Inko, Valo, George sekä Makkara ovat pelaajahahmoja.
 

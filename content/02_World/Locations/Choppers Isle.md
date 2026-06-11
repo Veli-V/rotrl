@@ -1,3 +1,9 @@
+---
+id: Chopper's Isle
+aliases: []
+tags: ["location", "sandpoint", "island"]
+---
+
 # Chopper's Isle
 
 <img src="../03_Images/location-placeholder.png" alt="Chopper's Isle" class="portrait" />

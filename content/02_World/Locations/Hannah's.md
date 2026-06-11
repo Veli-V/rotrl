@@ -1,3 +1,9 @@
+---
+id: Hannah's
+aliases: []
+tags: ["location", "sandpoint"]
+---
+
 # Hannah's
 
 <img src="../03_Images/location-placeholder.png" alt="Hannah's" class="portrait" />

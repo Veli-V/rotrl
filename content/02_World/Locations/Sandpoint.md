@@ -1,3 +1,9 @@
+---
+id: Sandpoint
+aliases: []
+tags: ["location", "Sandpoint", "city"]
+---
+
 # Sandpoint
 
 <img src="../03_Images/Sandpoint.jpg" alt="Sandpoint" class="full-page-image" />
@@ -42,7 +48,7 @@
 27. Turandarok Academy (koulu/orpokoti)
 28. Madame Mvashti's House (ennustaja)
 29. Grocer's Hall (ruokakauppa)
-30. [[Vernash Fine Clothing]] (vaatturi)
+30. [[Vernah’s Fine Clothing]] (vaatturi)
 31. Wheen's Wagons (pyöräseppä)
 32. Scarnetti Mill (mylly)
 33. [[The Hagfish]]

@@ -1,3 +1,9 @@
+---
+id: Thistletop
+aliases: []
+tags: ["location", "island"]
+---
+
 # Thistletop
 
 <img src="../03_Images/location-placeholder.png" alt="Thistletop" class="portrait" />

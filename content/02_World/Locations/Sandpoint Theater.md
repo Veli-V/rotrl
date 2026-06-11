@@ -1,3 +1,9 @@
+---
+id: Sandpoint Theater
+aliases: ["teatteri"]
+tags: ["location", "sandpoint"]
+---
+
 # Sandpoint Theater
 
 <img src="../03_Images/location-placeholder.png" alt="Sandpoint Theater" class="portrait" />

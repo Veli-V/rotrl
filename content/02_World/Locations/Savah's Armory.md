@@ -1,3 +1,9 @@
+---
+id: Savah's Armory
+aliases: []
+tags: ["location", "sandpoint", "smith"]
+---
+
 # Savah's Armory
 
 <img src="../03_Images/location-placeholder.png" alt="Savah's Armory" class="portrait" />

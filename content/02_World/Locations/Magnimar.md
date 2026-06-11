@@ -1,3 +1,9 @@
+---
+id: Magnimar
+aliases: []
+tags: ["location", "magnimar", "city"]
+---
+
 # Magnimar
 
 <img src="../03_Images/Magnimar.png" alt="Magnimar"  class="full-page-image" />

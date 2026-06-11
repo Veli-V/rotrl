@@ -1,3 +1,9 @@
+---
+id: Two Knights Brewery
+aliases: ["panimo"]
+tags: ["location", "sandpoint", "shop", "vendor"]
+---
+
 # Two Knights Brewery
 
 <img src="../03_Images/location-placeholder.png" alt="Two Knights Brewery" class="portrait" />

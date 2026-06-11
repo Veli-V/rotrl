@@ -1,3 +1,9 @@
+---
+id: Sandpoint Garrison
+aliases: []
+tags: ["location", "sandpoint"]
+---
+
 # Sandpoint Garrison
 
 <img src="../03_Images/location-placeholder.png" alt="Sandpoint Garrison" class="portrait" />

@@ -29,7 +29,7 @@
 * [[The Rusty Dragon]] - *Päämajamme Sandpointissa*
 * [[The White Deer]] - *Majatalo*
 * [[Two Knights Brewery]] - *Paikallinen panimo*
-* [[Vernash Fine Clothing]] - *Vaatekauppa*
+* [[Vernah’s Fine Clothing]] - *Vaatekauppa*
 
 ## Alueet
 

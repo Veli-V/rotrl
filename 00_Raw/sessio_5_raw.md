@@ -59,7 +59,7 @@ Päivämäärä: 13/4/26 (pelinsisäinen aika?)
 - Valo kutsuu Anekan juhla-illalliselle.
 - Valolle uusi puku -> Inko lupasi tehdä. Epäilys Agendasta.
 
-## Vernash Fine Clothing
+## Vernah’s Fine Clothing
 - Valo lyö kaikki rahansa tiskiin: "Haluan uusia vaatteita".
 - Samalla pyydetään Inkolta uutta paitaa.
 - Myyjä on naispuolinen puolihaltia: Rynshinn Povalli.

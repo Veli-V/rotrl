@@ -26,7 +26,7 @@
 * [[Lonjiku Kaijitsu]] (Edesmennyt ylimys)
 * [[Makkara]] (Lasinpuhaltajan oppipoika)
 * [[Naffer Vosk]] (Hautausmaanhoitaja)
-* [[Rynshinn Povalli]] (Vernash Fine Clothing)
+* [[Rynshinn Povalli]] (Vernah’s Fine Clothing)
 * [[Savah Bevaniky]] (Savah's Armory)
 * [[Shayliss Vinder]]
 * [[Shelby Vinder]]

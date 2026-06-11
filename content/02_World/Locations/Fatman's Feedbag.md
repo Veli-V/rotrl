@@ -1,3 +1,9 @@
+---
+id: Fatman's Feedbag
+aliases: []
+tags: ["location", "sandpoint", "inn", "tavern"]
+---
+
 # Fatman's Feedbag
 
 <img src="../03_Images/location-placeholder.png" alt="Fatman's Feedbag" class="portrait" />

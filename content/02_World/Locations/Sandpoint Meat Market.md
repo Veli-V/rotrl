@@ -1,3 +1,9 @@
+---
+id: Sandpoint Meat Market
+aliases: []
+tags: ["location", "sandpoint", "shop", "vendor"]
+---
+
 # Sandpoint Meat Market
 
 <img src="../03_Images/location-placeholder.png" alt="Sandpoint Meat Market" class="portrait" />

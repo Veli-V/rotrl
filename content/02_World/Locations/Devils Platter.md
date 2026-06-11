@@ -1,3 +1,9 @@
+---
+id: Devils Platter
+aliases: []
+tags: ["location", "hill"]
+---
+
 # Devils Platter
 
 <img src="../03_Images/location-placeholder.png" alt="Devils Platter" class="portrait" />

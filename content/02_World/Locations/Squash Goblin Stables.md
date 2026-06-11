@@ -1,3 +1,9 @@
+---
+id: Goblin Squash Stables
+aliases: ["tallit"]
+tags: ["location", "sandpoint"]
+---
+
 # Goblin Squash Stables
 
 <img src="../03_Images/location-placeholder.png" alt="Goblin Squash Stables" class="portrait" />

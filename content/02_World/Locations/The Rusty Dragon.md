@@ -1,3 +1,9 @@
+---
+id: The Rusty Dragon
+aliases: []
+tags: ["location", "sandpoint", "inn", "tavern"]
+---
+
 # The Rusty Dragon
 
 <img src="../03_Images/Rusty_Dragon_Inn.png" alt="Rusty Dragon" class="full-page-image" />

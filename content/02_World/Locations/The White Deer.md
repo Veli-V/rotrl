@@ -1,3 +1,9 @@
+---
+id: The White Deer
+aliases: []
+tags: ["location", "sandpoint", "inn", "tavern"]
+---
+
 # The White Deer
 
 <img src="../03_Images/location-placeholder.png" alt="The White Deer" class="portrait" />

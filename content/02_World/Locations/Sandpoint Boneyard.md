@@ -1,3 +1,9 @@
+---
+id: Sandpoint Boneyard
+aliases: ["hautausmaa"]
+tags: ["location", "sandpoint"]
+---
+
 # Sandpoint Boneyard
 
 <img src="../03_Images/location-placeholder.png" alt="Sandpoint Boneyard" class="portrait" />

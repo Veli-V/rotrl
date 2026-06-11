@@ -1,8 +1,14 @@
+---
+id: Tickwood
+aliases: []
+tags: ["location", "sandpoint", "forest"]
+---
+
 # Tickwood
 
-<img src="../03_Images/location-placeholder.png" alt="Tickwood" class="portrait" />
+<img src="../03_Images/tickwood.png" alt="Tickwood" class="full-page-image" />
 
-**Tyyppi:** Sijainti
+**Tyyppi:** Paikka
 **Sijainti:** [[Sandpoint]]in kaakkoispuolella, joen toisella puolella.
 
 Pieni metsä, joka tunnetaan villisioistaan. Se on suosittu metsästyskohde Sandpointin asukkaille.

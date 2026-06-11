@@ -9,7 +9,7 @@ tags: ["npc", "sandpoint"]
 <img src="../03_Images/Rynshinn_Povalli.png" alt="Rynshinn Povalli" class="portrait" />
 
 **Tyyppi:** NPC
-**Ammatti:** Omistaja, [[Vernash Fine Clothing]].
+**Ammatti:** Omistaja, [[Vernah’s Fine Clothing]].
 **Rotu:** Puolihaltia (Half-elf)
 
 Rynshinn pyörittää Sandpointin hienointa vaateliikettä. Hänen äitinsä oli ihminen (Vernash) ja isänsä haltia.

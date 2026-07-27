@@ -25,6 +25,7 @@
 * [[Sandpoint Theater]] - *Teatteri*
 * [[Savah's Armory]] - *Asekauppa*
 * [[Squash Goblin Stables|Goblin Squash Stables]] - *Hevostalli*
+* [[The Feathered Serpent]] - *Maagisten ja eksoottisten tavaroiden kauppa*
 * [[The Hagfish]] - *Taverna*
 * [[The Rusty Dragon]] - *Päämajamme Sandpointissa*
 * [[The White Deer]] - *Majatalo*

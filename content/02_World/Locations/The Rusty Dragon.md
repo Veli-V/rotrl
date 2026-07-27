@@ -16,6 +16,7 @@ tags: ["location", "sandpoint", "inn", "tavern"]
 * Seurue hankkii villisikajahtiin tarvitsemansa varusteet täältä. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
 * Ryhmä löytää täältä [[Tsuto Kaijitsu]]n kirjeen [[Ameiko Kaijitsu]]n huoneesta, kun emäntä katoaa. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
 * [[Aldern Foxglove]]n suunnittelemat villisikajuhlat lykättiin [[Ameiko Kaijitsu]]n toipumisen vuoksi. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
+* Ryhmä kokoontui juomaan Georgen muistolle, minkä yhteydessä mystinen [[Johan Rayban]] liittyi ryhmään. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
 
 ## Maininnat
 * [[Sessio 01 - Saapuminen Sandpointiin]]
@@ -23,3 +24,4 @@ tags: ["location", "sandpoint", "inn", "tavern"]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
+* [[Sessio 09 - Georgen muisto ja mystinen haltia]]

@@ -1,4 +1,4 @@
-﻿---
+---
 id: Makkara
 aliases: []
 tags: ["npc", "sandpoint"]
@@ -15,9 +15,11 @@ tags: ["npc", "sandpoint"]
 * Sankarit löysivät hänet tehtaalta hyökkäyksen jälkeen. Hän kertoi (omalla tavallaan) gobliinien mutapainista ja sammakoiden syönnistä. ([[Sessio 06 - Lasitehtaan salaisuudet]])
 * Lukittuna [[The Rusty Dragon]]issa turvaan - raapi sormensa verille yrittäessään paeta huoneesta. [[George]] hoiti hänen kätensä. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
 * Herätti seikkailijat ravistelemalla heitä aamupalalle. Osallistui aamupalahetkeen majatalossa. ([[Sessio 08 - Katakombien kutsu]])
+* Kuultuaan uutiset Georgen kuolemasta suri tätä pureskelemalla pöydän jalasta piipun muotoisen lelun. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
 
 ## Maininnat
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
+* [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 

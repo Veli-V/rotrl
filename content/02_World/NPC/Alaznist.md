@@ -1,4 +1,4 @@
-﻿---
+---
 id: Alaznist
 aliases: []
 tags: ["npc"]
@@ -17,5 +17,6 @@ tags: ["npc"]
 
 ## Maininnat
 * [[Sessio 08 - Katakombien kutsu]]
+* [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 * [[Thassilon]]
 

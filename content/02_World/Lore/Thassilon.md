@@ -33,4 +33,5 @@ Monet Thassilonin suurimmista rakennelmista ovat niin valtavia, että niiden syn
 ## Maininnat
 
 * [[Sessio 08 - Katakombien kutsu]]
+* [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 * [[appendix_thassilon_lore]]

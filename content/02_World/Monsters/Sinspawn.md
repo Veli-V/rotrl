@@ -16,3 +16,4 @@ Sinspawnit ovat vihamielisiä ja hyökkäävät välittömästi havaitessaan tun
 
 ## Maininnat
 * [[Sessio 08 - Katakombien kutsu]] - Ensimmäinen kohtaaminen lasitehtaan alla olevissa katakombeissa.
+* [[Sessio 09 - Georgen muisto ja mystinen haltia]]

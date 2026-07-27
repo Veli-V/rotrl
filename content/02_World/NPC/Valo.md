@@ -1,4 +1,4 @@
-﻿---
+---
 id: Valo
 aliases: []
 tags: ["pc"]
@@ -28,6 +28,7 @@ tags: ["pc"]
 * Sai *Protection from Evil* -suojan taistelussa [[Sandpoint Glassworks|lasitehtaalla]]. ([[Sessio 06 - Lasitehtaan salaisuudet]])
 * Vietti illan [[Aneka Avertin]]in kanssa simaa juoden. ([[Sessio 06 - Lasitehtaan salaisuudet]])
 * Kysyi [[Aldern Foxglove]]lta riiausevinkkejä aamupalalla. Tiirikoi lasitehtaan toisen oven auki päästäkseen vartijan ohi. Eteni etujoukoissa katakombeissa etsien ansoja. Otti osumaa ensimmäisessä taistelussa Sinspawnia vastaan. ([[Sessio 08 - Katakombien kutsu]])
+* Otti menehtyneen Georgen piipun muistoksi. Kirjoitti ja lausui muistorunon Georgen polttohautauksessa rannalla. Seurasi epäilyttävää haltianaista pormestarin luota aina kaupungin ulkopuolelle metsän reunalle saakka. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -37,4 +38,5 @@ tags: ["pc"]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
+* [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 

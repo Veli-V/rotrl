@@ -1,4 +1,4 @@
-﻿---
+---
 id: Lonjiku Kaijitsu
 aliases: []
 tags: ["npc", "sandpoint", "dead"]
@@ -23,6 +23,7 @@ tags: ["npc", "sandpoint", "dead"]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 08 - Katakombien kutsu]]
+* [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 
 
 

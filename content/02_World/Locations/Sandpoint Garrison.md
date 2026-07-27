@@ -21,4 +21,5 @@ tags: ["location", "sandpoint"]
 * **[[Einar]]**: Vartija (vastikään värvätty)
 
 ## Maininnat
+* [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 * [[Appendix 0]]

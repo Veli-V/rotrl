@@ -2,10 +2,11 @@
 
 ### Pelaajahahmot (PCs)
 * [[Einar]] (Fighter)
-* [[George]] (Inquisitor) [Kuollut katakombeissa]
+* [[George]] (Inquisitor) [Kuollut katakombeissa sessiossa [[Sessio 09 - Georgen muisto ja mystinen haltia]]]
 * [[Inko]] (Sorcerer)
 * [[Valo]] (Rogue)
-* [[Johan Rayban]] (Parantaja / Seikkailija) [Uusi liittolainen]
+* [[Johan Rayban]] (Parantaja / Seikkailija) [Uusi liittolainen, liittyi [[Sessio 09 - Georgen muisto ja mystinen haltia]]]
+* [[Makkara]] (Lasinpuhaltajan oppipoika)
 
 ### Sandpointin asukkaat
 * [[Alergast Barett]] (Edesmennyt perheenisä)
@@ -25,14 +26,13 @@
 * [[Jubrayl Vhiski]] (Fatman's Feedbag)
 * [[Kendra Deverin]] (Pormestari)
 * [[Lonjiku Kaijitsu]] (Edesmennyt ylimys)
-* [[Makkara]] (Lasinpuhaltajan oppipoika)
 * [[Naffer Vosk]] (Hautausmaanhoitaja)
 * [[Rynshinn Povalli]] (Vernah’s Fine Clothing)
 * [[Savah Bevaniky]] (Savah's Armory)
 * [[Shalelu Andosana]] (Metsän vartija)
-* [[Shayliss Vinder]]
-* [[Shelby Vinder]]
-* [[Solsta Vinder]]
+* [[Shayliss Vinder]] (Vinderin viehko tytär)
+* [[Shelby Vinder]]  (Vinderin viehko tytär)
+* [[Solsta Vinder]]  (Vinderin viehko vaimo)
 * [[Vachedi]] (Shoanti-sotilas)
 * [[Ven Vinder]] (Kauppias)
 * [[Vorvashali Voon]] (The Feathered Serpent)

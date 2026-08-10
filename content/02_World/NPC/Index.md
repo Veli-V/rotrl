@@ -29,6 +29,7 @@
 * [[Naffer Vosk]] (Hautausmaanhoitaja)
 * [[Rynshinn Povalli]] (Vernah’s Fine Clothing)
 * [[Savah Bevaniky]] (Savah's Armory)
+* [[Shalelu Andosana]] (Metsän vartija)
 * [[Shayliss Vinder]]
 * [[Shelby Vinder]]
 * [[Solsta Vinder]]

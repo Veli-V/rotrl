@@ -18,7 +18,7 @@ Eteenpäin vievän ylikulkusillan päästä paljastui huone täynnä ankeita hä
 
 Palaamalla kidutushuoneeseen sankarit löysivät portaat, jotka johtivat syvemmälle alas. Portaissa haisi oksennus, ja alhaalta kuului goblinien puhetta. [[Valo]] yritti luoda hämystä heittämällä loitsunsa (*Dancing Lights*) kohti ääniä ja huutamalla pormestarin kadonnusveljen nimeä ("Missä [[Lonjiku Kaijitsu]] on!").
 
-Avoimessa huoneessa lattia oli peitetty irtonaisilla puulevyillä. Ansaan astunut [[George]] putosi 20 jalkaa syvään kuoppaan suoraan zombien syliin. Samalla huoneessa hyökkäsi kolmikätinen, oksentava mutanttigoblin, joka teki Einarin pahoinvoivaksi. Kuopassa käytiin epätoivoinen taistelu: George yritti parantaa itseään, mutta zombien kynnet olivat liikaa, eikä hän enää virkonnut. Taistelun sekamelskassa myös Einar ja Valo vaipuivat tajuttomiksi. Vain [[Inko]] jäi pystyy ja onnistui raivokkaasti surmaamaan kolmikätisen mutanttigoblinin sekä parantamaan Einarin ja Valon takaisin pystyyn. Zombit tuhottiin kostonhimolla, mutta George oli menetetty.
+Avoimessa huoneessa lattia oli peitetty irtonaisilla puulevyillä. Ansaan astunut [[George]] putosi 20 jalkaa syvään kuoppaan suoraan [[Zombie|zombien]] syliin. Samalla huoneessa hyökkäsi kolmikätinen, oksentava  [[Koruvus|mutanttigoblin]], joka teki Einarin pahoinvoivaksi. Kuopassa käytiin epätoivoinen taistelu: George yritti parantaa itseään, mutta zombien kynnet olivat liikaa, eikä hän enää virkonnut. Taistelun sekamelskassa myös Einar ja Valo vaipuivat tajuttomiksi. Vain [[Inko]] jäi pystyy ja onnistui raivokkaasti surmaamaan kolmikätisen mutanttigoblinin sekä parantamaan Einarin ja Valon takaisin pystyyn. [[Zombie]] tuhottiin kostonhimolla, mutta George oli menetetty.
 
 Valo otti menehtyneen ystävänsä piipun muistoksi, ja Georgen ruumis nostettiin kuopasta.
 
@@ -43,9 +43,9 @@ Tilaisuuden jälkeen Rusty Dragonissa nostettiin maljoja Georgen muistolle. Seur
 ## Pormestari ja kireä haltianainen
 Seuraavana aamuna Valo, Inko, Einar, [[Ameiko Kaijitsu]], Makkara ja uusi liittolainen [[Johan Rayban]] suuntasivat [[Sandpoint Garrison|Kaupungintalolle]] tapaamaan pormestari [[Kendra Deverin|Kendra Deveriniä]].
 
-Pormestarin huoneessa he kohtasivat silmättömän/pupillittoman haltianaisen, joka vaikutti sokealta mutta näki selvästi. Kun Valo selitti kellarin salaisuudet ja mainitsi kidutuskammion, pormestari kuiskaasi jotain haltialle, jolloin tämä muuttui kireäksi ja poistui kiireesti paikalta.
+Pormestarin huoneessa he kohtasivat silmättömän/pupillittoman haltianaisen, [[Shalelu Andosana|Shalelu Andosanan]], joka vaikutti sokealta mutta näki selvästi. Kun Valo selitti kellarin salaisuudet ja mainitsi kidutuskammion, pormestari kuiskaasi jotain haltialle, jolloin tämä muuttui kireäksi ja poistui kiireesti paikalta.
 
-Valo lähti välittömästi seuraamaan mystistä haltiaa. Kaupungin kaduilla haltia huomasi Valon, yritti jopa kampittaa tämän ja tivasi: *"Miksi seuraat minua? Kuinka hyvin tunnet Rutasmakseyta?"* Valon vastattua ettei tunne tätä juurikaan, haltia käski jättää itsensä rauhaan ja säntäsi juoksuun. Valo seurasi sokeaa haltiaa aina kaupungin ulkopuolelle joen kahlauspaikan yli metsän reunalle, kunnes kadotti tämän jäljet puolen tunnin takaa-ajon jälkeen.
+Valo lähti välittömästi seuraamaan mystistä haltiaa. Kaupungin kaduilla haltia huomasi Valon, yritti jopa kampittaa tämän ja tivasi: *"Miksi seuraat minua? Kuinka hyvin tunnet Rutasmakseyta?"* Valon vastattua ettei tunne tätä juurikaan, haltia käski jättää itsensä rauhaan ja säntäsi juoksuun. Valo seurasi [[Shalelu Andosana|Shalelu Andosanaa]] aina kaupungin ulkopuolelle joen kahlauspaikan yli metsän reunalle, kunnes kadotti tämän jäljet puolen tunnin takaa-ajon jälkeen.
 
 Sillä välin pormestari Kendra Deverin antoi sankarille valtuutuksen puhdistaa luolat ja kirjoitti suosituskirjeen kaupungin maagisten tavaroiden kauppaan, [[The Feathered Serpent|Feathered Serpenttiin]].
 
@@ -60,6 +60,9 @@ Valon palattua takaisin metsän reunalta ryhmä kokoontui jälleen yhteen. Saada
 * [[Valo]]
 * [[George]]
 * [[Makkara]]
+* [[Koruvus]]
+* [[Zombie]]
+* [[Shalelu Andosana]]
 * [[Johan Rayban]]
 * [[Ameiko Kaijitsu]]
 * [[Lonjiku Kaijitsu]]

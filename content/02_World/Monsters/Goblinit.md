@@ -113,3 +113,4 @@ Goblinien identiteetti on **äänekäs, yhteisöllinen, kaoottinen ja hyvin elä
 * [[Goblin-heimot]] - Viisi pääasiassa Sandpoint-alueella vaikuttavaa goblin-heimoa
 * [[Sessio 02 - Swallowtail Festival]] - Thistletop-heimon hyökkäys festivaalissa
 * [[Sessio 03 - Pääskynpyrstö-festivaali]] - Goblinien rooli festivaalin tapahtumissa
+* [[Sessio 09 - Georgen muisto ja mystinen haltia]] - Kolmikätisen mutanttigoblinin kohtaaminen katakombeissa

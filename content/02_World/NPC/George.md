@@ -1,4 +1,4 @@
-﻿---
+---
 id: George
 aliases: []
 tags: ["pc"]
@@ -9,6 +9,7 @@ tags: ["pc"]
 <img src="../03_Images/George_sketch.png" alt="George sketch" class="portrait" />
 
 **Pelaaja:** Veli V
+**Tila:** [Kuollut] (Menehtyi katakombeissa)
 **Rotu:** [[Varisia|Varisian]]
 **Luokka:** Inquisitor (Heretic) 
 **Tausta:** Entinen temppelin inkvisiittori [[Magnimar]]ista. Vanha herra, joka on löytänyt tarkoitusta temppelin ulkopuolelta. *Bladed Scarf*, King's Man.
@@ -25,6 +26,7 @@ tags: ["pc"]
 * Gobliini huusi hänelle "Kuole ukko!" ja hyökkäsi; kukisti sen kaulahuivilla yhdessä [[Inko]]n kanssa. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
 * Hoiti [[Makkara]]n verille raavitut kädet session lopussa. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
 * Kulki Inkon rinnalla lasitehtaan alla olevissa tunneleissa ja osallistui taisteluihin Sinspawnia vastaan. ([[Sessio 08 - Katakombien kutsu]])
+* Putosi katakombien zombikuoppaan ja menehtyi taistelussa. Hänen ruumiinsa poltettiin kunnianosoituksin Sandpointin rannalla suuren kuntalaisjoukon läsnä ollessa. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -35,4 +37,5 @@ tags: ["pc"]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
+* [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 

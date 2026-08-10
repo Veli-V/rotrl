@@ -31,4 +31,5 @@ Entinen katedraali paloi traagisesti viisi vuotta sitten (4702 AR), ja silloinen
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
+* [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 * [[Appendix 0]]

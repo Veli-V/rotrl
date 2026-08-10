@@ -29,7 +29,8 @@ tags: ["pc"]
 * Auttoi pahoinpidellyn [[Ameiko Kaijitsu]]n ulos lasitehtaan kellarista ja toimitti hänet [[The Rusty Dragon|Rusty Dragoniin]]. ([[Sessio 06 - Lasitehtaan salaisuudet]])
 * Vahti toipuvaa [[Ameiko Kaijitsu]]a aamulla. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
 * Mainitsi [[Abstalar Zantus|Isä Zantukselle]] lasitehtaan kellarista löytyneet tunnelit. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
-* Keskusteli toipuvan Ameikon kanssa. Sai haltuunsa taikasormuksen (+1 AC). Löysi muinaisen [[Alaznist|Alaznistin]] patsaan luota mestarillisen keihään ([[Alaznist|Ranseur]]). Keräsi Sinspawnin kynnet ja oudon "vauvan käden" muistoksi. ([[Sessio 08 - Katakombien kutsu]])
+* Keskusteli toipuvan Ameikon kanssa. Sai haltuunsa taikasormuksen (+1 AC). Löysi muinaisen [[Alaznist|Alaznistin]] patsaan luota mestarillisen keihään ([[Ranseur]]). Keräsi Sinspawnin kynnet ja oudon "vauvan käden" muistoksi. ([[Sessio 08 - Katakombien kutsu]])
+* Uudisti taistelutaktiikkansa (luopui kilvestä kaksin käsin käytettävän salkoaseen hyväksi). Joutui pahoinvoivaksi mutanttigoblinin oksennuksesta katakombeissa ja kaatui tajuttomaksi. Kantoi menehtyneen Georgen ruumiin temppeliin, vannoi kostoa rannalla ja sai haltuunsa +1 taistelumiekan (*+1 longsword*). ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -40,5 +41,6 @@ tags: ["pc"]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
+* [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 * [[Appendix 0]]
 

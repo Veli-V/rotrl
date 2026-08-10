@@ -2,9 +2,10 @@
 
 ### Pelaajahahmot (PCs)
 * [[Einar]] (Fighter)
-* [[George]] (Inquisitor)
+* [[George]] (Inquisitor) [Kuollut katakombeissa]
 * [[Inko]] (Sorcerer)
 * [[Valo]] (Rogue)
+* [[Johan Rayban]] (Parantaja / Seikkailija) [Uusi liittolainen]
 
 ### Sandpointin asukkaat
 * [[Alergast Barett]] (Edesmennyt perheenisä)
@@ -33,6 +34,7 @@
 * [[Solsta Vinder]]
 * [[Vachedi]] (Shoanti-sotilas)
 * [[Ven Vinder]] (Kauppias)
+* [[Vorvashali Voon]] (The Feathered Serpent)
 
 ### Magnimarin asukkaat
 * [[Delek Viskanta]] (Nellin entinen kumppani)

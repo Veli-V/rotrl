@@ -23,3 +23,4 @@ Festivaaliviikolla teatterissa mainostettiin tulevaa esitystä *The Harpy's Curs
 ## Maininnat
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
+* [[Sessio 09 - Georgen muisto ja mystinen haltia]]

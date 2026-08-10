@@ -1,3 +1,9 @@
+---
+id: Lamashtu-kultti
+aliases: []
+tags: ["lore", "god", "lamashtu"]
+---
+
 # Lamashtu-kultti
 
 **Tyyppi:** Uskonnollinen kultti, Lamashtu-palvonta

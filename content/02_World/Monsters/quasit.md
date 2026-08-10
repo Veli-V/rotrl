@@ -1,7 +1,13 @@
+---
+id: Quasit
+aliases: []
+tags: ["monster"]
+---
+
 # Quasit
 
 
-<img src="../03_Images/person_placeholder.png" alt="Sinspawn" class="portrait" />
+<img src="../03_Images/person-placeholder.png" alt="Quasit" class="portrait" />
 
 ## Ulkonäkö ja olemus
 

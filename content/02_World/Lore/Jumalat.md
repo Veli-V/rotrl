@@ -1,3 +1,9 @@
+---
+id: Jumalat
+aliases: []
+tags: ["lore", "god", "desna", "abadar", "erastil", "gozreh", "shelyn", "sarenrae", "lamashtu"]
+---
+
 # Jumalat
 
 Golarionin jumalaistoa. Seuraavat jumalat ovat merkityksellisiä Sandpoint-seudulla:

@@ -1,3 +1,9 @@
+---
+id: Kaijitsu
+aliases: []
+tags: ["lore"]
+---
+
 # Kaijitsu
 
 <img src="../03_Images/Kaijitsu.png" alt="Kaijitsu" class="full-page-image" />

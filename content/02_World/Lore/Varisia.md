@@ -1,3 +1,9 @@
+---
+id: Varisia
+aliases: []
+tags: ["lore"]
+---
+
 # Varisia
 
 <img src="../03_Images/Varisia.png" alt="Varisia">

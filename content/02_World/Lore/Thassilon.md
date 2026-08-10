@@ -1,3 +1,9 @@
+---
+id: Thassilon
+aliases: []
+tags: ["lore"]
+---
+
 # Thassilon
 
 <img src="../03_Images/Thassilon.png" alt="Thassilon" class="full-page-image" />

@@ -1,3 +1,9 @@
+---
+id: Goblinit
+aliases: []
+tags: ["lore", "monster"]
+---
+
 # Goblinit
 
 <img src="../03_Images/goblins.jpg" alt="Goblinit" class="full-page-image" />

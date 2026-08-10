@@ -1,3 +1,9 @@
+---
+id: Sinspawn
+aliases: []
+tags: ["monster"]
+---
+
 # Sinspawn - Syntisyintyinen
 
 <img src="../03_Images/Sinspawn.png" alt="Sinspawn" class="portrait" />

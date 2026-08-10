@@ -6,7 +6,7 @@ tags: ["location", "sandpoint", "forest"]
 
 # Tickwood
 
-<img src="../03_Images/tickwood.png" alt="Tickwood" class="full-page-image" />
+<img src="../03_Images/Tickwood.png" alt="Tickwood" class="full-page-image" />
 
 **Tyyppi:** Paikka
 **Sijainti:** [[Sandpoint]]in kaakkoispuolella, joen toisella puolella.

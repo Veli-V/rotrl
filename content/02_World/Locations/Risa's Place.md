@@ -6,7 +6,7 @@ tags: ["location", "sandpoint", "tavern", "bar", "cafe"]
 
 # Risa's Place
 
-<img src="../03_Images/Risas_Place.png" alt="Risa's Place" class="portrait" />
+<img src="../03_Images/Risas_Place.png" alt="Risa's Place" class="full-page-image" />
 
 **Tyyppi:** Taverna/Kahvila.
 **Sijainti:** [[Sandpoint]]

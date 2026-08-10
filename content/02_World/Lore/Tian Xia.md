@@ -1,3 +1,9 @@
+---
+id: Tian Xia
+aliases: []
+tags: ["lore"]
+---
+
 # Tian Xia
 
 <img src="../03_Images/lore-placeholder.png" alt="placeholder" class="portrait" />

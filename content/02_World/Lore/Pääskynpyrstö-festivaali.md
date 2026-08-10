@@ -1,3 +1,9 @@
+---
+id: Swallowtail Festival
+aliases: []
+tags: ["lore", "sandpoint", "desna"]
+---
+
 # Pääskynpyrstö-festivaali (Swallowtail Festival)
 
 **Tyyppi:** Uskonnollinen ja yhteisöllinen juhla.

@@ -6,7 +6,7 @@ tags: ["location", "sandpoint", "smith"]
 
 # Red Dog Smithy
 
-<img src="../03_Images/Red_Dog_Smithy.png" alt="Red Dog Smithy" class="portrait" />
+<img src="../03_Images/Red_Dog_Smithy.png" alt="Red Dog Smithy" class="full-page-image" />
 
 **Tyyppi:** Sepän verstas.
 **Sijainti:** [[Sandpoint]]

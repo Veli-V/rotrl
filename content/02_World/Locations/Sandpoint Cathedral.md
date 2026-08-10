@@ -6,7 +6,7 @@ tags: ["location", "sandpoint"]
 
 # Sandpoint Cathedral
 
-<img src="../03_Images/Sandpoint_Cathedral.png" alt="Sandpoint Cathedral" class="portrait" />
+<img src="../03_Images/Sandpoint_Cathedral.png" alt="Sandpoint Cathedral" class="full-page-image" />
 
 **Tyyppi:** Temppeli/katedraali.
 **Sijainti:** [[Sandpoint]]

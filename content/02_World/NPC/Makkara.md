@@ -9,9 +9,9 @@ tags: ["pc", "sandpoint"]
 <img src="../03_Images/Makkara.png" alt="Makkara" class="portrait" />
 
 **Pelaaja:** Veli-V
-**Rotu:** Goblin
+**Rotu:** "Lasinpuhaltajan poika"
 **Luokka:** Oracle (Life Mystery, Possessed Curse)
-**Tausta:** Kotoisin Thistletopista, kiintyi Georgeen.
+**Tausta:** Kotoisin [[PLACEHOLDER]], kiintyi Georgeen.
 **Rooli:** Lasinpuhaltajan oppipoika.
 **Kuvaus:** Nuori poika, joka selvisi hengissä gobliinien hyökkäyksestä [[Sandpoint Glassworks|lasitehtaalle]] piiloutumalla varastoon. Hän on erittäin traumatisoitunut ja osaa sanoa vain sanan "makkara" ja "kyllä". Hän on ollut lukittuna [[The Rusty Dragon]]issa [[George]]n huoneeseen.
 

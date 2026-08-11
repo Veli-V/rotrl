@@ -25,7 +25,7 @@ Valo otti menehtyneen ystävänsä piipun muistoksi, ja Georgen ruumis nostettii
 ## Georgen viimeiset jäähyväiset
 Einar kantoi Georgen ruumiin [[Sandpoint Cathedral|Sandpointin katedraaliin]], jossa [[Abstalar Zantus|Isä Zantus]] siunasi menehtyneen sankarimiehen. Sovittiin, että Georgen ruumis poltettaisiin rannalla illalla ilman muodollisia kirkollisia menoja. Sillä välin Valo ja Inko suuntasivat [[The Rusty Dragon|Rusty Dragoniin]] hukuttamaan surunsa olueen. Jopa uskollista [[Makkara]]-koiraa järkytti tieto Georgesta, ja se pureskeli pöydän jalasta piipun muotoisen lelun.
 
-Illalla rannalle pidettyyn siunaustilaisuuteen kokoontui suuri osa Sandpointin asukkaista. Paikalla olivat muun muassa merirosvomainen parantaja [[Johan Rayban]] ("Taubert-Healer-2") papukaijoineen sekä [[Sandpoint Theater|Sandpointin teatterin]] johtaja [[Cyrdak Drokkus]]. Valo lausui rannalla Georgen muistolle omistetun runon:
+Illalla rannalle pidettyyn siunaustilaisuuteen kokoontui suuri osa Sandpointin asukkaista. Paikalla olivat muun muassa merirosvomainen parantaja [[Johan Rayban]] ("Taubert-Healer-2") papukaijoineen, [[Sandpoint Theater|Sandpointin teatterin]] johtaja [[Cyrdak Drokkus]] sekä [[Sandpoint Savories]]n [[Alma Avertin]] tyttärineen ([[Aneka Avertin]] ja [[Arika Avertin]]). Valo lausui rannalla Georgen muistolle omistetun runon:
 
 > *"Hänen nimensä oli George,*  
 > *joilla ei ollut shortsi.*  
@@ -41,7 +41,7 @@ Isä Zantus lausui yleismaailmallisen siunauksen, Inko sytytti kokon ja Georgen 
 Tilaisuuden jälkeen Rusty Dragonissa nostettiin maljoja Georgen muistolle. Seurueen pöytään liittyi mystinen muukalainen [[Johan Rayban]], jonka tullessa ilmaan leijaili vieno piipputupakan tuoksu. Kun Valo pyysi pöydästä vapaaehtoisia mukaan kosto-osastolle, Johan Raybanin tuoppi nousee ilmaan ja veti miehen pystyyn: *"En ole varma miksi nousin, mutta uskon että jostain syystä minun on autettava teitä."*
 
 ## Pormestari ja kireä haltianainen
-Seuraavana aamuna Valo, Inko, Einar, [[Ameiko Kaijitsu]], Makkara ja uusi liittolainen [[Johan Rayban]] suuntasivat [[Sandpoint Garrison|Kaupungintalolle]] tapaamaan pormestari [[Kendra Deverin|Kendra Deveriniä]].
+Seuraavana aamuna Valo, Inko, Einar, [[Ameiko Kaijitsu]], Makkara ja uusi liittolainen [[Johan Rayban]] suuntasivat [[Sandpoint Town Hall|Kaupungintalolle]] tapaamaan pormestari [[Kendra Deverin|Kendra Deveriniä]].
 
 Pormestarin huoneessa he kohtasivat silmättömän/pupillittoman haltianaisen, [[Shalelu Andosana|Shalelu Andosanan]], joka vaikutti sokealta mutta näki selvästi. Kun Valo selitti kellarin salaisuudet ja mainitsi kidutuskammion, pormestari kuiskaasi jotain haltialle, jolloin tämä muuttui kireäksi ja poistui kiireesti paikalta.
 

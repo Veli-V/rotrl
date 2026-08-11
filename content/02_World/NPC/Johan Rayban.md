@@ -16,7 +16,7 @@ tags: ["pc"]
 ## Kohokohtia
 * Osallistui [[George]]n siunaus- ja polttohautaustilaisuuteen rannalla. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
 * Liittyi sankareiden ryhmään [[The Rusty Dragon|Rusty Dragonissa]] Georgen muistotilaisuuden jälkeen tuntiessaan selittämätöntä tarvetta auttaa heitä. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
-* Osallistui tapaamiseen pormestari [[Kendra Deverin]]in kanssa Kaupungintalolla ja lähti seurueen mukana katakombeihin. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
+* Osallistui tapaamiseen pormestari [[Kendra Deverin]]in kanssa [[Sandpoint Town Hall|Kaupungintalolla]] ja lähti seurueen mukana katakombeihin. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
 
 ## Maininnat
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]

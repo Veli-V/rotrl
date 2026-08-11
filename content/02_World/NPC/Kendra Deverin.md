@@ -13,11 +13,12 @@ tags: ["npc", "sandpoint"]
 
 ## Kohokohtia
 * Piti avauspuheen Pääskynpyrstö-festivaaleilla. ([[Sessio 03 - Pääskynpyrstö-festivaali]])
-* Tapasi sankarit Kaupungintalolla, kuunteli raportin katakombien vaaroista, antoi valtuutuksen katakombien puhdistamiseen ja kirjoitti suosituskirjeen kaupungin maagisten tavaroiden kauppaan parannussauvaa varten. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
+* Tapasi sankarit [[Sandpoint Town Hall|Kaupungintalolla]], kuunteli raportin katakombien vaaroista, antoi valtuutuksen katakombien puhdistamiseen ja kirjoitti suosituskirjeen kaupungin maagisten tavaroiden kauppaan parannussauvaa varten. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
 
 ## Maininnat
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
+* [[Sandpoint Town Hall]]
 
 
 

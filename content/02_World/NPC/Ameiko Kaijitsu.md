@@ -21,7 +21,7 @@ tags: ["npc", "sandpoint"]
 * Pelastettiin kahlittuna [[Sandpoint Glassworks|lasitehtaan]] kellarista, jossa häntä pidettiin vankina. Hän sai pahasti selkäänsä ja hänet toimitettiin [[The Rusty Dragon|majatalaansa]], jossa [[Hannah Velerin]] hoiti hänen vammojaan. ([[Sessio 06 - Lasitehtaan salaisuudet]])
 * Toipui majatalossaan. [[Einar]] vahti häntä, ja [[Aldern Foxglove]]n suunnittelemat villisikajuhlat lykättiin hänen tilansa vuoksi. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
 * Keskusteli seikkailijoiden kanssa toivuttuaan. Paljasti, ettei tiennyt isänsä osallisuudesta, mutta Tsuto oli yrittänyt rekrytoida hänet mukaan kaupungin tuhoamiseen. Luottaa seikkailijoihin ja haluaa Sandpointin selviävän. ([[Sessio 08 - Katakombien kutsu]])
-* Ilmoittautui mukaan taisteluun Georgen muistoksi järjestetyssä juomatilaisuudessa ja liittyi seurueen mukaan taisteluvarustuksessa Kaupungintalolle. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
+* Ilmoittautui mukaan taisteluun Georgen muistoksi järjestetyssä juomatilaisuudessa ja liittyi seurueen mukaan taisteluvarustuksessa [[Sandpoint Town Hall|Kaupungintalolle]]. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
 
 ## Maininnat
 * [[Sessio 01 - Saapuminen Sandpointiin]]

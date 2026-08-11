@@ -1,6 +1,6 @@
 ---
 id: Shalelu Andosana
-aliases: []
+aliases: ["Mystinen Haltiahahmo"]
 tags: ["npc", "sandpoint", "ranger"]
 ---
 
@@ -21,3 +21,4 @@ tags: ["npc", "sandpoint", "ranger"]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 * [[Sandpoint]]
 * [[Catacombs]]
+* [[Sandpoint Town Hall]]

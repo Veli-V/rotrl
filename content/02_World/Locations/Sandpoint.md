@@ -29,7 +29,7 @@ tags: ["location", "Sandpoint", "city"]
 8. Quink's House (tietäjä)
 9. Locksmith (lukkoseppä)
 10. [[Sandpoint Garrison]]
-11. Sandpoint Town Hall (kaupungintalo)
+11. [[Sandpoint Town Hall]] (kaupungintalo)
 12. [[Savah's Armory]]
 13. [[Risa's Place]]
 14. Rovanky Tannery (nahkuri)

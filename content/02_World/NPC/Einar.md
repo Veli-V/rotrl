@@ -10,6 +10,7 @@ tags: ["pc"]
 
 **Tyyppi:** Pelaajahahmo
 **Pelaaja:** Jouni
+**Tila:** [Sivussa]
 **Rotu:** Neljäsosaörkki, puoliörkin poika
 **Luokka:** Fighter
 **Jumala:** [[Abadar]]

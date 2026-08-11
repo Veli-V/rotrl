@@ -18,6 +18,7 @@
 * [[Sandpoint Boneyard]] - *Hautausmaa*
 * [[Sandpoint Cathedral]] - *Temppeli*
 * [[Sandpoint Garrison]] - *Sotilaslinna*
+* [[Sandpoint Town Hall]] - *Kaupungintalo*
 * [[Sandpoint General Store|General Store]] - *Sekatavarakauppa*
 * [[Sandpoint Glassworks|Glassworks]] - *Kaijitsujen lasitehdas*
 * [[Sandpoint Meat Market|Meat Market]] - *Lihakauppa*
@@ -30,7 +31,7 @@
 * [[The Rusty Dragon]] - *Päämajamme Sandpointissa*
 * [[The White Deer]] - *Majatalo*
 * [[Two Knights Brewery]] - *Paikallinen panimo*
-* [[Vernah’s Fine Clothing]] - *Vaatekauppa*
+* [[Vernah's Fine Clothing]] - *Vaatekauppa*
 
 ## Alueet
 

@@ -7,7 +7,7 @@ tags: ["monster"]
 # Quasit
 
 
-<img src="../03_Images/person-placeholder.png" alt="Quasit" class="portrait" />
+<img src="../03_Images/Erylium.png" alt="Quasit" class="portrait" />
 
 ## Ulkonäkö ja olemus
 

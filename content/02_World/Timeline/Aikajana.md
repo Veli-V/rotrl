@@ -7,7 +7,7 @@ Sisältää pelin sisäisen päivämäärän, siihen viittaavat sessiot, sekä p
 
 ## Kuukaudet ja viikonpäivät
 * Kalenteri on käytännössä sama kuin oikean maailman.
-* Karkauspäivät ovat neljän  vuoden välein. Edellinen oli 4704 AR ja seuraava on 4708 AR.
+* Karkauspäivät ovat neljän vuoden välein. Edellinen oli 4704 AR ja seuraava on 4708 AR.
 * Kuukausissa on saman verran päiviä kuin normaalissa kalenterissa. Kuukaudet on nimetty Golarionin jumalien mukaan.
     * Abadius (Tammikuu, Adabar)
     * Calistril (Helmikuu, Calistria)
@@ -33,5 +33,6 @@ Sisältää pelin sisäisen päivämäärän, siihen viittaavat sessiot, sekä p
 | Rova 24, 4707 AR, Maanantai | [[Sessio 05 - Kirjeitä ja lasinsiruja]]<br>[[Sessio 06 - Lasitehtaan salaisuudet]] | Villisikajahti [[Tickwood]]-metsässä [[Aldern Foxglove]]n kanssa. **Sankarit nousevat tasolle 2.** [[Ameiko Kaijitsu]] katoaa. Taistelu [[Sandpoint Glassworks]]issa, [[Tsuto Kaijitsu]]n kukistaminen ja [[Ameiko Kaijitsu]]n pelastaminen. [[Lonjiku Kaijitsu]] löytyy murhattuna. Tsuton päiväkirja paljastaa hyökkäyssuunnitelmat. |
 | Rova 25, 4707 AR, Tiistai   | [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]<br>[[Sessio 08 - Katakombien kutsu]] | [[Alergast Barett]]in murha. [[Ezakien Tobyn]]in haudanryöstö paljastuu. Ameikon toipuminen ja keskustelut Rusty Dragonissa. |
 | Rova 26, 4707 AR, Keskiviikko | [[Sessio 08 - Katakombien kutsu]]<br>[[Sessio 09 - Georgen muisto ja mystinen haltia]] | Aamupala [[Aldern Foxglove]]n kanssa. Paluu [[Sandpoint Glassworks]]iin ja laskeutuminen [[Catacombs]]eihin. Ensimmäiset kohtaamiset [[Sinspawn]]ien kanssa ja [[Alaznist]]in patsaan löytyminen. Katakombien zombikuopassa käyty taistelu ja [[George]]n menehtyminen. [[Johan Rayban]] liittyy ryhmään majatalossa. |
-| Rova 27, 4707 AR, Torstai | [[Sessio 09 - Georgen muisto ja mystinen haltia]] | [[George]]n polttohautaus rannalla suuren kuntalaisjoukon saattamana. Tapaaminen pormestari [[Kendra Deverin]]in kanssa Kaupungintalolla; mystisen sokean haltian takaa-ajo metsän reunalle. Parannussauvan hankkiminen [[The Feathered Serpent]]istä ja paluu katakombeihin. |
+| Rova 27, 4707 AR, Torstai | [[Sessio 09 - Georgen muisto ja mystinen haltia]] | [[George]]n polttohautaus rannalla suuren kuntalaisjoukon saattamana. |
+| Rova 28, 4707 AR, Perjantai | [[Sessio 09 - Georgen muisto ja mystinen haltia]] | Tapaaminen pormestari [[Kendra Deverin]]in kanssa [[Sandpoint Town Hall|Kaupungintalolla]]; mystisen sokean haltian takaa-ajo metsän reunalle. Parannussauvan hankkiminen [[The Feathered Serpent]]istä ja paluu katakombeihin. |
 

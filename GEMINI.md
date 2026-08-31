@@ -6,35 +6,24 @@ tags: []
 
 # Rise of the Runelords - Muistiinpanojen käsittelyohje
 
-Toimi tämän ohjeen mukaan, kun käyttäjä pyytää käsittelemään uuden pelisession muistiinpanot.
+Tämä repositorioportaali käyttää moduloiatua moniagenttiarkkitehtuuria muistiinpanojen ja pelimaailman automaattiseen jalostamiseen sekä tiedonhakuun.
 
-## 1. Tiedostojen haku ja OCR (Raw-vaihe)
-- Etsi uusi PDF- tai kuvatiedosto kansiosta `00_Raw/`.
-- Lue tiedoston sisältö ja muunna se tekstiksi (OCR).
-- Tallenna teksti sellaisenaan tiedostoon `00_Raw/sessio_X_raw.md`.
-- Tarkista myös 00_Raw/ kansiossa olevat GM_appendix_X_raw.md tiedostot onko niihin tullut muutoksia tai uusia.
-    - Nämä GM_appendix tiedostot ovat game masterin lisäämiä lisätietoja, joten käsittele ne kuten muistiinpanot. Jos muistiinpanoissa tai muissa lähteissä on ristiriitoja, game masterin muistiinpanot ovat primäärisiä totuuksia.
-    - **Huom:** GM_Appendix-numerointi on itsenäinen eikä liity sessioiden numeroihin. Käsittele ne erillisinä päivityksinä.
+## Orkestrointi ja Työnkulku
 
-## 2. Jalostus (Sessions-vaihe)
-- Kirjoita muistiinpanot puhtaaksi tiedostoon `content/01_Sessions/Sessio X - [Otsikko].md`.
-- Käytä selkeää suomen kieltä ja korjaa tunnistusvirheet (vrt. Pathfinder-lore). Ainoa poikkeus on "Nualia", joka tunnetaan tässä Wikissä nimellä "Nelli".
-- Lisää `[[Wikilinkit]]` kaikille hahmoille, paikoille ja tärkeille termeille.
-    - **Käytäntö:** Linkitä pääsääntöisesti vain termin ensimmäinen maininta sivulla tai kun se on kontekstin selkeyden kannalta oleellista, välttääksesi turhaa linkkien paljoutta.
-- Päivitä `content/01_Sessions/Index.md` lisäämällä uusi sessio listaan.
+Kun käyttäjä pyytää käsittelemään uuden pelisession muistiinpanot, noudata [process_session.md](file:///.agents/workflows/process_session.md) -työnkulkuohjetta.
 
-## 3. Maailman päivittäminen (World-vaihe)
-- Tunnista tekstistä uudet NPC:t, olennot, paikat ja lore-tiedot.
-- Jos hahmolle/paikalle ei ole vielä tiedostoa `content/02_World/` -kansiossa, luo se.
-- Päivitä kaikkiin mainittuihin maailman tiedostoihin (NPC, Locations, Monsters, Lore) **Maininnat**-osio (backlinkit) kyseiseen sessioon.
-- Mikäli tiedostossa mainittuihin aiheisiin on olemassa kuva kansiossa `content/03_Images`, liitä se tiedoston alkuun. Mikäli hyvää kuvitusta ei ole, lisää *-placeholder.png kuva sivun alkuun. Tämä pätee henkilöihin, paikkoihin sekä loreen.
-- Päivitä tarvittavat `Index.md` -tiedostot `content/02_World/` alikansioissa.
-    - **Rikastaminen:** Lisää Index-tiedostoihin hahmojen/paikkojen perään lyhyesti status (esim. [Kuollut], [Vankina]) tai merkittävä suhde, jos se on muuttunut, jotta kokonaiskuva säilyy selkeänä tiedostomäärän kasvaessa.
-- Päivitä `Aikajana.md` `content/02_World/Timeline/` alikansiossa perustuen sessiossa mainittuun ajan etenemiseen.
-- Päivitä pelaajahahmojen tiedostoja tarpeen tullen. Erityisesti "Kohokohtia" on hyvä lisätä. Einar, Inko, Valo, George sekä Makkara ovat pelaajahahmoja.
+Käsittely koostuu kolmesta erillisestä vaiheesta, jotka voidaan suorittaa aliagenteilla (`invoke_subagent`) tai vaiheittaisilla tehtävillä:
 
-## 4. Konventiot
+1. **[01_ocr_transcriber](file:///.agents/prompts/01_ocr_transcriber.md):** Luetaan raakamateriaali kansiosta `00_Raw/` ja luodaan `sessio_X_raw.md`.
+2. **[02_session_editor](file:///.agents/prompts/02_session_editor.md):** Jalostetaan raakatekstistä puhdas `content/01_Sessions/Sessio X - [Otsikko].md`, korjataan nimet (esim. Nualia -> Nelli) ja lisätään wikilinkit.
+3. **[03_world_updater](file:///.agents/prompts/03_world_updater.md):** Päivitetään `content/02_World/`-kansion NPC:t, paikat, maininnat (backlinkit), indeksien hahmostatukset, aikajana sekä pelaajahahmojen kohokohdat.
+
+## Haku ja Tietopalvelu
+4. **[04_search_agent](file:///.agents/prompts/04_search_agent.md):** Kun käyttäjä haluaa etsiä tietoa tietystä hahmosta, paikasta tai tapahtumasta (esim. `haku-agentti Makkara`), käytetään tätä agenttia lukemaan indeksit ja entiteettisivut sekä antamaan tiivistelmä ja vastaamaan jatkokysymyksiin.
+
+## Yleiset Konventiot
 - **Kieli:** Suomi.
-- **Linkitys:** Käytä aina muotoa `[[TiedostonNimi]]`.
+- **Linkitys:** Käytä muotoa `[[TiedostonNimi]]`.
 - **Nimeäminen:** Käytä virallisia Pathfinder (Rise of the Runelords) nimenkirjoitusasuja.
 - **Rakenne:** Säilytä kansiorakenne `00_Raw`, `content/01_Sessions`, `content/02_World`.
+- **Primäärinen totuus:** Game Masterin merkinnät (`GM_appendix`) ovat ensisijaisia totuuksia mahdollisissa ristiriidoissa.

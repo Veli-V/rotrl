@@ -29,6 +29,7 @@ tags: ["pc"]
 * Vietti illan [[Aneka Avertin]]in kanssa simaa juoden. ([[Sessio 06 - Lasitehtaan salaisuudet]])
 * Kysyi [[Aldern Foxglove]]lta riiausevinkkejä aamupalalla. Tiirikoi lasitehtaan toisen oven auki päästäkseen vartijan ohi. Eteni etujoukoissa katakombeissa etsien ansoja. Otti osumaa ensimmäisessä taistelussa Sinspawnia vastaan. ([[Sessio 08 - Katakombien kutsu]])
 * Otti menehtyneen Georgen piipun muistoksi. Kirjoitti ja lausui muistorunon Georgen polttohautauksessa rannalla. Seurasi epäilyttävää haltianaista pormestarin luota aina kaupungin ulkopuolelle metsän reunalle saakka. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
+* Ehdotti Vihan kammiossa Lamashtun palvontapaikan etsimistä. Astui kalloilla täytettyyn pesuhuoneeseen ja joutui Vargouillen kiljumisen heijastaman syyllisyyden (*War Guilt*) kohteeksi. Poimi kipinöivästä ja leijuvasta pallohuoneesta *Wand of Shocking Grasp* -taikasauvan sekä ihmisnahkaan sidotun Lamashtun pahuuden kirjan. Nousi tasolle 3. ([[Sessio 10 - Vihan Runewell ja Erylium]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -39,4 +40,5 @@ tags: ["pc"]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
+* [[Sessio 10 - Vihan Runewell ja Erylium]]
 

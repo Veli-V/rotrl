@@ -12,6 +12,7 @@ Tässä on lista kaikista pelatuista sessioista kronologisessa järjestyksessä.
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]] (18.5.2026) - *Barett-perheen tragedia ja Ezakien Tobynin hautaryöstö*
 * [[Sessio 08 - Katakombien kutsu]] (25.5.2026) - *Tutkimuksia lasitehtaan alla ja muinaisia kauhuja*
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]] (27.7.2026) - *Georgen tragedia, muistotilaisuus rannalla ja mystisen haltian takaa-ajo*
+* [[Sessio 10 - Vihan Runewell ja Erylium]] (10.8.2026) - *Vihan Runewell, taistelu Eryliumin kanssa ja pallohuoneen salaisuudet*
 
 ---
 [Takaisin alkuun]([[Index]])

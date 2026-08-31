@@ -24,6 +24,7 @@ Sivukammioista löytyi koukussa roikkuva kolmikätinen luuranko, oudosti muokkau
 ## Tapahtumat
 * [[Sessio 08 - Katakombien kutsu]] - Ryhmä palasi katakombeihin selvittämään ryöstöön liittyviä johtolankoja.
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]] - Vankila-alueen tyrmissä käytiin taistelu kolmikätistä mutanttigoblinia ja zombeja vastaan, missä George menehtyi kuopassa.
+* [[Sessio 10 - Vihan Runewell ja Erylium]] - Vihan kammion puhdistaminen, Vihan [[Runewell|Runewellin]] tutkiminen, [[Erylium]]-quasitin ja [[Sinspawn|syntisyintyisen]] surmaaminen sekä pesuhuoneen ([[vargouille]]) ja leijuvan pallohuoneen löytäminen.
 
 <img src="../03_Images/Thassilon_riimut.png" alt="Riimut" class="full-page-image" />
 
@@ -32,11 +33,13 @@ Sivukammioista löytyi koukussa roikkuva kolmikätinen luuranko, oudosti muokkau
 * [[Sandpoint Boneyard]]
 * [[Ezakien Tobyn]]
 * [[Nelli Tobyn]]
+* [[Runewell]]
 
 ## Maininnat
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
+* [[Sessio 10 - Vihan Runewell ja Erylium]]
 * [[Sandpoint Glassworks]]
 * [[Sandpoint Boneyard]]
 

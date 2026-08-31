@@ -1,70 +1,72 @@
-# Sessio #10
+# Sessio #10 - Käsinkirjoitetut muistiinpanot (Raw transcript)
 
-10/8/26
+--- Sivu 1 ---
+Sessio #10 (10/8/26)
 
-## Kertaus
+Kertaus:
 - George kuoli
 - Hautajaiset
-- Healin esineitä
+- Heali & esineitä
 - Takas luolaan
 
-## Luola
-Johanille iskee astma kohtaus
--> Einar auttaa takaisin ulkoilmaan.
-=> Einar vielä vilkuttelee Ameikolle
+Luola:
+Johanille iskee astmakohtaus
+=> Einar auttaa takaisin ulkoilmaan.
+=> Einar vielä vilkuttaa Ameikolle
 
-Jatketaan Sinisestä marmorista tehty huone
--> Alttari, hyvin likaista vettä.
+Jatketaan: Sinisestä marmorista tehty huone
+=> Alttari, hyvin likaista vettä.
 
-Lamasthu jotain T: Ameiko
--> Ei kannata juoda
+Lamasthu
+=> Ei kannata juoda T: Ameiko
 
-Iso ovi:            Tassilonian riimuja
-- Tervetuloa vihan [yli vedetty: huoneeseen] kammioon.
+Iso ovi:
+Seinällä Thassilonian riimuja
+- Tervetuloa vihan kammioon.
 
-Ameiko kyselee mitä tehdään
+Ameiko kyselee mitä tehdään.
 
-## Vihan kammio
+Vihan Kammio:
 Isohko huone.
 -> Keskellä allas täynnä nestettä.
--> ihmisen kalloista tehty rengas altaan reunoilla
--> seinät täynnä Tassilonin riimuja
+-> Ihmisen kalloista tehty rengas altaan reunoilla
+-> Seinät täynnä Thassilonin riimuja
 
-Perällä korotettu tasanne. Tasanteelta nousee kevyttä savu kiemuroita.
+Perällä korotettu tasanne. Tasanteelta nousee kevyttä savua ja kurottaa.
+Tasanteella siivekäs otus.
+Inko huikkailee sille draconiccia
+=> Keskustelevat telepaattisesti
 
-Tasanteella siivikäs otus
-Valo huikkailee sille dragoniccia
--> keskustelevat telepaattisesti
+Inko: "Meidän ois ehkä syytä poistua, tämä on hänen kotinsa"
 
-Valo: "Meidän ois ehkä syytä poistua, tämä on hänen koti"
+--- Sivu 2 ---
+Valo: "Koitetaan löytää paikkaa missä palvotaan Paleracista"
 
-Valo: "Koitetaan löytää paikka missä palvotaan [epäselvä: palomuurista]"
+Otus viiltää ranteensa auki ja nauraa.
+Veri valutetaan altaaseen / tasanteelle.
 
-Otus viiltää ranteensa auki ja huutaa..
-Veri valutetaan jollakin tasanteella.
+Perääntydään. Järjestäydytään asemiin.
 
-[yli vedetty: perääntyminen] Vetäytyminen asemiin.
-
-Käytävälle tulee sinspawn ja se dragon ogre
+Käytävälle tulee sinspawn ja se dragon otus
 
 Pitkä taistelu, mutta lopulta voitto.
 
-Lootina Tiara, Taika tikari, Itselleni lootaten/irrotan vasemman jalan
-(Ympyröity: Level up)
+Loottina Tiara, Taiha dihan, itselleen loottaa / irrottaa vasemman jalan
 
-Tutkitaan Raunioita.
+[ Level up ]
+
+Tutkitaan kammiota.
 
 Ameiko kertoo että Vihan Runewell
-
-Tapaamamme tyypin koti/pyhättö.
+Tarjoamme tyypin koti / pyhäkkö.
 palvotta Lamashtua.
 
 Riimuissa mainitaan Scribbler
 
 Altaasta verellä summonoitu oli se sinspawn
 
-Ameiko veikkaa että tyyppi joku tapettiin ois
-[ Erylium ] <- ehkä nimeltään
+Ameiko veikkaa että tyyppi joka tapettiin ois
+Erglium (Erylium) <- ehkä nimeltään.
 
 [ Jatkamme tutkimista ]
 
@@ -72,32 +74,32 @@ Yhden käytävän päästä löytyy pesuhuone.
 Pesuallas jossa kalloja
 
 Valo astuu huoneeseen.
--> Huoneen katossa hengaa siivekäs kallo
--> alkaa huutaa heti vitun lujaa.
--> Healiltä
-  War Guil
+-> Huoneen katossa roikkuu siivekäs kallo
+-> alkaa huutaa heti vihan lujaa / hiton lujaa.
+-> Heijastaa: War Guilt
 
-## Pallo huone
+--- Sivu 3 ---
+Pallohuone
 
-Seinillä/ilmassa leijuu
-- kuollut korppi
-- kirja
-- keppi
-- viinipullo
+Seinillä/ilmassa leijuu:
+- Kuollut korppi
+- Kirja
+- Käärö
+- Viinipullo
 
-Seinät punaista metallia joka kuin salamaa,
-väliin ilmestyy riimuja
+Seinät punaista metallia joka kuin salamat
+Välillä ilmestyy salamoita / valoja
 
 Valo koittaa kurottaa kirjaa
--> Sähköä väliin estämässä
+=> Syöksyjen / salamoitten väliin estämässä
 
-Leijuminen riivaa. Aina kun seinään osuu, niin suutahtaa
+Leijuvan tavaran aina kun seinään osuu, niin suunta vaihtuu
 
-Wand of shoching chasp 23 chargea
+Wand of shocking grasp 23 chargea
 
-Lamasthun pahasta kirja ihmisnahka
+Lamasthun pahuuden kirja ihmisnahkaa
 
-Eryriumille T: Tsuto
+Eryliumille T: Tsuto
 (Quasit)
 
 (3 1 level slottia)

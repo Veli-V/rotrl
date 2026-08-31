@@ -27,6 +27,7 @@ tags: ["pc"]
 * Kukisti gobliinin taioilla yhdessä [[George]]n kanssa. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
 * Yritti tunnistaa taikasormusta tuloksetta. Tunki Valon ja Aldernin väliin aamupalalla. Löi Sinspawnia huivillaan taistelussa ja paransi Valon haavat. Menetti yhden loitsunsa taistelun tuoksinassa. ([[Sessio 08 - Katakombien kutsu]])
 * Kukisti 3-käsisen mutanttigoblinin katakombeissa ja paransi Einarin sekä Valon tajuttomuudesta. Sytytti Georgen kokon rannalla ja hankki ryhmälle parannussauvan (*Wand of Cure Light Wounds*) Feathered Serpentistä. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
+* Keskusteli telepaattisesti ja lohikäärmekielellä (*Draconic*) Erylium-quasitin kanssa Vihan kammiossa. Osallistui taisteluun, otti surmatun Sinspawnin vasemman jalan trofeeksi/loottina ja nousi tasolle 3. ([[Sessio 10 - Vihan Runewell ja Erylium]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -38,5 +39,6 @@ tags: ["pc"]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
+* [[Sessio 10 - Vihan Runewell ja Erylium]]
 * [[Appendix 0]]
 

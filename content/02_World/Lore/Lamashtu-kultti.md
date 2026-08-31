@@ -67,9 +67,11 @@ Kultin päätavoite on tuhota [[Sandpoint]].
 ## Maininnat
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 08 - Katakombien kutsu]]
+* [[Sessio 10 - Vihan Runewell ja Erylium]]
  - Paljastaminen
 * [[GM_appendix_6_raw]] - Tsuton päiväkirja kokonaisuudessaan
 * [[Tsuto Kaijitsu]] - Kultin jäsen
+* [[Erylium]] - Kultin quasit-noita katakombeissa
 * [[Malfeshnekor]] - Demon kultin palvelussa
 * [[Thistletop]] - Goblin-liittoutuma
 * [[Sandpoint Glassworks]] - Operaatioiden pääkeskus

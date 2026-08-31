@@ -34,10 +34,11 @@ Monet Thassilonin suurimmista rakennelmista ovat niin valtavia, että niiden syn
 
 * **[[Magnimar|Irespanin sillanraunio]]** — Thassilonilainen megarakennelma, jonka varjossa [[Magnimar]] on kasvanut.
 
-* **[[Sandpoint Glassworks|Lasitehtaan katakombit]]** — Sandpointin alta löytynyt muinainen temppelikokonaisuus, joka on omistettu riimulordi [[Alaznist|Alaznistille]].
+* **[[Catacombs|Lasitehtaan katakombit]]** — Sandpointin alta löytynyt muinainen temppelikokonaisuus, joka on omistettu riimulordi [[Alaznist|Alaznistille]] ja josta löytyi muun muasa [[Runewell|Vihan Runewell]].
 
 ## Maininnat
 
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
+* [[Sessio 10 - Vihan Runewell ja Erylium]]
 * [[appendix_thassilon_lore]]

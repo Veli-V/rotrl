@@ -45,11 +45,13 @@
 ### Viholliset ja muut
 * [[Alaznist]] (Vihan riimulordi)
 * [[Bruthazmus]] (Bugbear)
+* [[Erylium]] [Kuollut quasit-noita katakombeissa, surmattiin sessiossa 10]
 * [[Ezakien Tobyn]] (Edesmennyt pappi)
 * [[Jervis Stoot]] (Chopper)
 * [[Malfeshnekor]] (Demoni/Barghest)
 * [[Nelli Tobyn]] (Ezakien Tobynin ottotytär)
 * [[Ripnugget]] (Goblin-kuningas)
+* [[Scribbler]] (Salaperäinen kirjoittaja muinaisissa riimuissa)
 * [[Tsuto Kaijitsu]] (Kukistettu juonittelija)
 
 ---

@@ -25,3 +25,4 @@ Monissa tarinoissa vargouillen pelätyään levittävän kirousta tai tautia, jo
 ## Maininnat
 
 * [[Catacombs]]
+* [[Sessio 10 - Vihan Runewell ja Erylium]] - Pesuhuoneen katossa roikkuva siivekäs kallo.

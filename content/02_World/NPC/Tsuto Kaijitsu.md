@@ -1,4 +1,4 @@
-﻿---
+---
 id: Tsuto Kaijitsu
 aliases: []
 tags: ["npc", "dead"]
@@ -20,12 +20,14 @@ tags: ["npc", "dead"]
 * Päiväkirjassa oli eroottisia piirustuksia eräasta naisesta ja ihmisestä, jolla oli siivet ja muita demonisia piirteitä - ilmeisesti succubi. Tsuton kirjoitusten perusteella tämä nainen oli hänen "rakkaansa" ja Sandpointin hyökkäyksen pääpahis.
 * Päiväkirjassa viitattiin demoniin nimeltä [[Malfeshnekor]].
 * Ameiko paljasti, että Tsuto yritti suostutella häntä mukaan Sandpointin tuhoamiseen ja salaperäiseen kulttiin ennen vangitsemistaan. ([[Sessio 08 - Katakombien kutsu]])
+* Katakombien pallohuoneesta löytyi Tsutolta Eryliumille osoitettu viesti (*"Eryliumille T: Tsuto"*) Lamashtun pahuuden kirjan välistä. ([[Sessio 10 - Vihan Runewell ja Erylium]])
 
 ## Maininnat
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 08 - Katakombien kutsu]]
+* [[Sessio 10 - Vihan Runewell ja Erylium]]
 * [[GM_appendix_6_raw]] - Tsuton päiväkirjasivu kuvilla ja täydellisellä sisällöllä
 
 

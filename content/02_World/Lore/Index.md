@@ -5,6 +5,7 @@
 * [[Kaijitsu]] - *Sandpointin perustajasuku Tian Xiasta*
 * [[Pääskynpyrstö-festivaali]] - *Desnan kunniaksi järjestettävä juhla*
 * [[Rise of the Runelords]] - *Kampanjan yleistiedot*
+* [[Runewell]] - *Muinainen Thassilonin maaginen artefakti ja kaivo*
 * [[Thassilon]] - *Muinainen imperiumi ja sen jäänteet Varisiassa*
 * [[Tian Xia]] - *Golarionin itäinen maanosa*
 * [[Varisia]] - *Maantiede ja historia*

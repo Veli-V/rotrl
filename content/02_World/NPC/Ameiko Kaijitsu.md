@@ -22,6 +22,7 @@ tags: ["npc", "sandpoint"]
 * Toipui majatalossaan. [[Einar]] vahti häntä, ja [[Aldern Foxglove]]n suunnittelemat villisikajuhlat lykättiin hänen tilansa vuoksi. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
 * Keskusteli seikkailijoiden kanssa toivuttuaan. Paljasti, ettei tiennyt isänsä osallisuudesta, mutta Tsuto oli yrittänyt rekrytoida hänet mukaan kaupungin tuhoamiseen. Luottaa seikkailijoihin ja haluaa Sandpointin selviävän. ([[Sessio 08 - Katakombien kutsu]])
 * Ilmoittautui mukaan taisteluun Georgen muistoksi järjestetyssä juomatilaisuudessa ja liittyi seurueen mukaan taisteluvarustuksessa [[Sandpoint Town Hall|Kaupungintalolle]]. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
+* Osallistui luolaston raivaukseen katakombeissa. Varoitti ryhmää juomasta Lamashtun alttarin vettä. Tunnisti Vihan kammiossa Vihan [[Runewell|Runewellin]] sekä arveli surmatun quasitin olevan nimeltään [[Erylium]]. ([[Sessio 10 - Vihan Runewell ja Erylium]])
 
 ## Maininnat
 * [[Sessio 01 - Saapuminen Sandpointiin]]
@@ -32,6 +33,7 @@ tags: ["npc", "sandpoint"]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
+* [[Sessio 10 - Vihan Runewell ja Erylium]]
 
 
 

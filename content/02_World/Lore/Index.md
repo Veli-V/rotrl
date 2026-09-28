@@ -4,6 +4,7 @@
 * [[Jumalat]] - *Golarionin jumalat*
 * [[Kaijitsu]] - *Sandpointin perustajasuku Tian Xiasta*
 * [[Pääskynpyrstö-festivaali]] - *Desnan kunniaksi järjestettävä juhla*
+* [[Riimulordit]] - *Thassilonin seitsemän muinaista hallitsijaa*
 * [[Rise of the Runelords]] - *Kampanjan yleistiedot*
 * [[Runewell]] - *Muinainen Thassilonin maaginen artefakti ja kaivo*
 * [[Thassilon]] - *Muinainen imperiumi ja sen jäänteet Varisiassa*

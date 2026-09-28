@@ -30,6 +30,10 @@ Varisian kivissä, raunioissa ja joskus vanhoissa esineissä näkyy outoja riimu
 
 Monet Thassilonin suurimmista rakennelmista ovat niin valtavia, että niiden syntyä on vaikea selittää tavallisella ihmisvoimalla. Vanhojen tekstien, tarinoiden ja raunioiden perusteella jättiläiset liittyivät olennaisesti Thassilonin valtaan. Heitä käytettiin rakentajina, sotavoimana ja muinaisen imperiumin työkaluna. Siksi jättiläisten jäljet, suuret kivirakenteet ja Thassilonin rauniot kulkevat usein samoissa tarinoissa.
 
+## Riimulordit
+
+Thassilonia hallitsi seitsemän [[Riimulordit|riimulordia]]. Heistä tunnetaan toistaiseksi vain vihan riimulordi [[Alaznist]].
+
 ## Merkittäviä jäänteitä
 
 * **[[Magnimar|Irespanin sillanraunio]]** — Thassilonilainen megarakennelma, jonka varjossa [[Magnimar]] on kasvanut.

@@ -16,6 +16,7 @@ tags: ["npc", "sandpoint"]
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+* [[Sessio 11 - Soluttautuminen Thistletopiin]] - Valo raportoi hänelle katakombien demonisista löydöistä. Hemlockin kirjoittaman lapun Makkara söi.
 
 
 

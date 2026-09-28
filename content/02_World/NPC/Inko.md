@@ -28,6 +28,7 @@ tags: ["pc"]
 * Yritti tunnistaa taikasormusta tuloksetta. Tunki Valon ja Aldernin väliin aamupalalla. Löi Sinspawnia huivillaan taistelussa ja paransi Valon haavat. Menetti yhden loitsunsa taistelun tuoksinassa. ([[Sessio 08 - Katakombien kutsu]])
 * Kukisti 3-käsisen mutanttigoblinin katakombeissa ja paransi Einarin sekä Valon tajuttomuudesta. Sytytti Georgen kokon rannalla ja hankki ryhmälle parannussauvan (*Wand of Cure Light Wounds*) Feathered Serpentistä. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
 * Keskusteli telepaattisesti ja lohikäärmekielellä (*Draconic*) Erylium-quasitin kanssa Vihan kammiossa. Osallistui taisteluun, otti surmatun Sinspawnin vasemman jalan trofeeksi/loottina ja nousi tasolle 3. ([[Sessio 10 - Vihan Runewell ja Erylium]])
+* Soluttautui [[Thistletop]]iin Makkaran naamioimana palkkasoturiroistona ja "Tsuton kätyrinä". Osallistui taisteluun [[Lyrie Akenja|Lyrieä]] vastaan. ([[Sessio 11 - Soluttautuminen Thistletopiin]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -40,5 +41,6 @@ tags: ["pc"]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 * [[Sessio 10 - Vihan Runewell ja Erylium]]
+* [[Sessio 11 - Soluttautuminen Thistletopiin]]
 * [[Appendix 0]]
 

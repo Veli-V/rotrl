@@ -21,6 +21,7 @@ tags: ["location", "sandpoint", "shop", "vendor"]
 * [[Sessio 02 - Swallowtail Festival]]: Ryhmä kävi ensimmäisen kerran leipomossa ennen festivaalia. Alma sekä Arika ja Aneka pyörittivät paikkaa, joka näytti toimivan normaalisti ja oli osa Sandpointin arkea.
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]: Goblinhyökkäyksen jäljiltä ikkunat olivat rikki, mutta vauriot jäivät vähäisiksi. Valo jäi kahden kesken Anekalle, tunnelma oli selvästi romanttinen ja leivonnaisia tarjottiin ilmaiseksi.
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]: Valo tuli leipomoon yrittämään poskipusua Anekan kanssa, mutta suuteli vahingossa Arikaa. Tilanne oli nolo ja jäi erityisen mieleenpainuvana hetkenä, minkä jälkeen Valo sai lopulta kutsuttua Anekan illalliselle.
+* [[Sessio 11 - Soluttautuminen Thistletopiin]]: Valo kävi moikkaamassa Anekaa ennen Thistletopin retkeä, Makkara söi pullaa. Aneka lupasi odottaa Valon paluuta.
 
 ## Mieleenpainuvat tapahtumat
 * Valo erehtyi suudelmassa ja osui Anekan sijaan Arikaan.
@@ -30,4 +31,5 @@ tags: ["location", "sandpoint", "shop", "vendor"]
 ## Maininnat
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+* [[Sessio 11 - Soluttautuminen Thistletopiin]]
 * [[Appendix 0]]

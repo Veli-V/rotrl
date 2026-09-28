@@ -35,7 +35,7 @@
 
 ## Alueet
 
-**[[Thistletop]]** - *Goblini-saari*
+**[[Thistletop]]** - *Goblini-saari* [Ryhmä soluttautunut linnoitukseen]
 
 **[[Tickwood]]** - *Metsästysalue*
 

@@ -77,5 +77,6 @@ tags: ["location", "Sandpoint", "city"]
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
+* [[Sessio 11 - Soluttautuminen Thistletopiin]] - Valmistelut ennen lähtöä Thistletopiin; Ripnugget haluaa polttaa kaupungin.
 * [[Appendix 0]]
 * [[appendix_varisia_lore]]

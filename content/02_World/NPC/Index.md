@@ -47,10 +47,13 @@
 * [[Bruthazmus]] (Bugbear)
 * [[Erylium]] [Kuollut quasit-noita katakombeissa, surmattiin sessiossa 10]
 * [[Ezakien Tobyn]] (Edesmennyt pappi)
+* [[Gogmurt]] (Thistletopin goblin-druidi)
 * [[Jervis Stoot]] (Chopper)
+* [[Lyrie Akenja]] [Kuollut, surmattiin Thistletopissa sessiossa 11]
 * [[Malfeshnekor]] (Demoni/Barghest)
-* [[Nelli Tobyn]] (Ezakien Tobynin ottotytär)
-* [[Ripnugget]] (Goblin-kuningas)
+* [[Nelli Tobyn]] (Ezakien Tobynin ottotytär) [Thistletopissa]
+* [[Orik Vancaskerkin]] (Thistletopin ihmissotilas) [Tietää ryhmän aikeista, seuraa käytävässä]
+* [[Ripnugget]] (Goblin-kuningas) [Ryhmä tavannut valtaistuinsalissa]
 * [[Scribbler]] (Salaperäinen kirjoittaja muinaisissa riimuissa)
 * [[Tsuto Kaijitsu]] (Kukistettu juonittelija)
 

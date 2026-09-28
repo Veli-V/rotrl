@@ -20,6 +20,7 @@ tags: ["location", "sandpoint", "smith"]
 ## Tapahtumat
 * [[Sessio 01 - Saapuminen Sandpointiin]]: Das Korvut esitellään paikallisena sepänä, joka on hyvin vihainen, vaikea ihminen ja rakastaa erityisesti koiriaan.
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]: Ryhmä tarvitsee villisikakeihäitä, mutta Das Korvut todetaan liian epäystävälliseksi, joten he suuntaavat [[Savah Bevaniky|Savah's Armoryyn]] ostoksille.
+* [[Sessio 11 - Soluttautuminen Thistletopiin]]: Ennen Thistletopin retkeä ryhmä asioi Das Korvutilla ja sai häneltä *Masterwork Light Crossbow*:n.
 
 ## Mieleenpainuvat tapahtumat
 * Das Korvut muistetaan ennen kaikkea äkäisestä asenteestaan ja siitä, että hän suhtautuu ihmisiin paljon viileämmin kuin mastiffeihinsa.
@@ -28,3 +29,4 @@ tags: ["location", "sandpoint", "smith"]
 ## Maininnat
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+* [[Sessio 11 - Soluttautuminen Thistletopiin]]

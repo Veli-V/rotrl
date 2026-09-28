@@ -16,6 +16,7 @@ tags: ["npc", "sandpoint"]
 ## Maininnat
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+* [[Sessio 11 - Soluttautuminen Thistletopiin]] - Ryhmä hankki häneltä *Masterwork Light Crossbow*:n ennen Thistletopin retkeä.
 * [[Appendix 0]]
 
 

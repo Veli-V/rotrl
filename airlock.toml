@@ -1,0 +1,13 @@
+presets = ["claude-code"]
+
+[network]
+policy = "deny-by-default"
+
+[network.rules.npm]
+allow = ["registry.npmjs.org"]
+
+[network.rules.github]
+allow = ["github.com", "api.github.com", "codeload.github.com", "objects.githubusercontent.com"]
+
+[vm]
+image = "docker/sandbox-templates:claude-code"

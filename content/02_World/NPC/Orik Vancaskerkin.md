@@ -1,0 +1,18 @@
+---
+id: Orik Vancaskerkin
+aliases: ["Orik"]
+tags: ["npc", "thistletop"]
+---
+
+# Orik Vancaskerkin
+
+<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+
+**Rooli:** Ihmissotilas / palkkasoturi [[Thistletop]]issa.
+**Kuvaus:** Kiukkuinen sotilas, yksi Thistletopissa asuvista "pitkäjaloista". Haluaa vain odottaa oikeaa hetkeä.
+
+## Kohokohtia
+* Saapui [[Ripnugget]]in valtaistuinsaliin. [[Makkara]] haukkui hänet kissaksi, mistä hän suuttui, mutta suostui silti viemään ryhmän [[Nelli Tobyn|Nellin]] luokse. Jätti ryhmän [[Lyrie Akenja|Lyrien]] huomaan ruokahuoneeseen. Kuuli Lyrien kanssa käydyn taistelun ja jäi seuraamaan tilannetta käytävässä. ([[Sessio 11 - Soluttautuminen Thistletopiin]])
+
+## Maininnat
+* [[Sessio 11 - Soluttautuminen Thistletopiin]]

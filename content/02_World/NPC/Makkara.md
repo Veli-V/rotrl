@@ -1,7 +1,9 @@
 ---
 id: Makkara
 aliases: []
-tags: ["pc", "sandpoint"]
+tags:
+  - pc
+  - sandpoint
 ---
 
 # Makkara
@@ -20,10 +22,12 @@ tags: ["pc", "sandpoint"]
 * Lukittuna [[The Rusty Dragon]]issa turvaan - raapi sormensa verille yrittäessään paeta huoneesta. [[George]] hoiti hänen kätensä. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
 * Herätti seikkailijat ravistelemalla heitä aamupalalle. Osallistui aamupalahetkeen majatalossa. ([[Sessio 08 - Katakombien kutsu]])
 * Kuultuaan uutiset Georgen kuolemasta suri tätä pureskelemalla pöydän jalasta piipun muotoisen lelun. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
+* Söi pullaa [[Sandpoint Savories]]issa ja sheriffi [[Belor Hemlock]]in kirjoittaman lapun. Naamioi (*Disguise*) Valon ja Inkon palkkasoturiroistoiksi ja johti ryhmää [[Thistletop]]in linnoituksessa. Vahtikoirat eivät välittäneet hänestä; hän hankasi kainalohikeä Valoon ja Inkoon, jotta nämä haisisivat goblinilta. Harhautti [[Gogmurt]]in *Ventriloquism*-loitsulla Ripnuggetin äänellä. Haukkui [[Orik Vancaskerkin|Orikin]] kissaksi. Muistiinpanojen mukaan hänen äitinsä olisi ollut Thistletopin kellarissa *(epävarma luenta)*. ([[Sessio 11 - Soluttautuminen Thistletopiin]])
 
 ## Maininnat
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
+* [[Sessio 11 - Soluttautuminen Thistletopiin]]
 

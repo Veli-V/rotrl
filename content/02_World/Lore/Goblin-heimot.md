@@ -20,5 +20,6 @@ tags: ["lore", "monster"]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] (Kuulustelussa selvisi Thistletop-heimon kotipaikka ja "Pitkäjalka"-johtaja)
 * [[Sessio 06 - Lasitehtaan salaisuudet]] (Thistletop-goblineita lasitehtaalla, Ripnuggetin ja Tsuton juoni paljastui)
+* [[Sessio 11 - Soluttautuminen Thistletopiin]] (Soluttautuminen Thistletop-heimon linnoitukseen; Birdcruncher-heimolta tullut viesti Ripnuggetille)
 * [[Appendix 0]] (Birdcruncher ja Seven Tooth -heimojen kotipaikat)
 * [[Appendix goblin lore]] (Yleistä tietoa gobliinien kulttuurista ja uskomuksista)

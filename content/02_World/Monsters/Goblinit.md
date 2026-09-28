@@ -114,3 +114,4 @@ Goblinien identiteetti on **äänekäs, yhteisöllinen, kaoottinen ja hyvin elä
 * [[Sessio 02 - Swallowtail Festival]] - Thistletop-heimon hyökkäys festivaalissa
 * [[Sessio 03 - Pääskynpyrstö-festivaali]] - Goblinien rooli festivaalin tapahtumissa
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]] - Kolmikätisen mutanttigoblinin kohtaaminen katakombeissa
+* [[Sessio 11 - Soluttautuminen Thistletopiin]] - Soluttautuminen Thistletopin goblin-linnoitukseen; vahtikoirat rauhoitettiin sammakoilla

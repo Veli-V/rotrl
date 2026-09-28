@@ -16,9 +16,11 @@ tags: ["npc"]
 * [[Naffer Vosk]] kertoi hänen olleen kaunis mutta onneton saamastaan huomiosta. Hän seurusteli [[Delek Viskanta]]n kanssa, mistä hänen isänsä ei pitänyt. ([[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]])
 * Tsuton päiväkirjan mukaan hän on uhrannut Aasimar-perimänsä ja on osa gobliinien hyökkäyssuunnitelmaa. Hän uskoo poistavansa "taivaallisen tahmansa" ja korvaavansa sen [[Lamashtu]]-äidin armolla. ([[Sessio 06 - Lasitehtaan salaisuudet]], [[Sessio 08 - Katakombien kutsu]])
 * Huhuttiin olleen raskaana ennen katoamistaan suuressa tulipalossa. ([[Sessio 08 - Katakombien kutsu]])
+* Asuu [[Thistletop]]issa. [[Ripnugget]]in mukaan hän tykkää "leikkiä" [[Birdcruncher]]-heimolta tulleilla asioilla eikä halua puhua kenenkään kanssa – paitsi ehkä "Ankeriaan". [[Lyrie Akenja]] kuoli yrittäessään estää ryhmää pääsemästä hänen luokseen. ([[Sessio 11 - Soluttautuminen Thistletopiin]])
 
 ## Maininnat
 * [[Sessio 06 - Lasitehtaan salaisuudet]] (Mainittu "Rakastajana")
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
+* [[Sessio 11 - Soluttautuminen Thistletopiin]] (Ryhmä yritti päästä hänen puheilleen Thistletopissa)
 

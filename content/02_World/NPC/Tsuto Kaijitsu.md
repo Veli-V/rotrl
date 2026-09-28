@@ -28,6 +28,7 @@ tags: ["npc", "dead"]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 10 - Vihan Runewell ja Erylium]]
+* [[Sessio 11 - Soluttautuminen Thistletopiin]] - Valo ja Inko esiintyivät Thistletopissa Tsuton kätyreinä; [[Lyrie Akenja]] ei tiennyt Tsuton kuolemasta.
 * [[GM_appendix_6_raw]] - Tsuton päiväkirjasivu kuvilla ja täydellisellä sisällöllä
 
 

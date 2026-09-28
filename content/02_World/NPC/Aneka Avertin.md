@@ -22,12 +22,14 @@ tags: ["npc", "sandpoint"]
 
 ## Kohokohtia
 * [[Valo]] yritti antaa Anekalle poskipusun, mutta osui hämmennyksissään vahingossa tämän siskoon [[Arika Avertin|Arikaan]]. Aneka seurasi pahoillaan olevaa Valoa ulos ja suostui lopulta tämän illalliskutsuun. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
+* Jakoi hetken Valon kanssa ennen Thistletopin retkeä ja lupasi odottaa, että Valo palaa. ([[Sessio 11 - Soluttautuminen Thistletopiin]])
 
 ## Maininnat
 * [[Sessio 02 - Swallowtail Festival]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
+* [[Sessio 11 - Soluttautuminen Thistletopiin]]
 * [[Appendix 0]]
 
 

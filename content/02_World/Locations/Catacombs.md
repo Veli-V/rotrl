@@ -40,6 +40,7 @@ Sivukammioista löytyi koukussa roikkuva kolmikätinen luuranko, oudosti muokkau
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 * [[Sessio 10 - Vihan Runewell ja Erylium]]
+* [[Sessio 11 - Soluttautuminen Thistletopiin]] - Kertauksessa todettiin katakombit tutkituiksi; reittejä eteenpäin ei löytynyt.
 * [[Sandpoint Glassworks]]
 * [[Sandpoint Boneyard]]
 

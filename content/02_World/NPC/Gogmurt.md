@@ -6,7 +6,7 @@ tags: ["npc", "goblin", "thistletop"]
 
 # Gogmurt
 
-<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+<img src="../03_Images/Gogmurt.png" alt="Gogmurt" class="portrait" />
 
 **Rooli:** [[Thistletop]]-heimon goblin-druidi.
 **Kuvaus:** Kunnianhimoinen goblin, joka haluaa kerätä kunnian [[Ripnugget]]in silmissä.

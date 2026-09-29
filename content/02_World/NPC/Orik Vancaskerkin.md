@@ -6,7 +6,7 @@ tags: ["npc", "thistletop"]
 
 # Orik Vancaskerkin
 
-<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+<img src="../03_Images/Orik_Vancarkerkin.png" alt="Orik Vancaskerkin" class="portrait" />
 
 **Rooli:** Ihmissotilas / palkkasoturi [[Thistletop]]issa.
 **Kuvaus:** Kiukkuinen sotilas, yksi Thistletopissa asuvista "pitkäjaloista". Haluaa vain odottaa oikeaa hetkeä.

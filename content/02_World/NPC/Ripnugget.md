@@ -6,7 +6,7 @@ tags: ["npc"]
 
 # Ripnugget
 
-<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+<img src="../03_Images/Ripnugget.png" alt="Ripnugget" class="portrait" />
 
 **Rooli:** [[Thistletop]]-goblinien kuningas.
 **Kuvaus:** Hallitsee heimoaan Thistletopin saarelta käsin. Pidetään yhtenä vaarallisimmista goblin-johtajista.

@@ -6,7 +6,7 @@ tags: ["npc"]
 
 # Nelli Tobyn
 
-<img src="../03_Images/Nelli_Tobyn_sketch.png" alt="Nelli Tobyn" class="portrait" />
+<img src="../03_Images/Nelli_Tobyn.png" alt="Nelli Tobyn" class="portrait" /> <img src="../03_Images/Nelli_Tobyn_1.png" alt="Nelli Tobyn Evil" class="portrait" />
 
 **Rooli:** [[Ezakien Tobyn]]in ottotytär.
 **Rotu:** [[Aasimar]]

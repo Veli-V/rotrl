@@ -6,7 +6,7 @@ tags: ["npc", "dead", "thistletop"]
 
 # Lyrie Akenja
 
-<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+<img src="../03_Images/Lyrie_Akenja.png" alt="Lyrie Akenja" class="portrait" />
 
 **Rooli:** [[Thistletop]]issa asunut ihmisnainen, [[Nelli Tobyn|Nellin]] liittolainen.
 **Kuvaus:** Vähävaatteinen nainen, jolla oli musta (ärsyttävä) kissa.

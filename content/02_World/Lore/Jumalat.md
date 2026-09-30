@@ -1,7 +1,7 @@
 ---
 id: Jumalat
 aliases: []
-tags: ["lore", "god", "desna", "abadar", "erastil", "gozreh", "shelyn", "sarenrae", "lamashtu"]
+tags: ["lore", "god", "desna", "abadar", "erastil", "gozreh", "shelyn", "sarenrae", "lamashtu", "norgorber"]
 ---
 
 # Jumalat
@@ -69,7 +69,14 @@ Golarionin jumalaistoa. Seuraavat jumalat ovat merkityksellisiä Sandpoint-seudu
 **Sukupuoli:** Naispuoleinen  
 **Kuvaus:** Petojen ja sikiöiden äiti sekä pahennuksen jumala. Hän on pahuuden ja epämuodostumien lähde.    
 
+## Norgorber
+
+<img src="../03_Images/lore-placeholder.png" alt="Norgorber" class="portrait" />
+
+Nellin päiväkirjassa mainittu jumala, jota Magnimarin [[Skinsaw-kultti|Skinsaw-kultin]] tappajat palvovat.
+
 ## Maininnat
+* [[Nellin_päiväkirja|Nellin päiväkirja]] – Desnaan liitetyt uskomukset, Lamashtun näyt ja Norgorberin kultti.
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]

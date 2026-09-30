@@ -109,7 +109,14 @@ Goblin ei yleensä määrittele itseään sukuluetteloilla tai oppineilla kertom
 
 Goblinien identiteetti on **äänekäs, yhteisöllinen, kaoottinen ja hyvin elävä**.
 
+## Päiväkirjan tiedot
+
+Päiväkirjan ajankohdan kuvaus:
+
+Nellin mukaan ensimmäiseen Sandpointin hyökkäykseen osallistui noin 30 goblinia. Hän suunnitteli varsinaiseen tuhoamishyökkäykseen noin 200 goblinia; suunnitelman toteutumista ei kuvata.
+
 ## Maininnat
+* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Goblin-heimot]] - Viisi pääasiassa Sandpoint-alueella vaikuttavaa goblin-heimoa
 * [[Sessio 02 - Swallowtail Festival]] - Thistletop-heimon hyökkäys festivaalissa
 * [[Sessio 03 - Pääskynpyrstö-festivaali]] - Goblinien rooli festivaalin tapahtumissa

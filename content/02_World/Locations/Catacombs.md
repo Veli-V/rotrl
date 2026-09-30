@@ -35,7 +35,14 @@ Sivukammioista löytyi koukussa roikkuva kolmikätinen luuranko, oudosti muokkau
 * [[Nelli Tobyn]]
 * [[Runewell]]
 
+## Päiväkirjan tiedot
+
+Päiväkirjan ajankohdan kuvaus:
+
+Nelli kertoo avanneensa salakuljetustunnelin tiiliseinän ja löytäneensä Vihan katakombit sekä Lamashtun pyhäkön. Hän opiskeli siellä Eryliumin johdolla useita kuukausia. Hän uskoi pyhäkön läheisyyden vaikuttaneen tunnelissa alkunsa saaneeseen lapseensa. Tsuton myöhempi suunnitelma käytti samaa reittiä syntisyntyisten hyökkäykseen.
+
 ## Maininnat
+* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]

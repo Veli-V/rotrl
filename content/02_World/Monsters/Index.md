@@ -9,5 +9,7 @@ Nämä sivut sisältävät tietoa olennoista ja hirviöistä.
 * [[Vargouille]] - Lentava, demoninen paahirvio pimeiden paikkojen syovereista
 * [[Zombie]] - Yleinen kuvaus zombieläimistä ja niiden uhasta
 
+* [[Barghest]] – Malfeshnekorin olentotyyppi Nellin päiväkirjassa
+
 ---
 [Takaisin maailman tietoihin]([[02_World/Index]])

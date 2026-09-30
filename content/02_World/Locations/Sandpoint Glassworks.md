@@ -32,7 +32,14 @@ tags: ["location", "sandpoint"]
 * Kellarista löytynyt kahlittu [[Ameiko Kaijitsu]] teki hyökkäyksestä henkilökohtaisen ja nosti panoksia välittömästi.
 * Lasitehtaan alta avautunut salakuljettajien tunneli johti paljon suurempaan uhkaan kuin aluksi näytti.
 
+## Päiväkirjan tiedot
+
+Päiväkirjan ajankohdan kuvaus:
+
+Nellin päiväkirjassa tehtaan alainen salakuljetustunneli yhdistää hänen ja Delekin salaiset tapaamiset katakombien löytämiseen. Tsuton hyökkäysehdotuksessa Eryliumin syntisyntyiset kulkisivat tunnelia pitkin; muut joukot iskisivät joelta ja tehtaalta.
+
 ## Maininnat
+* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 *   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 *   [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 *   [[Sessio 06 - Lasitehtaan salaisuudet]]

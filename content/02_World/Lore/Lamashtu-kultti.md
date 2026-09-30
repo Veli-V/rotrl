@@ -22,7 +22,7 @@ Lamashtu-kultti on pahuuden liikkeelle omistautuneita seuraajia, jotka pyrkivät
 - Tapettu [[Sessio 06 - Lasitehtaan salaisuudet]] -istunnossa
 
 ### [[Nelli Tobyn]]
-- Ezakien Tobyn tytär, Aasimar joka muuttui demoneksi
+- Ezakien Tobyn tytär, aasimar, jonka demoninen muodonmuutos on alkanut
 - Tsuton "rakkaus" ja kultin tärkeä johtaja
 - Omistautunut Lamashtulle ja pyrki poistamaan "taivaallisen tahransa" korvaamalla sen "Äidin armolla/lahjalla"
 - **Rooli:** Demonisten voimien johtaja ja rituaalien suorittaja
@@ -40,7 +40,7 @@ Lamashtu-kultti on pahuuden liikkeelle omistautuneita seuraajia, jotka pyrkivät
 Kultin päätavoite on tuhota [[Sandpoint]].
 
 ### Strategiset elementit (Tsuton päiväkirjasta):
-1. **Quasit-hyökkäyksien käyttäminen:** Pieninä, kohdennettuina osina "quasit" (demoni) apulaiset
+1. **Eryliumin apu:** Quasitin syntisyntyiset hyökkäisivät salakuljetustunnelista; suunnitelma ei tarkoita useiden quasittien hyökkäystä.
 2. **Salakuljettajien tunneli:** [[Sandpoint Glassworks|Lasitehtaan]] kellarissa on salakuljettajien tunneleita, joita pitkin voidaan toteuttaa hyökkäyksiä  
 3. **Jokihyökkäykset:** Samanaikaisia hyökkäyksiä kaupungin jokirannoilta
 4. **Glassworks-operaatiot:** Lasitehtaalta tulevat pienempää mutta kohdistetumpia iskuja
@@ -53,7 +53,7 @@ Kultin päätavoite on tuhota [[Sandpoint]].
 
 ## Liittyvät olennot
 
-- **[[Malfeshnekor]]** - Demon, joka on vangittuna lasitehtaan alakerroissa ja jonka vapautus on kultin keskeinen tavoite
+- **[[Malfeshnekor]]** - Demon, joka on Nellin päiväkirjan mukaan vangittuna Thistletopin alla ja jonka vapautus on kultin keskeinen tavoite
 
 ## Tapahtumat
 
@@ -64,7 +64,14 @@ Kultin päätavoite on tuhota [[Sandpoint]].
 
 * [[Nelli Tobyn|Nelli]] on kultin keskeinen hahmo, joka pyrkii poistamaan "taivaallisen tahmansa" ja muuttumaan Lamashtun lapseksi. Hän uskoo, että Sandpointin polttaminen on osa tätä muodonmuutosta. ([[Sessio 08 - Katakombien kutsu]])
 
+## Päiväkirjan tiedot
+
+Päiväkirjan ajankohdan kuvaus:
+
+Nellin suunnitelmassa noin 30 goblinin ensimmäinen hyökkäys peitti Tobynin arkun ryöstön. Varsinaiseen kaupungin tuhoamiseen hän aikoi käyttää noin 200 goblinia. Arkun jäännösten uhraus aloitti vasemman käden muodonmuutoksen, mutta täydellinen muutos oli yhä tavoite. Nelli asetti Malfeshnekorin etsimisen hyökkäystavan valinnan edelle ja toivoi kaupungin polttamisen ruokkivan myös [[Runewell|Vihan Runewelliä]].
+
 ## Maininnat
+* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 10 - Vihan Runewell ja Erylium]]

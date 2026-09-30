@@ -39,5 +39,9 @@
 
 **[[Tickwood]]** - *Metsästysalue*
 
+* [[Riddleport]] – Orikin kotikaupunki
+* [[Nettlewood]] – Bruthazmuksen entinen ansastusalue
+* [[Lost Coast Road]] – Bruthazmuksen ryöstelemä kulkureitti
+
 ---
 [Takaisin maailman tietoihin]([[02_World/Index]])

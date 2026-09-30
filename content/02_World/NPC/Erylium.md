@@ -21,6 +21,13 @@ Erylium oli paha, siivekäs quasit-demoni ja [[Lamashtu|Lamashtun]] palvelija, j
 - Surmattiin raskaan taistelun päätteeksi. Hänen ruumiiltaan lootattiin tiara sekä maaginen keihäs (+1 cold iron ranseur).
 - Hänen hallustaan löydettiin Tsutolta saatu viesti ja ihmisnahkaan sidottu Lamashtun pahuuden kirja.
 
+## Päiväkirjan tiedot
+
+Päiväkirjan ajankohdan kuvaus:
+
+[[Nelli Tobyn|Nelli]] kertoo opiskelleensa Eryliumin johdolla useita kuukausia löydettyään katakombien Lamashtun pyhäkön. Erylium opetti hänelle paikan salaisuuksia. Tsuton hyökkäysehdotuksessa Eryliumin syntisyntyiset oli tarkoitus lähettää salakuljetustunnelia pitkin kaupunkiin. Kyse on päiväkirjan aikaisesta suunnitelmasta, ennen Eryliumin kuolemaa.
+
 ## Maininnat
+* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 10 - Vihan Runewell ja Erylium]]

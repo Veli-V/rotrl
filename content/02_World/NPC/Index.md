@@ -1,12 +1,14 @@
 # NPC-hahmot (Non-Player Characters)
 
 ### Pelaajahahmot (PCs)
-* [[Einar]] (Fighter)
-* [[George]] (Inquisitor) [Kuollut katakombeissa sessiossa [[Sessio 09 - Georgen muisto ja mystinen haltia]]]
 * [[Inko]] (Sorcerer)
 * [[Valo]] (Rogue)
-* [[Johan Rayban]] (Parantaja / Seikkailija) [Uusi liittolainen, liittyi [[Sessio 09 - Georgen muisto ja mystinen haltia]]]
 * [[Makkara]] (Lasinpuhaltajan oppipoika)
+
+### Ei-aktiiviset pelaajahahmot
+* [[Johan Rayban]] (Parantaja / Seikkailija) [Liittyi [[Sessio 09 - Georgen muisto ja mystinen haltia]]] [Poistui astman takia. [[Sessio 10 - Vihan Runewell ja Erylium]]]
+* [[George]] (Inquisitor) [Kuollut katakombeissa sessiossa [[Sessio 09 - Georgen muisto ja mystinen haltia]]]
+* [[Einar]] (Fighter) [Poistui seurueesta Johania pelastaessa. [[Sessio 10 - Vihan Runewell ja Erylium]]]
 
 ### Sandpointin asukkaat
 * [[Alergast Barett]] (Edesmennyt perheenisä)
@@ -38,13 +40,13 @@
 * [[Vorvashali Voon]] (The Feathered Serpent)
 
 ### Magnimarin asukkaat
-* [[Delek Viskanta]] (Nellin entinen kumppani)
+* [[Delek Viskanta]] (Nellin entinen kumppani) [Kuollut Nellin päiväkirjan mukaan]
 * [[Aldern Foxglove]] (Aatelismies Magnimarista)
 * [[Allishanda]] (Oopperadiiva)
 
 ### Viholliset ja muut
 * [[Alaznist]] (Vihan riimulordi)
-* [[Bruthazmus]] (Bugbear)
+* [[Bruthazmus]] (Bugbear, Nellin henkivartija)
 * [[Erylium]] [Kuollut quasit-noita katakombeissa, surmattiin sessiossa 10]
 * [[Ezakien Tobyn]] (Edesmennyt pappi)
 * [[Gogmurt]] (Thistletopin goblin-druidi)
@@ -56,6 +58,8 @@
 * [[Ripnugget]] (Goblin-kuningas) [Ryhmä tavannut valtaistuinsalissa]
 * [[Scribbler]] (Salaperäinen kirjoittaja muinaisissa riimuissa)
 * [[Tsuto Kaijitsu]] (Kukistettu juonittelija)
+
+* [[Skivver]] (Lyrien kissafamiliaari; myöhempi kohtalo tuntematon)
 
 ---
 [Takaisin maailman tietoihin]([[02_World/Index]])

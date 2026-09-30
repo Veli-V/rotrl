@@ -15,7 +15,14 @@ Quasit on pieni demoninen, siivekäs olento. Se esiintyy usein vahvempien pahoje
 
 Lisäksi moni uskonnollinen oppinut osaa varoittaa, että quasit voi näyttää mitättömältä, mutta se on silti vaarallinen vastustaja valmistautumattomalle ryhmälle.
 
+## Päiväkirjan tiedot
+
+Päiväkirjan ajankohdan kuvaus:
+
+Erylium oli Nellin mukaan Lamashtua palveleva quasit ja hänen opettajansa katakombeissa useiden kuukausien ajan.
+
 ## Maininnat
+* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 
 * [[Sessio 10 - Vihan Runewell ja Erylium]]
 * [[Erylium]]

@@ -12,5 +12,10 @@
 * [[Varisia]] - *Maantiede ja historia*
 * [[Lamashtu-kultti]] - *Uskonnollinen kultti*
 
+* [[Nellin_päiväkirja|Nellin päiväkirja]] – Nellin tausta ja suunnitelmat hänen kertomanaan
+* [[Skinsaw-kultti]] – Norgorberin tappajakultti Magnimarissa
+* [[Sihedron-medaljonki]] – Nellin saama seitsensakaraisella tähdellä koristeltu medaljonki
+* [[Pathfinder-seura]] – Hylkäsi Lyrien noviisihakemuksen
+
 ---
 [Takaisin maailman tietoihin]([[02_World/Index]])

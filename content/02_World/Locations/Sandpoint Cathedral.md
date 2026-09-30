@@ -14,7 +14,7 @@ tags: ["location", "sandpoint"]
 **Kuvaus:** Sandpointin uusi moniuskontoinen katedraali, jonka hengellisestä toiminnasta vastaa [[Abstalar Zantus|Isä Zantus]]. Pääpaino on [[Desna]]n palvonnassa, mutta pyhäkössä kunnioitetaan myös [[Abadar]]ia, [[Sarenrae]]ta, [[Shelyn]]iä, [[Gozreh]]ia ja [[Erastil]]ia.
 
 ### Historia
-Entinen katedraali paloi traagisesti viisi vuotta sitten (4702 AR), ja silloinen pappi [[Ezakien Tobyn]] sekä hänen tyttärensä menehtyivät tulipalossa. Tulipalosta löydettiin kuitenkin vain Tobynin jäänteet. Tämä tapahtuma merkitsi ns. "Late Unpleasantnessin" alkua.
+Entinen katedraali paloi traagisesti viisi vuotta sitten (4702 AR), ja silloinen pappi [[Ezakien Tobyn]] menehtyi tulipalossa. Aiempi GM-liite ilmoittaa myös hänen tyttärensä kuolleen, mutta Nellin päiväkirja kertoo paosta. Tulipalosta löydettiin kuitenkin vain Tobynin jäänteet. Tämä tapahtuma merkitsi ns. "Late Unpleasantnessin" alkua.
 * Katedraalin yhteydessä on hautausmaa ([[Sandpoint Boneyard]]), jota hoitaa [[Naffer Vosk]].
 
 ## Tapahtumat
@@ -26,7 +26,14 @@ Entinen katedraali paloi traagisesti viisi vuotta sitten (4702 AR), ja silloinen
 * Katedraalin vihkiäisjuhlan huippukohta muuttui sekunneissa kaaokseksi, kun perhosseremonia kääntyi goblinihyökkäykseksi.
 * Barett-perheen tapaus ja Tobynin jäänteiden katoaminen nostivat katedraalin kaupungin kriisikeskukseksi, jossa hengellinen ja tutkinnallinen työ kietoutuivat yhteen.
 
+## Päiväkirjan tiedot
+
+Päiväkirjan ajankohdan kuvaus:
+
+Nelli kertoo kasvaneensa vanhassa kirkossa ja sytyttäneensä sen tuleen kiilattuaan nukkuvan Tobynin makuuhuoneen oven kiinni. Hän kertoo paenneensa kaupungista. Aiempi GM_appendix_6_raw ilmoittaa molempien kuolleen, vaikka vain Tobynin jäännökset löytyivät; lähteiden ristiriita säilytetään näkyvänä.
+
 ## Maininnat
+* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]

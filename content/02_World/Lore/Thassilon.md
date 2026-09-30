@@ -40,7 +40,14 @@ Thassilonia hallitsi seitsemän [[Riimulordit|riimulordia]]. Heistä tunnetaan t
 
 * **[[Catacombs|Lasitehtaan katakombit]]** — Sandpointin alta löytynyt muinainen temppelikokonaisuus, joka on omistettu riimulordi [[Alaznist|Alaznistille]] ja josta löytyi muun muasa [[Runewell|Vihan Runewell]].
 
+## Päiväkirjan tiedot
+
+Päiväkirjan ajankohdan kuvaus:
+
+Nellin mukaan Lyrie Akenja osasi lukea thassilonia ja sai palkkaa Thistletopin raunioiden sekä muinaisesineiden tutkimisesta.
+
 ## Maininnat
+* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]

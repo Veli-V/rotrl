@@ -26,7 +26,7 @@ Sisältää pelin sisäisen päivämäärän, siihen viittaavat sessiot, sekä p
 
 | Päivämäärä ja päivä         | Sessio(t)                                                                     | Päätapahtumat                                                        |
 |-----------------------------|-------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| 4702 AR | Lore | Sandpointin kirkko paloi ja [[Ezakien Tobyn]] sekä hänen tyttärensä menehtyivät. Tästä alkoivat ns. [[Late Unpleasantness]] ja [[Jervis Stoot]]in eli "Chopperin" murhat. |
+| 4702 AR | Lore | Sandpointin kirkko paloi ja [[Ezakien Tobyn]] menehtyi. Aiemman GM-liitteen mukaan myös tytär kuoli; Nellin päiväkirjassa hän kertoo paenneensa. Tästä alkoivat ns. [[Late Unpleasantness]] ja [[Jervis Stoot]]in eli "Chopperin" murhat. |
 | Rova 15, 4707 AR, Lauantai  | [[Sessio 01 - Saapuminen Sandpointiin]] | Ryhmä saapuu [[Sandpoint]]iin ja majoittuu [[The Rusty Dragon]]iin. |
 | Rova 22, 4707 AR, Lauantai  | [[Sessio 02 - Swallowtail Festival]] | Festivaaliviikon valmistelut huipentuvat. Ryhmä tutustuu kaupungin väkeen, paikallisiin juoruihin ja pääskynpyrstö-festivaalin perinteisiin. |
 | Rova 23, 4707 AR, Sunnuntai | [[Sessio 03 - Pääskynpyrstö-festivaali]]<br>[[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] | Goblinien hyökkäyksen jälkeiset tutkimukset ja kaupungin vakautuminen. Goblinien kuulustelu paljastaa, että [[Thistletop]]in [[Ripnugget]] on takana. Tutustuminen [[Aldern Foxglove]]iin ja [[Savah Bevaniky]]hin. Draama [[Kaijitsu]]-perheessä. |
@@ -38,3 +38,14 @@ Sisältää pelin sisäisen päivämäärän, siihen viittaavat sessiot, sekä p
 | Rova 28, 4707 AR, Perjantai (ilta, arvio) | [[Sessio 11 - Soluttautuminen Thistletopiin]] | Varusteiden hankinta [[Red Dog Smithy]]stä, Valon ja [[Aneka Avertin|Anekan]] hyvästit sekä raportti sheriffi [[Belor Hemlock]]ille. Ilta ja lepo [[The Rusty Dragon]]issa. |
 | Rova 29, 4707 AR, Lauantai (arvio) | [[Sessio 11 - Soluttautuminen Thistletopiin]] | Matka [[Thistletop]]iin. Naamioitunut ryhmä soluttautuu goblin-linnoitukseen, harhauttaa [[Gogmurt]]in ja tapaa kuningas [[Ripnugget]]in. [[Orik Vancaskerkin|Orik]] vie ryhmän [[Lyrie Akenja|Lyrien]] luo; Lyrie kuolee taistelussa. |
 
+
+## Nellin päiväkirjan taustatapahtumat
+
+Lähde: [[Nellin_päiväkirja|Nellin päiväkirja]]. Tarkkoja päivämääriä ei anneta. Tapahtumien keskinäinen järjestys perustuu Nellin kertomukseen. GM_appendix_6_raw:n tieto Nellin kuolemasta palossa on ristiriidassa päiväkirjan kanssa.
+
+* Ennen kirkon paloa: salainen suhde Delekiin, raskaus ja Delekin pako; lapsen menetys seitsemännellä raskauskuulla sekä Lamashtun unet.
+* Kirkon palo (4702 AR): Nelli kertoo lukinneensa Tobynin huoneeseen, sytyttäneensä palon ja paenneensa Magnimariin.
+* Palon jälkeen: Skinsaw-kultti auttaa Delekin jäljittämisessä; Nelli tappaa hänet ja saa kultin johtajalta Sihedron-medaljongin.
+* Paluu Sandpointiin: katakombien löytäminen ja useiden kuukausien opiskelu Eryliumin johdolla; näky Malfeshnekorista.
+* Ensimmäinen goblinhyökkäys: noin 30 goblinin harhautus mahdollistaa Tobynin arkun ryöstön.
+* Hyökkäyksen jälkeen: Tobynin jäännösten uhraus Thistletopissa ja Nellin vasemman käden muutos demoninkynneksi. Noin 200 goblinin hyökkäys ja Malfeshnekorin vapauttaminen ovat vielä suunnitelmia.

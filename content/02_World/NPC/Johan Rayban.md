@@ -6,12 +6,12 @@ tags: ["pc"]
 
 # Johan Rayban
 
-<img src="../03_Images/person-placeholder.png" alt="Johan Rayban" class="portrait" />
+<img src="../03_Images/Johan_Rayban.png" alt="Johan Rayban" class="portrait" />
 
-**Pelaaja:** (Uusi pelaajahahmo)  
+**Pelaaja:** (Väliaikainen pelaajahahmo)  
 **Rooli:** Parantaja / Seikkailija  
 **Kuvaus:** Mystinen ja värikäs hahmo ("Taubert-Healer-2"), jolla on silmälappu ja papukaija olkapäällään. Hänen ympäriltään leijailee ajoittain vieno piipputupakan tuoksu, ja hänen oluttuoppinsa saattaa nousta ilmaan omia aikojaan.  
-**Tila:** [Aktiivinen] (Liittyi ryhmään Georgen muistotilaisuuden jälkeen)
+**Tila:** [Ei aktiivinen] (Liittyi ryhmään Georgen muistotilaisuuden jälkeen, mutta poistui astmakohtauksen jälkeen takaisin [[Sandpoint Cathedral]]iin)
 
 ## Kohokohtia
 * Osallistui [[George]]n siunaus- ja polttohautaustilaisuuteen rannalla. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])

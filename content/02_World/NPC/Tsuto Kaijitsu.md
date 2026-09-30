@@ -22,7 +22,14 @@ tags: ["npc", "dead"]
 * Ameiko paljasti, että Tsuto yritti suostutella häntä mukaan Sandpointin tuhoamiseen ja salaperäiseen kulttiin ennen vangitsemistaan. ([[Sessio 08 - Katakombien kutsu]])
 * Katakombien pallohuoneesta löytyi Tsutolta Eryliumille osoitettu viesti (*"Eryliumille T: Tsuto"*) Lamashtun pahuuden kirjan välistä. ([[Sessio 10 - Vihan Runewell ja Erylium]])
 
+## Päiväkirjan tiedot
+
+Päiväkirjan ajankohdan kuvaus:
+
+Nellin mukaan Tsuto johti Tobynin arkun ryöstöä ja laati suuren osan jatkohyökkäyksen suunnitelmista. Hän halusi käyttää Eryliumin syntisyntyisiä tunnelin kautta sekä tehdä samanaikaisia iskuja joelta ja lasitehtaalta. Tsuto uskoi Nellin voivan myöhemmin herättää hänet kuolleista, mutta Nelli ei kertomansa mukaan ollut luvannut sitä suoraan. Nellin mielestä Tsuton rakkaus tämän kauneuteen ja vastenmielisyys demoninkynttä kohtaan olivat ristiriidassa hänen muodonmuutostavoitteensa kanssa. Nämä arviot kuvaavat aikaa ennen Tsuton kuolemaa.
+
 ## Maininnat
+* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]

@@ -8,7 +8,7 @@ tags:
 
 # Makkara
 
-<img src="../03_Images/Makkara.png" alt="Makkara" class="portrait" />
+<img src="../03_Images/Makkara_uusi.png" alt="Makkara" class="portrait" />
 
 **Pelaaja:** Veli-V
 **Rotu:** "Lasinpuhaltajan poika"

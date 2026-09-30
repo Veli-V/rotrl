@@ -50,7 +50,14 @@ Monille varisialaisille erityisen tärkeä jumalatar on [[Jumalat|Desna]], matka
 
 Magnimarin kasvu korostaa samalla Varisian sisäistä jännitettä: rannikon kaupallinen, byrokraattinen ja kaupunkilainen elämäntapa kohtaa vaeltavan perinteen, paikalliset yhteisöt ja vanhemmat identiteetit.
 
+## Päiväkirjan tiedot
+
+Päiväkirjan ajankohdan kuvaus:
+
+Nelli kertoo varisialaisten pitäneen häntä Desnan siunaamana. Hänen kosketukseensa, hiuksiinsa ja ääneensä liitettiin parantavia ja suojelevia uskomuksia. Päiväkirja kuvaa näitä uskomuksina ja Nellin kokemana ahdistavana kohteluna.
+
 ## Maininnat
+* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[appendix_varisia_lore]]
 * [[appendix_magnimar_lore]]
 * [[appendix_thassilon_lore]]

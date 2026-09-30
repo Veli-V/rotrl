@@ -4,7 +4,7 @@ aliases: []
 tags: ["pc"]
 ---
 
-# Inko
+# Inko Gnito
 
 <img src="../03_Images/Inko_sketch.png" alt="Inko sketch" class="portrait" />
 

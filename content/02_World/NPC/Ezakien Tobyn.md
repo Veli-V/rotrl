@@ -26,4 +26,5 @@ Nellin mukaan Tobyn kasvatti hänet kirkossa ja suunnitteli hänelle luostariel�
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[GM_appendix_6_raw]] - Sisältää tiedot katedraalin palosta ja kuolemasta
+* [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjoista luettiin Ezakienin suhtautumisesta Delekiin, Nellin lukitsemisesta kirkkoon ja kirkon palosta.
 

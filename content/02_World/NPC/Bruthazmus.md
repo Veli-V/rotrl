@@ -28,4 +28,5 @@ Bruthazmus oli elänyt ansastajana [[Nettlewood|Nettlewoodin]] pohjoisosissa ja 
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[GM_appendix_6_raw]]
+* [[Sessio 12 - Nellin loppu]] - Mainitaan Nellin päiväkirjoissa Nellin liittolaisena.
 

@@ -26,3 +26,4 @@ Nelli kuvaa häntä parikymppiseksi, tummaihoiseksi naiseksi, jolla oli pitkät 
 ## Maininnat
 * [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 11 - Soluttautuminen Thistletopiin]]
+* [[Sessio 12 - Nellin loppu]] - Lyrien tutkimusvälineet löytyivät varastohuoneesta.

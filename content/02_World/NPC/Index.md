@@ -4,6 +4,7 @@
 * [[Inko]] (Sorcerer)
 * [[Valo]] (Rogue)
 * [[Makkara]] (Lasinpuhaltajan oppipoika)
+* [[Tovak]] (Yeerikin hahmo) [Vapautettiin Thistletopin vankeudesta [[Sessio 12 - Nellin loppu]]]
 
 ### Ei-aktiiviset pelaajahahmot
 * [[Johan Rayban]] (Parantaja / Seikkailija) [Liittyi [[Sessio 09 - Georgen muisto ja mystinen haltia]]] [Poistui astman takia. [[Sessio 10 - Vihan Runewell ja Erylium]]]
@@ -52,14 +53,14 @@
 * [[Gogmurt]] (Thistletopin goblin-druidi)
 * [[Jervis Stoot]] (Chopper)
 * [[Lyrie Akenja]] [Kuollut, surmattiin Thistletopissa sessiossa 11]
-* [[Malfeshnekor]] (Demoni/Barghest)
-* [[Nelli Tobyn]] (Ezakien Tobynin ottotytär) [Thistletopissa]
+* [[Malfeshnekor]] (Demoni/Barghest) [Nellin päiväkirjan mukaan Thistletopin temppelissä]
+* [[Nelli Tobyn]] (Ezakien Tobynin ottotytär) [Kuollut, surmattiin Thistletopissa sessiossa 12]
 * [[Orik Vancaskerkin]] (Thistletopin ihmissotilas) [Tietää ryhmän aikeista, seuraa käytävässä]
 * [[Ripnugget]] (Goblin-kuningas) [Ryhmä tavannut valtaistuinsalissa]
 * [[Scribbler]] (Salaperäinen kirjoittaja muinaisissa riimuissa)
 * [[Tsuto Kaijitsu]] (Kukistettu juonittelija)
 
-* [[Skivver]] (Lyrien kissafamiliaari; myöhempi kohtalo tuntematon)
+* [[Skivver]] (Lyrien kissafamiliaari) [Elossa Lyrien kuoleman jälkeen, sessio 12]
 
 ---
 [Takaisin maailman tietoihin]([[02_World/Index]])

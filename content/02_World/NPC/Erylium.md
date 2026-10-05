@@ -31,3 +31,4 @@ Päiväkirjan ajankohdan kuvaus:
 * [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 10 - Vihan Runewell ja Erylium]]
+* [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjat: Nelli tapasi Eryliumin katakombeissa, ja he palvoivat yhdessä Lamashtua.

@@ -60,3 +60,4 @@ Päiväkirjan ajankohdan kuvaus:
 *   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] - Aldern kertoo olevansa täältä. Lonjiku on lähdössä tänne.
 *   [[appendix_varisia_lore]]
 *   [[appendix_magnimar_lore]]
+* [[Sessio 12 - Nellin loppu]] - Nelli pakeni kirkon palon jälkeen Magnimariin ja liittyi Skinsaw-kulttiin.

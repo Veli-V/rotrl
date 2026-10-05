@@ -35,7 +35,7 @@
 
 ## Alueet
 
-**[[Thistletop]]** - *Goblini-saari* [Ryhmä soluttautunut linnoitukseen]
+**[[Thistletop]]** - *Goblini-saari* [Ryhmä soluttautunut linnoitukseen, Nelli surmattu]
 
 **[[Tickwood]]** - *Metsästysalue*
 

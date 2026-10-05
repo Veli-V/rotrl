@@ -47,3 +47,4 @@ Nellin päiväkirjassa tehtaan alainen salakuljetustunneli yhdistää hänen ja 
 *   [[Sessio 08 - Katakombien kutsu]]
 *   [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 *   [[Appendix 0]]
+* [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjat: reitti tunneleista lasitehtaan kellareihin ja katakombeihin.

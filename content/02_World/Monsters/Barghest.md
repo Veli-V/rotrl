@@ -13,3 +13,4 @@ tags: ["monster"]
 ## Maininnat
 
 * [[Nellin_päiväkirja|Nellin päiväkirja]] – GM_nelli_diary.md:n päiväkirjakuvaus.
+* [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjat: näky suuresta goblin-sudesta, Malfeshnekorista.

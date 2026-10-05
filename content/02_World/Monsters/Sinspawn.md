@@ -31,3 +31,4 @@ Nelli kertoo osaavansa luoda syntisyntyisiä Runewellin voimasta. Tsuton hyökk�
 * [[Sessio 08 - Katakombien kutsu]] - Ensimmäinen kohtaaminen lasitehtaan alla olevissa katakombeissa.
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 * [[Sessio 10 - Vihan Runewell ja Erylium]] - Vihan Runewellistä verellä kutsuttu syntisyintyinen.
+* [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjat: Runewellit synnyttävät syntisyntyisiä.

@@ -23,3 +23,4 @@ Nelli palkkasi Orikin henkivartijakseen Magnimarin baarissa ja maksoi hänelle p
 ## Maininnat
 * [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 11 - Soluttautuminen Thistletopiin]]
+* [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjan mukaan tuli Nellin mukana Magnimarista.

@@ -37,6 +37,7 @@ Nellin mukaan Tsuto johti Tobynin arkun ryöstöä ja laati suuren osan jatkohy�
 * [[Sessio 10 - Vihan Runewell ja Erylium]]
 * [[Sessio 11 - Soluttautuminen Thistletopiin]] - Valo ja Inko esiintyivät Thistletopissa Tsuton kätyreinä; [[Lyrie Akenja]] ei tiennyt Tsuton kuolemasta.
 * [[GM_appendix_6_raw]] - Tsuton päiväkirjasivu kuvilla ja täydellisellä sisällöllä
+* [[Sessio 12 - Nellin loppu]] - Lyrien varastosta löytyi pussukka, jossa lappu "TK", hiuksia ja kynnenpaloja. Nellin päiväkirjan mukaan Tsuto hoiti jäännösten hankinnan.
 
 
 

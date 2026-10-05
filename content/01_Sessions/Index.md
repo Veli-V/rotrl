@@ -14,6 +14,7 @@ Tässä on lista kaikista pelatuista sessioista kronologisessa järjestyksessä.
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]] (27.7.2026) - *Georgen tragedia, muistotilaisuus rannalla ja mystisen haltian takaa-ajo*
 * [[Sessio 10 - Vihan Runewell ja Erylium]] (10.8.2026) - *Vihan Runewell, taistelu Eryliumin kanssa ja pallohuoneen salaisuudet*
 * [[Sessio 11 - Soluttautuminen Thistletopiin]] (31.8.2026) - *Valmistelut Sandpointissa, soluttautuminen Thistletopiin, Ripnugget ja Lyrien kuolema*
+* [[Sessio 12 - Nellin loppu]] (28.9.2026) - *Tovakin vapautus, riimulordien patsaat, taistelu Nelliä vastaan ja Nellin päiväkirjat*
 
 ---
 [Takaisin alkuun]([[Index]])

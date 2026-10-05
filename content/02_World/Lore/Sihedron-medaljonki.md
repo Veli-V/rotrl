@@ -13,3 +13,4 @@ Medaljonki, johon on kaiverrettu seitsensakarainen tähti. [[Nelli Tobyn|Nelli]]
 ## Maininnat
 
 * [[Nellin_päiväkirja|Nellin päiväkirja]] – GM_nelli_diary.md:n päiväkirjakuvaus.
+* [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjat: Skinsaw-kultin johtaja antoi Nellille seitsenkärkisen tähden.

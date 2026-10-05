@@ -23,4 +23,5 @@ Delek oli varisialainen nuorukainen ja Nellin salainen rakastettu. He tapasivat 
 ## Maininnat
 * [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
+* [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjoista luettiin suhteesta, raskaudesta ja Delekin murhasta.
 

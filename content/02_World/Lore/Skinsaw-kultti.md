@@ -13,3 +13,4 @@ Norgorberia palvovien tappajien kultti [[Magnimar|Magnimarissa]]. [[Nelli Tobyn|
 ## Maininnat
 
 * [[Nellin_päiväkirja|Nellin päiväkirja]] – GM_nelli_diary.md:n päiväkirjakuvaus.
+* [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjoista luettiin Nellin liittymisestä kulttiin.

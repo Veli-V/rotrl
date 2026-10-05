@@ -26,4 +26,5 @@ Päiväkirjan ajankohdan kuvaus:
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[GM_appendix_6_raw]] - Täydelliset tiedot suunnitelmista
+* [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjojen mukaan Malfeshnekor on Thistletopin temppelissä.
 

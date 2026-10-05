@@ -18,6 +18,7 @@ Tunnettu yrttiparantaja ja kätilö Sandpointissa. Hänellä on oma liike [[Hann
 
 ## Kohokohtia
 * Hoiti [[Ameiko Kaijitsu]]n vammoja [[The Rusty Dragon|Rusty Dragonissa]] lasitehtaan tapahtumien jälkeen. ([[Sessio 06 - Lasitehtaan salaisuudet]])
+* Toimi kätilönä [[Nelli Tobyn|Nellin]] keskenmenossa seitsemännellä raskauskuulla ja poltti hirviömäiseksi muodostuneen sikiön ennen kuin Nelli ehti nähdä sen. ([[Sessio 12 - Nellin loppu]])
 
 ## Suhteet
 *   **Haltiat:** Mainittu mahdolliseksi tietolähteeksi haltioista (goblin-kuulustelun yhteydessä).
@@ -26,6 +27,7 @@ Tunnettu yrttiparantaja ja kätilö Sandpointissa. Hänellä on oma liike [[Hann
 *   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 *   [[Sessio 06 - Lasitehtaan salaisuudet]]
 *   [[Appendix 0]]
+* [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjat paljastivat, että Hannah toimi kätilönä Nellin keskenmenossa ja poltti hirviömäisen sikiön.
 
 
 

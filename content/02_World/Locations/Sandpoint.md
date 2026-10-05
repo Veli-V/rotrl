@@ -87,3 +87,4 @@ Nelli kuvaa kaupunkia kostonsa kohteena. Noin 30 goblinin ensimmäisen hyökkäy
 * [[Sessio 11 - Soluttautuminen Thistletopiin]] - Valmistelut ennen lähtöä Thistletopiin; Ripnugget haluaa polttaa kaupungin.
 * [[Appendix 0]]
 * [[appendix_varisia_lore]]
+* [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjat paljastivat hänen vihansa kaupunkia kohtaan.

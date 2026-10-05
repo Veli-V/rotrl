@@ -16,6 +16,7 @@ Tämä tiedosto seuraa raakamateriaalin käsittelytilaa.
 | sessio_9_raw.md | Sessio | Käsitelty | Sessio 9 |
 | sessio_10_raw.md | Sessio | Käsitelty | Sessio 10 |
 | sessio_11_raw.md | Sessio | Käsitelty | Sessio 11 |
+| sessio_12_raw.md | Sessio | Käsitelty | Sessio 12 |
 | GM_appendix_0_raw.md | Appendix | Käsitelty | GM:n lisätiedot (Maailman tiedot) |
 | appendix_goblin_lore.md | Appendix | Käsitelty | GM:n lisätiedot (Goblineista) |
 | appendix_varisia_lore.md | Appendix | Käsitelty | GM:n lisätiedot (Varisia) |

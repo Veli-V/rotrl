@@ -29,10 +29,12 @@ Riimulordit (*Runelords*) olivat seitsemän hallitsijaa, jotka hallitsivat muina
 ## Jäänteet ja löydöt
 * **[[Alaznist]]:** Punaisesta marmorista veistetty patsas vihaisesta naisesta, jolla on seitsenteräinen kruunu ja suuri keihäs ([[Ranseur|ranseur]]). Patsas sijaitsee Sandpointin katakombien temppelialueella, joka on omistettu Alaznistille. ([[Sessio 08 - Katakombien kutsu]])
 * **Vihan [[Runewell]]:** Samasta temppelikokonaisuudesta löytynyt kalloilla ympäröity allas, josta voitiin verellä manata esiin syntisyintyisiä ([[Sinspawn]]). ([[Sessio 10 - Vihan Runewell ja Erylium]])
+* **[[Thistletop]]in alakerran patsaat:** Neljä turmeltua patsasta, jotka esittivät kaapuihin pukeutuneita hahmoja (mm. glaive ja kirja). Ryhmä tunnisti ne riimulordeiksi, mutta muistiinpanoissa ei nimetä, ketä ne esittävät. Seuraavassa huoneessa oli lisäksi kaksi murskattua patsasta. ([[Sessio 12 - Nellin loppu]])
 
 ## Maininnat
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 10 - Vihan Runewell ja Erylium]]
+* [[Sessio 12 - Nellin loppu]]
 * [[Thassilon]]
 * [[Alaznist]]
 * [[Runewell]]

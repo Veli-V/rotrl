@@ -12,7 +12,7 @@ Pitkäjalan pään muotoinen saari
 Ripnuggetin linna
 Puu silta vie saarelle
 Linnassa kellari
-↳ Makkaran äiti ollut kellarissa [epäselvä: Makkaran äiti / Makkara oli]
+↳ Makkaran äiti ollut kellarissa
 Koilliseen Sandpointista
 ↳ pohjoiseen rantaa pitkin
 -> Ei ideaa
@@ -107,7 +107,7 @@ Seinät ja katto valmiit, mutta lattia jätetty kesken.
 
 Seinillä hevosten ja koirien päitä.
 Yhdellä seinällä on irtonaiset siivet
-[epäselvä: Isoja piikkejä] seinässä
+Isoja piikkejä seinässä
 
 --- Sivu 4 ---
 Paukautamme suoraan sisään Ripnuggetin Valtaistuin saliin.

@@ -517,3 +517,6 @@ Jos Tsuto todella rakastaa minua niin paljon kuin väittää, hänen täytyy ymm
 Minä olen muuttumassa joksikin aivan muuksi.
 
 Ja hänen on opittava rakastamaan sitäkin.
+
+## Maininnat
+* [[Sessio 12 - Nellin loppu]] - Päiväkirjat löytyivät Nellin huoneesta Thistletopista hänen kuolemansa jälkeen.

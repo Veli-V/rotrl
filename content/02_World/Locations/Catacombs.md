@@ -50,4 +50,5 @@ Nelli kertoo avanneensa salakuljetustunnelin tiiliseinän ja löytäneensä Viha
 * [[Sessio 11 - Soluttautuminen Thistletopiin]] - Kertauksessa todettiin katakombit tutkituiksi; reittejä eteenpäin ei löytynyt.
 * [[Sandpoint Glassworks]]
 * [[Sandpoint Boneyard]]
+* [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjojen mukaan Nelli löysi tunneleista lasitehtaan kellarien kautta katakombeihin.
 

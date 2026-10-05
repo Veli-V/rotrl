@@ -82,4 +82,5 @@ Nellin päiväkirjassa mainittu jumala, jota Magnimarin [[Skinsaw-kultti|Skinsaw
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Appendix 0]]
+* [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjat: Lamashtun unet ja Norgorberin palvojat Magnimarissa.
  (Jumalten yksityiskohtaiset kuvaukset)

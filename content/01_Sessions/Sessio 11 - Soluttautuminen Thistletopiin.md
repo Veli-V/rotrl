@@ -14,7 +14,7 @@ title: Sessio 11 - Soluttautuminen Thistletopiin
 Ryhmä kokosi yhteen, mitä Thistletopista tiedettiin:
 - Saari on muodoltaan kuin "pitkäjalan" (ihmisen) pää, ja sillä sijaitsee goblin-kuningas [[Ripnugget]]in linna.
 - Saarelle johtaa puusilta.
-- Linnan alla on kellari. Muistiinpanojen mukaan [[Makkara]]n äiti olisi ollut kellarissa *(epävarma luenta)*.
+- Linnan alla on kellari, jossa [[Makkara]]n äiti on ollut.
 - Thistletop sijaitsee [[Sandpoint]]ista koilliseen. Reittivaihtoehdoiksi punnittiin kulkua pohjoiseen rantaa pitkin tai metsän kiertämistä etelän puolelta – Thistletop on metsän takana pohjoisella rannalla.
 
 ## Valmistelut Sandpointissa
@@ -51,7 +51,7 @@ Seuraavaksi vastaan tulivat Jaggle Tooth ja goblin-druidi [[Gogmurt]]. Gogmurt p
 Sillanvartijat pysäyttivät vielä kerran, mutta goblinia puhumalla ryhmä pääsi sisälle varsinaiseen linnoitukseen.
 
 ### Linnoituksen sisällä
-Linnoituksen seinät ja katto olivat valmiit, mutta lattia oli jätetty kesken. Seinillä roikkui hevosten ja koirien päitä, yhdellä seinällä oli irtonaisia siipiä ja seinissä isoja piikkejä *(epävarma luenta)*.
+Linnoituksen seinät ja katto olivat valmiit, mutta lattia oli jätetty kesken. Seinillä roikkui hevosten ja koirien päitä, yhdellä seinällä oli irtonaisia siipiä ja seinissä isoja piikkejä.
 
 ## Ripnuggetin valtaistuinsali
 Ryhmä paukautti suoraan sisään Ripnuggetin valtaistuinsaliin. Valtaistuimella istui goblin – kuningas Ripnugget, jolla oli päässään kruunu, mutta joka oli muuten täysin alasti. Valtaistuimen takana seisoi vihreä, hevosen kokoinen lisko.

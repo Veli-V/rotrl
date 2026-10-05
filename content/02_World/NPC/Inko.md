@@ -29,6 +29,7 @@ tags: ["pc"]
 * Kukisti 3-käsisen mutanttigoblinin katakombeissa ja paransi Einarin sekä Valon tajuttomuudesta. Sytytti Georgen kokon rannalla ja hankki ryhmälle parannussauvan (*Wand of Cure Light Wounds*) Feathered Serpentistä. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
 * Keskusteli telepaattisesti ja lohikäärmekielellä (*Draconic*) Erylium-quasitin kanssa Vihan kammiossa. Osallistui taisteluun, otti surmatun Sinspawnin vasemman jalan trofeeksi/loottina ja nousi tasolle 3. ([[Sessio 10 - Vihan Runewell ja Erylium]])
 * Soluttautui [[Thistletop]]iin Makkaran naamioimana palkkasoturiroistona ja "Tsuton kätyrinä". Osallistui taisteluun [[Lyrie Akenja|Lyrieä]] vastaan. ([[Sessio 11 - Soluttautuminen Thistletopiin]])
+* Yritti kysellä [[Nelli Tobyn|Nelliltä]] ennen taistelua, mutta Nelli ei ollut juttutuulella. ([[Sessio 12 - Nellin loppu]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -43,4 +44,5 @@ tags: ["pc"]
 * [[Sessio 10 - Vihan Runewell ja Erylium]]
 * [[Sessio 11 - Soluttautuminen Thistletopiin]]
 * [[Appendix 0]]
+* [[Sessio 12 - Nellin loppu]]
 

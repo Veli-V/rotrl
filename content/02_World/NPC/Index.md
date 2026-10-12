@@ -2,9 +2,10 @@
 
 ### Pelaajahahmot (PCs)
 * [[Inko]] (Sorcerer)
-* [[Valo]] (Rogue)
+* [[Valo]] (Rogue) [Kaatui Malfeshnekorin iskusta tilaan *Dying*, sessio 13]
 * [[Makkara]] (Lasinpuhaltajan oppipoika)
 * [[Tovak]] (Yeerikin hahmo) [Vapautettiin Thistletopin vankeudesta [[Sessio 12 - Nellin loppu]]]
+* [[Theodor]] (Mypan hahmo, kääpiöseppä Sandpointista) [Liittyi Thistletopissa [[Sessio 13 - Malfeshnekorin valtakunta]]]
 
 ### Ei-aktiiviset pelaajahahmot
 * [[Johan Rayban]] (Parantaja / Seikkailija) [Liittyi [[Sessio 09 - Georgen muisto ja mystinen haltia]]] [Poistui astman takia. [[Sessio 10 - Vihan Runewell ja Erylium]]]
@@ -53,7 +54,7 @@
 * [[Gogmurt]] (Thistletopin goblin-druidi)
 * [[Jervis Stoot]] (Chopper)
 * [[Lyrie Akenja]] [Kuollut, surmattiin Thistletopissa sessiossa 11]
-* [[Malfeshnekor]] (Demoni/Barghest) [Nellin päiväkirjan mukaan Thistletopin temppelissä]
+* [[Malfeshnekor]] (Demoni/Barghest) [Kohdattu Thistletopin syvyyksissä, taistelu kesken sessiossa 13]
 * [[Nelli Tobyn]] (Ezakien Tobynin ottotytär) [Kuollut, surmattiin Thistletopissa sessiossa 12]
 * [[Orik Vancaskerkin]] (Thistletopin ihmissotilas) [Tietää ryhmän aikeista, seuraa käytävässä]
 * [[Ripnugget]] (Goblin-kuningas) [Ryhmä tavannut valtaistuinsalissa]

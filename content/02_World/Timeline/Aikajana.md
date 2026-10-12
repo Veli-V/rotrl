@@ -38,6 +38,7 @@ Sisältää pelin sisäisen päivämäärän, siihen viittaavat sessiot, sekä p
 | Rova 28, 4707 AR, Perjantai (ilta, arvio) | [[Sessio 11 - Soluttautuminen Thistletopiin]] | Varusteiden hankinta [[Red Dog Smithy]]stä, Valon ja [[Aneka Avertin|Anekan]] hyvästit sekä raportti sheriffi [[Belor Hemlock]]ille. Ilta ja lepo [[The Rusty Dragon]]issa. |
 | Rova 29, 4707 AR, Lauantai (arvio) | [[Sessio 11 - Soluttautuminen Thistletopiin]] | Matka [[Thistletop]]iin. Naamioitunut ryhmä soluttautuu goblin-linnoitukseen, harhauttaa [[Gogmurt]]in ja tapaa kuningas [[Ripnugget]]in. [[Orik Vancaskerkin|Orik]] vie ryhmän [[Lyrie Akenja|Lyrien]] luo; Lyrie kuolee taistelussa. |
 | Rova 29, 4707 AR, Lauantai (arvio) | [[Sessio 12 - Nellin loppu]] | [[Tovak]] vapautetaan vankeudesta. Thistletopin alakerrasta löytyy [[Riimulordit|riimulordien]] patsaita. Taistelu [[Nelli Tobyn|Nelliä]] vastaan; Tovak surmaa Nellin paljain käsin. [[Nellin_päiväkirja|Nellin päiväkirjat]] löytyvät. |
+| Rova 29, 4707 AR, Lauantai (arvio) | [[Sessio 13 - Malfeshnekorin valtakunta]] | Sandpointilainen kääpiöseppä [[Theodor]] liittyy ryhmään. Riita goblinien joukkomurhasta. Sarkofagisalin epäkuolleiden kukistaminen, tulvinut kammio ja paikan [[Riimulordit|riimulordin]] aineeton kuva. Nellin amuletti avaa tien [[Malfeshnekor]]in kammioon; Inko lumotaan ja Valo kaatuu. Taistelu alkaa. |
 
 
 ## Nellin päiväkirjan taustatapahtumat

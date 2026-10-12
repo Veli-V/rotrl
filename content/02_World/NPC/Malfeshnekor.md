@@ -14,6 +14,7 @@ tags: ["npc"]
 ## Kohokohtia
 * Mainittiin ensimmäisen kerran Tsuton päiväkirjassa. Olento liittyy [[Lamashtu-kultti]]in. ([[Sessio 06 - Lasitehtaan salaisuudet]])
 * Vapautuksen jälkeen demon oli tarkoitus käyttää hyökkäyksissä [[Sandpoint]]ia vastaan.
+* Ryhmä kohtasi Malfeshnekorin [[Thistletop]]in syvyyksissä huoneessa, jonka keskellä oli tulikuoppa ja jossa haisi palanut hius. Olennolla oli suden ruumis ja goblinin kasvot. Se toivotti ryhmän tervetulleeksi "valtakuntaansa", kehotti olemaan poistumatta, lumosi [[Inko]]n *Charm Person* -loitsulla ja löi [[Valo]]n mattoon. Sessio päättyi taistelun alkuun. ([[Sessio 13 - Malfeshnekorin valtakunta]])
 
 ## Päiväkirjan tiedot
 
@@ -27,4 +28,4 @@ Päiväkirjan ajankohdan kuvaus:
 * [[Sessio 08 - Katakombien kutsu]]
 * [[GM_appendix_6_raw]] - Täydelliset tiedot suunnitelmista
 * [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjojen mukaan Malfeshnekor on Thistletopin temppelissä.
-
+* [[Sessio 13 - Malfeshnekorin valtakunta]] - Kohdattiin Thistletopin syvyyksissä; taistelu alkaa.

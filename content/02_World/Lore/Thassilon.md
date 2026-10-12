@@ -52,4 +52,5 @@ Nellin mukaan Lyrie Akenja osasi lukea thassilonia ja sai palkkaa Thistletopin r
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 * [[Sessio 10 - Vihan Runewell ja Erylium]]
+* [[Sessio 13 - Malfeshnekorin valtakunta]] - Paikan riimulordin kuva puhui thassilonia; Tovak ymmärsi sen *Comprehend Languages* -kääröllä.
 * [[appendix_thassilon_lore]]

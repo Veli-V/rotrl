@@ -25,3 +25,4 @@ Nelli yhdistää kaivon heräämisen raivokohtaukseensa ja lapsensa menetykseen.
 * [[Catacombs]]
 * [[Thassilon]]
 * [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjat: Runewell aktivoituu, kun ympäristössä on sen tunnetta (Vihan Runewell vihasta), ja synnyttää syntisyntyisiä.
+* [[Sessio 13 - Malfeshnekorin valtakunta]] - Thistletopin syvyyksissä paikan Runewellin nimeämätön riimulordi puhui aineettomana kuvana.

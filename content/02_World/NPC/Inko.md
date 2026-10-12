@@ -30,6 +30,7 @@ tags: ["pc"]
 * Keskusteli telepaattisesti ja lohikäärmekielellä (*Draconic*) Erylium-quasitin kanssa Vihan kammiossa. Osallistui taisteluun, otti surmatun Sinspawnin vasemman jalan trofeeksi/loottina ja nousi tasolle 3. ([[Sessio 10 - Vihan Runewell ja Erylium]])
 * Soluttautui [[Thistletop]]iin Makkaran naamioimana palkkasoturiroistona ja "Tsuton kätyrinä". Osallistui taisteluun [[Lyrie Akenja|Lyrieä]] vastaan. ([[Sessio 11 - Soluttautuminen Thistletopiin]])
 * Yritti kysellä [[Nelli Tobyn|Nelliltä]] ennen taistelua, mutta Nelli ei ollut juttutuulella. ([[Sessio 12 - Nellin loppu]])
+* Havaitsi *Detect Magic* -loitsulla abjuraatiomagiaa tulvineen kammion altaan pohjalla. Joutui [[Malfeshnekor]]in *Charm Person* -loitsun kohteeksi; Valo raahasi hänet ulos huoneesta. ([[Sessio 13 - Malfeshnekorin valtakunta]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -45,4 +46,4 @@ tags: ["pc"]
 * [[Sessio 11 - Soluttautuminen Thistletopiin]]
 * [[Appendix 0]]
 * [[Sessio 12 - Nellin loppu]]
-
+* [[Sessio 13 - Malfeshnekorin valtakunta]]

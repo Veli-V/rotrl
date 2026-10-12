@@ -38,4 +38,4 @@ tags: ["pc"]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
-
+* [[Sessio 13 - Malfeshnekorin valtakunta]] - Makkara muisteli Georgen opettaneen, että ihmiset voivat olla hyviä.

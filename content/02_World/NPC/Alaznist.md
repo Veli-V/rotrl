@@ -14,10 +14,12 @@ tags: ["npc"]
 
 ## Kohokohtia
 * Hänen patsaansa löytyi lasitehtaan alla olevista maanalaisista katakombeista. Patsas pitelee mestarillisesti valmistettua ranseuria. ([[Sessio 08 - Katakombien kutsu]])
+* [[Thistletop]]in syvyyksien patsassalissa toisen, nimeämättömän riimulordin aineeton kuva vähätteli Alaznistia: "ymmärtäkää, että Alaznistin voima on vain välähdys minun voimastani." ([[Sessio 13 - Malfeshnekorin valtakunta]])
 
 ## Maininnat
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
+* [[Sessio 13 - Malfeshnekorin valtakunta]]
 * [[Thassilon]]
 * [[Riimulordit]]
 

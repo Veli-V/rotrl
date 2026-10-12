@@ -14,6 +14,8 @@ tags: ["pc"]
 
 ## Kohokohtia
 * Vapautettiin Thistletopin ruokahuoneen oven takaa. [[Makkara]] antoi hänelle kuivatun hämähäkin, jottei hänen tarvinnut olla täysin alasti. Luki [[Lyrie Akenja|Lyrien]] varastosta löytyneitä taikakääröjä. Sai *Protection from Evil* -suojan taistelussa [[Nelli Tobyn|Nelliä]] vastaan. Nellin *Shatter*-loitsu hajotti hänen miekkansa, mutta hän surmasi Nellin paljain käsin. ([[Sessio 12 - Nellin loppu]])
+* Joutui sarkofagisalissa ensimmäisenä epäkuolleen möllin hakkaamaksi. Oli *Life Link* -loitsun piirissä. Antoi Valolle avattavaksi pienen arkun, josta löytyi kaksi taikasauvaa. Käytti *Scroll of Comprehend Languages* -kääröä ja ymmärsi paikan [[Riimulordit|riimulordin]] kuvan thassilonin kielisen viestin. ([[Sessio 13 - Malfeshnekorin valtakunta]])
 
 ## Maininnat
 * [[Sessio 12 - Nellin loppu]]
+* [[Sessio 13 - Malfeshnekorin valtakunta]]

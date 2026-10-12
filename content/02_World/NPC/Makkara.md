@@ -24,6 +24,7 @@ tags:
 * Kuultuaan uutiset Georgen kuolemasta suri tätä pureskelemalla pöydän jalasta piipun muotoisen lelun. ([[Sessio 09 - Georgen muisto ja mystinen haltia]])
 * Söi pullaa [[Sandpoint Savories]]issa ja sheriffi [[Belor Hemlock]]in kirjoittaman lapun. Naamioi (*Disguise*) Valon ja Inkon palkkasoturiroistoiksi ja johti ryhmää [[Thistletop]]in linnoituksessa. Vahtikoirat eivät välittäneet hänestä; hän hankasi kainalohikeä Valoon ja Inkoon, jotta nämä haisisivat goblinilta. Harhautti [[Gogmurt]]in *Ventriloquism*-loitsulla Ripnuggetin äänellä. Haukkui [[Orik Vancaskerkin|Orikin]] kissaksi. Hänen äitinsä on ollut Thistletopin kellarissa. ([[Sessio 11 - Soluttautuminen Thistletopiin]])
 * Bluffasi takaa-ajajat eri suuntaan matkimalla [[Lyrie Akenja|Lyrietä]] ja antoi vapautetulle [[Tovak]]ille kuivatun hämähäkin peitteeksi. Johti ryhmän [[Thistletop]]in alakertaan. Ampui Nellin koiraa jalkajousella suoraan suuhun. Tutki palavia kalloja, poltti yhden kirjan kallon liekissä ja tunki kallon taskuunsa (tasku ei palanut) ja huomasi palavilta näyttävien kääröjen olevan vahingoittumattomia. ([[Sessio 12 - Nellin loppu]])
+* Yritti hidastaa tai estää muiden suunnitteleman [[Ripnugget]]in ja Thistletopin goblinien joukkomurhan. Riiteli Valon kanssa ja poistui käytävään murisemaan: [[George]] oli antanut hänen ymmärtää, että ihmiset voivat olla hyviä, mutta nämäkin ovat vain samanlaisia – kaikki erilaiset on tapettava. ([[Sessio 13 - Malfeshnekorin valtakunta]])
 
 ## Maininnat
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
@@ -32,4 +33,4 @@ tags:
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 * [[Sessio 11 - Soluttautuminen Thistletopiin]]
 * [[Sessio 12 - Nellin loppu]]
-
+* [[Sessio 13 - Malfeshnekorin valtakunta]]

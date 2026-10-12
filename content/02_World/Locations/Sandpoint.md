@@ -88,3 +88,4 @@ Nelli kuvaa kaupunkia kostonsa kohteena. Noin 30 goblinin ensimmäisen hyökkäy
 * [[Appendix 0]]
 * [[appendix_varisia_lore]]
 * [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjat paljastivat hänen vihansa kaupunkia kohtaan.
+* [[Sessio 13 - Malfeshnekorin valtakunta]] - Sandpointilainen kääpiöseppä [[Theodor]], jonka goblinit olivat vieneet vangiksi, löytyi Thistletopista.

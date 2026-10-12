@@ -21,7 +21,8 @@ Saari, joka on yhdistetty mantereeseen narusillalla. Paikallisten goblineiden (T
 *   Linnoituksen alla on kellari / salainen paikka, jossa asuu hirviö.
 *   Ruokahuoneen lähellä on Lyrien tutkimusvälineitä sisältävä varastohuone. Portaat johtavat alakertaan, jonka kiviseinät on sotkettu noella ja limalla. Alakerrassa on neljä turmeltua [[Riimulordit|riimulordeja]] esittävää patsasta ja käytävässä kaksi murskattua patsasta.
 *   Alakerran pyöreässä huoneessa oli [[Nelli Tobyn|Nellin]] työhuone: pöytä, neljä palavaa kalloa, kirjoja, kääröjä, eläinnäytteitä ja kaukalossa säihkyvää sinistä nestettä. Nellin päiväkirjojen mukaan [[Malfeshnekor]] on tässä temppelissä.
-*   Asukkaina goblinien lisäksi "pitkäjalkoja": [[Tsuto Kaijitsu]] (kuollut), [[Orik Vancaskerkin]], [[Lyrie Akenja]] (kuollut) ja [[Nelli Tobyn]] (kuollut). Vankina pidetty [[Tovak]] vapautettiin.
+*   Asukkaina goblinien lisäksi "pitkäjalkoja": [[Tsuto Kaijitsu]] (kuollut), [[Orik Vancaskerkin]], [[Lyrie Akenja]] (kuollut) ja [[Nelli Tobyn]] (kuollut). Vankina pidetty [[Tovak]] vapautettiin, ja Sandpointista siepattu kääpiöseppä [[Theodor]] liittyi ryhmään.
+*   Syvemmällä: huone, jossa kultakolikoista koottu kantava tolppa ja kultapatsas syvennyksineen; pitkänomainen sarkofagisali epäkuolleineen ja obsidiaanipatsaineen; salaoven takana tulvinut kammio, jonka altaassa jättimäinen kypärä (erakkorapu) ja hopeaa sekä Sihedronin riimuja; patsassali, jossa paikan nimeämättömän [[Riimulordit|riimulordin]] aineeton kuva puhuu thassilonia ja vähättelee [[Alaznist]]ia; salamekanismi, jonka Nellin amuletti avaa; sekä [[Malfeshnekor]]in tulikuopallinen kammio. ([[Sessio 13 - Malfeshnekorin valtakunta]])
 
 ## Päiväkirjan tiedot
 
@@ -34,3 +35,4 @@ Nelli kertoo pyhittäneensä pyhäkön uudelleen ja polttaneensa siellä Tobynin
 *   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] - Goblinit mainitsivat tämän kotipaikkanaan.
 *   [[Sessio 11 - Soluttautuminen Thistletopiin]] - Ryhmä soluttautui linnoitukseen naamioituneena, tapasi Ripnuggetin ja surmasi Lyrien.
 * [[Sessio 12 - Nellin loppu]] - Tovakin vapautus, alakerran riimulordipatsaat ja Nellin surmaaminen pyöreässä huoneessa.
+* [[Sessio 13 - Malfeshnekorin valtakunta]] - Theodor liittyy, sarkofagisali, riimulordin kuva ja Malfeshnekorin kammio.

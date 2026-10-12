@@ -26,7 +26,11 @@ Olet erikoistunut pitämään pelimaailman (`content/02_World/`) ajan tasalla ja
    - Päivitä aikajana perustuen sessiossa mainittuun ajan etenemiseen ja merkittäviin tapahtumiin.
 6. **Pelaajahahmot:**
    - Päivitä pelaajahahmojen tiedostoja tarpeen mukaan (lisää erityisesti "Kohokohtia").
-   - Pelaajahahmot: *Einar, Inko, Valo, George, Makkara*.
+   - Pelaajahahmot: *Inko, Valo, Makkara, Tovak, Theodor* (ei-aktiiviset: *Einar, George, Johan Rayban*).
+7. **Etusivu (`content/index.md`):**
+   - Päivitä "Viimeisin sessio" -kohta uuteen sessioon (linkki, päivämäärä ja lyhyt kuvaus).
+   - Päivitä "Ryhmän sankarit" -lista, jos ryhmään liittyi uusi hahmo tai joku poistui/kuoli.
+   - Päivitä "Viimeksi päivitetty" -päivämäärä.
 
 ## Ensisijainen Totuus (Primary Truth)
 - Jos muistiinpanoissa tai muissa lähteissä on ristiriitoja, **Game Masterin merkinnät (`GM_appendix`) ovat primäärisiä totuuksia**.

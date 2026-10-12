@@ -12,13 +12,14 @@ Tämä on keskitetty hakemisto Pathfinder-kampanjan muistiinpanoille.
 * 🕔 **[[02_World/Timeline/Aikajana|Aikajana]]**: Kampanjan tapahtumat pelin sisäisinä päivinä.
 
 ## Viimeisin sessio
-* [[01_Sessions/Sessio 12 - Nellin loppu|Sessio 12 - Nellin loppu]] (28.9.2026) – Tovakin vapautus, riimulordien patsaat, taistelu Nelliä vastaan ja Nellin päiväkirjat.
+* [[01_Sessions/Sessio 13 - Malfeshnekorin valtakunta|Sessio 13 - Malfeshnekorin valtakunta]] (5.10.2026) – Theodor liittyy, sarkofagien epäkuolleet, riimulordin kuva ja kohtaaminen Malfeshnekorin kanssa.
 
 ## Ryhmän sankarit
 * [[02_World/NPC/Inko|Inko]] (Ihminen Sorcerer) – Pelaaja: Helge
 * [[02_World/NPC/Valo|Valo]] (Aasimar Rogue) – Pelaaja: Aleksi
 * [[02_World/NPC/Makkara|Makkara]] (Oracle) – Pelaaja: Veli-V
 * [[02_World/NPC/Tovak|Tovak]] – Pelaaja: Yeerik
+* [[02_World/NPC/Theodor|Theodor]] (Kääpiöseppä) – Pelaaja: Mypa
 
 ### Ei-aktiiviset
 * [[02_World/NPC/Einar|Einar]] (Neljäsosaörkki Fighter) – Pelaaja: Jouni – *Sivussa*
@@ -26,4 +27,4 @@ Tämä on keskitetty hakemisto Pathfinder-kampanjan muistiinpanoille.
 * [[02_World/NPC/Johan Rayban|Johan Rayban]] – *Väliaikainen hahmo, poistui*
 
 ---
-*Viimeksi päivitetty: 5.10.2026*
+*Viimeksi päivitetty: 12.10.2026*

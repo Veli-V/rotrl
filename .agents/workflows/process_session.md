@@ -26,7 +26,7 @@ Tämä on pääohjeistus uuden pelisession ja sen muistiinpanojen käsittelyyn. 
 ## Vaihe 3: World-vaihe (Maailman & Loren Päivittäminen)
 - **Käytä agenttia / promptia:** [03_world_updater.md](file:///.agents/prompts/03_world_updater.md)
 - **Tehtävä:** Käy läpi uusi sessiotiedosto ja päivitä `content/02_World/`-kansion entiteetit, maininnat/backlinkit, indeksit, aikajana sekä pelaajahahmojen kohokohdat.
-- **Tarkistus:** Varmista, että kaikkien mainittujen hahmojen/paikkojen sivuille on lisätty mainintalinkki uuteen sessioon.
+- **Tarkistus:** Varmista, että kaikkien mainittujen hahmojen/paikkojen sivuille on lisätty mainintalinkki uuteen sessioon. Varmista myös, että etusivu (`content/index.md`) on päivitetty: viimeisin sessio, ryhmän sankarit ja päivityspäivä.
 
 ---
 

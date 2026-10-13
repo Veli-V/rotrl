@@ -2,7 +2,7 @@
 
 ### Pelaajahahmot (PCs)
 * [[Inko]] (Sorcerer)
-* [[Valo]] (Rogue) [Kaatui Malfeshnekorin iskusta tilaan *Dying*, sessio 13]
+* [[Valo]] (Rogue)
 * [[Makkara]] (Lasinpuhaltajan oppipoika)
 * [[Tovak]] (Yeerikin hahmo) [Vapautettiin Thistletopin vankeudesta [[Sessio 12 - Nellin loppu]]]
 * [[Theodor]] (Mypan hahmo, kääpiöseppä Sandpointista) [Liittyi Thistletopissa [[Sessio 13 - Malfeshnekorin valtakunta]]]
@@ -33,7 +33,7 @@
 * [[Naffer Vosk]] (Hautausmaanhoitaja)
 * [[Rynshinn Povalli]] (Vernah’s Fine Clothing)
 * [[Savah Bevaniky]] (Savah's Armory)
-* [[Shalelu Andosana]] (Metsän vartija)
+* [[Shalelu Andosana]] (Metsän vartija) [Auttoi ryhmää Malfeshnekoria vastaan ja johdatti ulos Thistletopista, sessio 14]
 * [[Shayliss Vinder]] (Vinderin viehko tytär)
 * [[Shelby Vinder]]  (Vinderin viehko tytär)
 * [[Solsta Vinder]]  (Vinderin viehko vaimo)
@@ -48,16 +48,16 @@
 
 ### Viholliset ja muut
 * [[Alaznist]] (Vihan riimulordi)
-* [[Bruthazmus]] (Bugbear, Nellin henkivartija)
+* [[Bruthazmus]] (Bugbear, Nellin henkivartija) [Kuollut, Shalelu tappoi Thistletopissa sessiossa 14]
 * [[Erylium]] [Kuollut quasit-noita katakombeissa, surmattiin sessiossa 10]
 * [[Ezakien Tobyn]] (Edesmennyt pappi)
 * [[Gogmurt]] (Thistletopin goblin-druidi)
-* [[Jervis Stoot]] (Chopper)
+* [[Jervis Stoot]] (Chopper) [Huhu paluusta ja uusi murha, sessio 14]
 * [[Lyrie Akenja]] [Kuollut, surmattiin Thistletopissa sessiossa 11]
-* [[Malfeshnekor]] (Demoni/Barghest) [Kohdattu Thistletopin syvyyksissä, taistelu kesken sessiossa 13]
+* [[Malfeshnekor]] (Demoni/Barghest) [Kuollut, Tovak surmasi Thistletopissa sessiossa 14]
 * [[Nelli Tobyn]] (Ezakien Tobynin ottotytär) [Kuollut, surmattiin Thistletopissa sessiossa 12]
 * [[Orik Vancaskerkin]] (Thistletopin ihmissotilas) [Tietää ryhmän aikeista, seuraa käytävässä]
-* [[Ripnugget]] (Goblin-kuningas) [Ryhmä tavannut valtaistuinsalissa]
+* [[Ripnugget]] (Goblin-kuningas) [Linnoittautunut valtaistuinsaliinsa, sessio 14]
 * [[Scribbler]] (Salaperäinen kirjoittaja muinaisissa riimuissa)
 * [[Tsuto Kaijitsu]] (Kukistettu juonittelija)
 

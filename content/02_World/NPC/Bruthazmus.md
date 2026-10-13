@@ -20,6 +20,7 @@ tags: ["npc"]
 Päiväkirjan ajankohdan kuvaus:
 
 Bruthazmus oli elänyt ansastajana [[Nettlewood|Nettlewoodin]] pohjoisosissa ja ryöstellyt [[Lost Coast Road|Lost Coast Roadin]] kulkijoita. Hän yritti vangita [[Nelli Tobyn|Nellin]] myydäkseen tämän [[Riddleport|Riddleportin]] merirosvoille. Epäonnistuttuaan hän hyväksyi Nellin tarjouksen ryhtyä henkivartijaksi. Nellin mukaan hän oli muille julma mutta Nellille tottelevainen ja hyväksyntää hakeva. Hän vastusti Tsuton hyökkäysehdotusta; väite tahallisesta ärsyttämisestä on Tsuton tulkinta.
+* **Kuoli:** Lähti Thistletopissa tappamaan ryhmää, mutta [[Shalelu Andosana]] tappoi hänet Thistletopin alla olevaan patsassaliin. ([[Sessio 14 - Malfeshnekorin kaatuminen]])
 
 ## Maininnat
 * [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
@@ -29,4 +30,4 @@ Bruthazmus oli elänyt ansastajana [[Nettlewood|Nettlewoodin]] pohjoisosissa ja 
 * [[Sessio 08 - Katakombien kutsu]]
 * [[GM_appendix_6_raw]]
 * [[Sessio 12 - Nellin loppu]] - Mainitaan Nellin päiväkirjoissa Nellin liittolaisena.
-
+* [[Sessio 14 - Malfeshnekorin kaatuminen]] - Shalelu tappoi Bruthazmusin Thistletopissa.

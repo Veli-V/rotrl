@@ -27,3 +27,4 @@ Nelli kuvaa häntä parikymppiseksi, tummaihoiseksi naiseksi, jolla oli pitkät 
 * [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 11 - Soluttautuminen Thistletopiin]]
 * [[Sessio 12 - Nellin loppu]] - Lyrien tutkimusvälineet löytyivät varastohuoneesta.
+* [[Sessio 14 - Malfeshnekorin kaatuminen]] - Lyrien varastosta löytynyt hius- ja kynsipussi poltettiin; mitään ei tapahtunut.

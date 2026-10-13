@@ -35,7 +35,7 @@
 
 ## Alueet
 
-**[[Thistletop]]** - *Goblini-saari* [Ryhmä soluttautunut linnoitukseen, Nelli surmattu, Malfeshnekor kohdattu syvyyksissä]
+**[[Thistletop]]** - *Goblini-saari* [Ryhmä soluttautunut linnoitukseen, Nelli ja Malfeshnekor surmattu, ryhmä palannut Sandpointiin]
 
 **[[Tickwood]]** - *Metsästysalue*
 

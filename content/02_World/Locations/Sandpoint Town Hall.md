@@ -23,3 +23,4 @@ tags: ["location", "sandpoint"]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 * [[Kendra Deverin]]
 * [[Shalelu Andosana]]
+* [[Sessio 14 - Malfeshnekorin kaatuminen]] - Raportti pormestarille Nellin ja Malfeshnekorin kuolemista, 1000 GP palkkio.

@@ -33,6 +33,7 @@ tags: ["pc"]
 * Kävi moikkaamassa [[Aneka Avertin|Anekaa]] ennen Thistletopin retkeä ja varoitti Makkaraa etukäteen tämän kauneudesta; Aneka lupasi odottaa hänen paluutaan. Raportoi sheriffi [[Belor Hemlock]]ille katakombien demonisista löydöistä. Soluttautui [[Thistletop]]iin Makkaran naamioimana "Tsuton kätyrinä". Lukitsi ruokahuoneen oven [[Lyrie Akenja|Lyrien]] kuoltua. ([[Sessio 11 - Soluttautuminen Thistletopiin]])
 * Oli lukinnut ruokahuoneen oven, mikä suojasi ryhmää session alussa. ([[Sessio 12 - Nellin loppu]])
 * Riiteli Makkaran kanssa goblinien joukkomurhasta. Etsi sarkofagisalista ansoja ja huomasi oudon seinän. Avasi Tovakin antaman pienen arkun, josta löytyi kaksi taikasauvaa. Haki Nellin amuletin salamekanismiin. Raahasi lumotun Inkon ulos [[Malfeshnekor]]in huoneesta, mutta barghest löi hänet mattoon (*Dying*). ([[Sessio 13 - Malfeshnekorin valtakunta]])
+* Oli *Life Linkin* piirissä. Aloitti session *Dying*-tilassa Malfeshnekorin huoneessa, kunnes Inko paransi hänet. Kohtasi uudelleen sessiossa 9 seuraamansa haltian, [[Shalelu Andosana]]n. Kertoi aikovansa kosia [[Aneka Avertin|Anekaa]] (kosintaa ei ole vielä tapahtunut, eikä Aneka tiedä asiasta); Inko teki hänelle downtimen aikana hääpukua. Teki itse hengellistä työtä. Nousi tasolle. ([[Sessio 14 - Malfeshnekorin kaatuminen]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -47,3 +48,4 @@ tags: ["pc"]
 * [[Sessio 11 - Soluttautuminen Thistletopiin]]
 * [[Sessio 12 - Nellin loppu]]
 * [[Sessio 13 - Malfeshnekorin valtakunta]]
+* [[Sessio 14 - Malfeshnekorin kaatuminen]]

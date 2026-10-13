@@ -11,5 +11,7 @@ Nämä sivut sisältävät tietoa olennoista ja hirviöistä.
 
 * [[Barghest]] – Malfeshnekorin olentotyyppi Nellin päiväkirjassa
 
+* [[Tangletooth]] – Gogmurtin vahtitiikeri Thistletopin sillalla, Makkara surmasi sessiossa 14
+
 ---
 [Takaisin maailman tietoihin]([[02_World/Index]])

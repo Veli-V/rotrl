@@ -17,3 +17,4 @@ Laadukas ase- ja haarniskakauppa Sandpointissa. Omistaja Savah Bevaniky on taita
 
 ## Maininnat
 *   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] - Sankarit ostavat täältä aseita metsästystä varten.
+* [[Sessio 14 - Malfeshnekorin kaatuminen]] - Tovak osti Greatswordin (Greatsword +1 valmistuu tiistaina).

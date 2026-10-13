@@ -32,7 +32,7 @@ Huoneen päässä oleva viimeinen sarkofagi aukesi, ja sieltä astui esiin rinta
 
 ### Löydöt
 - Tovak antoi Valolle avattavaksi pienen arkun, jonka sisältä löytyi kaksi taikasauvaa.
-- Theodor tutki patsasta: se oli obsidiaania, ja sen glaive oli erillinen. Theodor nappasi glaiven patsaalta, ja siitä tuli sellainen *"Uuuh, AAH"* -fiilis – ase on maaginen (*Glaive +1*).
+- Theodor tutki patsasta: se oli obsidiaania, ja sen glaive oli erillinen. Theodor nappasi glaiven patsaalta, ja siitä tuli sellainen *"Uuuh, AAH"* -fiilis – ase on maaginen (*Glaive +1*). Theodor antoi glaiven [[Tovak]]ille.
 - Luurangoilla oli kultaiset rannerenkaat, jotka sopivat edellisen huoneen kultapatsaan koloihin. Kun ne asetettiin paikoilleen, patsas tai pylväs upposi maan sisään ja sen takaa aukesi reitti.
 
 ## Tulvinut kammio ja kypärä

@@ -40,3 +40,4 @@ Nellin tavoitteena oli vapauttaa [[Malfeshnekor]] ja uhrata Sandpoint Lamashtull
 * [[Sessio 11 - Soluttautuminen Thistletopiin]] (Ryhmä yritti päästä hänen puheilleen Thistletopissa)
 * [[Sessio 12 - Nellin loppu]] - Kohdattiin Thistletopin alakerran pyöreässä huoneessa; kuoli taistelussa Tovakin käsissä. Päiväkirjat löytyivät.
 * [[Sessio 13 - Malfeshnekorin valtakunta]] - Nellin amuletti avasi salamekanismin Malfeshnekorin kammion tieltä.
+* [[Sessio 14 - Malfeshnekorin kaatuminen]] - Ryhmä raportoi Nellin kuolemasta pormestarille; Tovak luovutti päiväkirjat.

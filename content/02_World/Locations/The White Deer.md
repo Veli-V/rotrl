@@ -23,3 +23,4 @@ Siisti majatalo, joka sijaitsee kaupungin pohjoisosassa. Majatalon edessä on ka
 
 ## Maininnat
 * [[Appendix 0]]
+* [[Sessio 14 - Malfeshnekorin kaatuminen]] - Ryhmä odotti täällä kaupungintalon aukeamista.

@@ -31,6 +31,7 @@ tags: ["pc"]
 * Soluttautui [[Thistletop]]iin Makkaran naamioimana palkkasoturiroistona ja "Tsuton kätyrinä". Osallistui taisteluun [[Lyrie Akenja|Lyrieä]] vastaan. ([[Sessio 11 - Soluttautuminen Thistletopiin]])
 * Yritti kysellä [[Nelli Tobyn|Nelliltä]] ennen taistelua, mutta Nelli ei ollut juttutuulella. ([[Sessio 12 - Nellin loppu]])
 * Havaitsi *Detect Magic* -loitsulla abjuraatiomagiaa tulvineen kammion altaan pohjalla. Joutui [[Malfeshnekor]]in *Charm Person* -loitsun kohteeksi; Valo raahasi hänet ulos huoneesta. ([[Sessio 13 - Malfeshnekorin valtakunta]])
+* Paransi Valon *Dying*-tilasta Malfeshnekorin huoneessa. Poltti Tovakin antaman, Lyrien varastosta löytyneen hius- ja kynsipussin (mahdollinen taikakalu, "TK"-lappu), mutta mitään ei tapahtunut. Teki downtimen aikana Valolle hääpukua – vitsaili tehneensä sen siltä varalta, että Valo todella kosii Anekaa. Nousi tasolle. ([[Sessio 14 - Malfeshnekorin kaatuminen]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -47,3 +48,4 @@ tags: ["pc"]
 * [[Appendix 0]]
 * [[Sessio 12 - Nellin loppu]]
 * [[Sessio 13 - Malfeshnekorin valtakunta]]
+* [[Sessio 14 - Malfeshnekorin kaatuminen]]

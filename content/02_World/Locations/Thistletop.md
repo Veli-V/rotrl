@@ -36,3 +36,4 @@ Nelli kertoo pyhittäneensä pyhäkön uudelleen ja polttaneensa siellä Tobynin
 *   [[Sessio 11 - Soluttautuminen Thistletopiin]] - Ryhmä soluttautui linnoitukseen naamioituneena, tapasi Ripnuggetin ja surmasi Lyrien.
 * [[Sessio 12 - Nellin loppu]] - Tovakin vapautus, alakerran riimulordipatsaat ja Nellin surmaaminen pyöreässä huoneessa.
 * [[Sessio 13 - Malfeshnekorin valtakunta]] - Theodor liittyy, sarkofagisali, riimulordin kuva ja Malfeshnekorin kammio.
+* [[Sessio 14 - Malfeshnekorin kaatuminen]] - Malfeshnekorin kuolema, Shalelun opastama pako ja Tangletooth-tiikerin surma sillalla.

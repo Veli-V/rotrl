@@ -12,7 +12,7 @@ Tämä on keskitetty hakemisto Pathfinder-kampanjan muistiinpanoille.
 * 🕔 **[[02_World/Timeline/Aikajana|Aikajana]]**: Kampanjan tapahtumat pelin sisäisinä päivinä.
 
 ## Viimeisin sessio
-* [[01_Sessions/Sessio 13 - Malfeshnekorin valtakunta|Sessio 13 - Malfeshnekorin valtakunta]] (5.10.2026) – Theodor liittyy, sarkofagien epäkuolleet, riimulordin kuva ja kohtaaminen Malfeshnekorin kanssa.
+* [[01_Sessions/Sessio 14 - Malfeshnekorin kaatuminen|Sessio 14 - Malfeshnekorin kaatuminen]] (12.10.2026) – Malfeshnekorin kuolema, pako Thistletopista, ensimmäisen seikkailun päätös, downtime ja Chopperin paluu.
 
 ## Ryhmän sankarit
 * [[02_World/NPC/Inko|Inko]] (Ihminen Sorcerer) – Pelaaja: Helge
@@ -27,4 +27,4 @@ Tämä on keskitetty hakemisto Pathfinder-kampanjan muistiinpanoille.
 * [[02_World/NPC/Johan Rayban|Johan Rayban]] – *Väliaikainen hahmo, poistui*
 
 ---
-*Viimeksi päivitetty: 12.10.2026*
+*Viimeksi päivitetty: 13.10.2026*

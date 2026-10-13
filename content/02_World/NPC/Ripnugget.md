@@ -29,3 +29,4 @@ Nellin kertomuksessa päällikkö hyväksyi tämän tarjoaman liiton huomattuaan
 * [[Sessio 06 - Lasitehtaan salaisuudet]] (Tsuton päiväkirja paljasti Ripnuggetin olevan osa suurempaa suunnitelmaa hyökätä Sandpointiin satojen gobliinien voimin)
 * [[Sessio 11 - Soluttautuminen Thistletopiin]] (Ryhmä tapasi Ripnuggetin tämän valtaistuinsalissa)
 * [[Sessio 13 - Malfeshnekorin valtakunta]] (Ryhmä harkitsi Ripnuggetin tappamista ja goblinien teurastusta; Makkara vastusti)
+* [[Sessio 14 - Malfeshnekorin kaatuminen]] (Shalelun mukaan Ripnugget linnoittautui valtaistuinsaliinsa)

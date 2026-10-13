@@ -31,5 +31,4 @@ tags: ["npc", "sandpoint"]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 11 - Soluttautuminen Thistletopiin]]
 * [[Appendix 0]]
-
-
+* [[Sessio 14 - Malfeshnekorin kaatuminen]] - Valo kertoi aikovansa kosia Anekaa, ja Inko alkoi tehdä hääpukua. Aneka ei vielä tiedä asiasta.

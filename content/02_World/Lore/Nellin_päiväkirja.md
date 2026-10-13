@@ -520,3 +520,4 @@ Ja hänen on opittava rakastamaan sitäkin.
 
 ## Maininnat
 * [[Sessio 12 - Nellin loppu]] - Päiväkirjat löytyivät Nellin huoneesta Thistletopista hänen kuolemansa jälkeen.
+* [[Sessio 14 - Malfeshnekorin kaatuminen]] - Tovak luovutti päiväkirjat pormestari Kendra Deverinille.

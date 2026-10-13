@@ -21,6 +21,7 @@ tags: ["npc"]
 Päiväkirjan ajankohdan kuvaus:
 
 [[Nelli Tobyn|Nelli]] kuvaa näyissään kohtaamaansa Malfeshnekoria suden ja goblinin piirteitä yhdistäväksi barghestiksi ja Lamashtun valituksi. Hän etsi tätä Thistletopin alaisista kammioista ja uskoi vapauttamisen auttavan sekä Sandpointin tuhoamisessa että oman muodonmuutoksensa täydentämisessä. Päiväkirja ei kerro vapautuksen toteutuneen.
+* **Kuoli** taistelussa ryhmää ja [[Shalelu Andosana]]a vastaan: sen *Blink*-loitsu epäonnistui [[Tovak]]in *Attack of Opportunityn* takia, ja Tovak lävisti sen glaivellaan. Ryhmä raportoi kuolemasta pormestari [[Kendra Deverin]]ille. ([[Sessio 14 - Malfeshnekorin kaatuminen]])
 
 ## Maininnat
 * [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
@@ -29,3 +30,4 @@ Päiväkirjan ajankohdan kuvaus:
 * [[GM_appendix_6_raw]] - Täydelliset tiedot suunnitelmista
 * [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjojen mukaan Malfeshnekor on Thistletopin temppelissä.
 * [[Sessio 13 - Malfeshnekorin valtakunta]] - Kohdattiin Thistletopin syvyyksissä; taistelu alkaa.
+* [[Sessio 14 - Malfeshnekorin kaatuminen]] - Malfeshnekor kuoli.

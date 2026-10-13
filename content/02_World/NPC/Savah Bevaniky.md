@@ -20,6 +20,4 @@ Omistaa asekaupan nimeltä Savah's Armory. Tunnettu hyvälaatuisista aseistaan.
 
 ## Maininnat
 *   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] - Myi ryhmälle villisikakeihäitä.
-
-
-
+*   [[Sessio 14 - Malfeshnekorin kaatuminen]] - Tovak osti Greatswordin; Greatsword +1 valmistuu tiistaina.

@@ -16,6 +16,7 @@ Tässä on lista kaikista pelatuista sessioista kronologisessa järjestyksessä.
 * [[Sessio 11 - Soluttautuminen Thistletopiin]] (31.8.2026) - *Valmistelut Sandpointissa, soluttautuminen Thistletopiin, Ripnugget ja Lyrien kuolema*
 * [[Sessio 12 - Nellin loppu]] (28.9.2026) - *Tovakin vapautus, riimulordien patsaat, taistelu Nelliä vastaan ja Nellin päiväkirjat*
 * [[Sessio 13 - Malfeshnekorin valtakunta]] (5.10.2026) - *Theodor liittyy, sarkofagien epäkuolleet, riimulordin kuva ja kohtaaminen Malfeshnekorin kanssa*
+* [[Sessio 14 - Malfeshnekorin kaatuminen]] (12.10.2026) - *Malfeshnekorin kuolema, Shalelu Andosana, pako Thistletopista, palkkio pormestarilta, downtime ja Chopperin paluu*
 
 ---
 [Takaisin alkuun]([[Index]])

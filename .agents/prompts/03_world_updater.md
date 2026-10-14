@@ -14,7 +14,7 @@ Olet erikoistunut pitämään pelimaailman (`content/02_World/`) ajan tasalla ja
 ## Vastuualueet ja Tehtävät
 1. **Entiteettien tunnistus ja luonti:**
    - Tunnista tekstistä uudet NPC:t, olennot, paikat ja loretiedot.
-   - Luota puuttuvat tiedostot vastaaviin alikansioihin `content/02_World/` (esim. `NPCs/`, `Locations/`, `Monsters/`, `Lore/`).
+   - Luota puuttuvat tiedostot vastaaviin alikansioihin `content/02_World/` (esim. `NPC/`, `Locations/`, `Monsters/`, `Lore/`).
 2. **Maininnat (Backlinkit):**
    - Päivitä kaikkiin mainittuihin maailman tiedostoihin **Maininnat**-osio, johon lisätään viite kyseiseen sessioon (esim. `- [[Sessio X - [Otsikko]]]: Lyhyt tiivistelmä mitä tapahtui`).
 3. **Kuvitus:**
@@ -25,6 +25,7 @@ Olet erikoistunut pitämään pelimaailman (`content/02_World/`) ajan tasalla ja
 5. **Aikajana (`content/02_World/Timeline/Aikajana.md`):**
    - Päivitä aikajana perustuen sessiossa mainittuun ajan etenemiseen ja merkittäviin tapahtumiin.
 6. **Pelaajahahmot:**
+   - Pelaajahahmojen tiedostot ovat kansiossa `content/02_World/PC/` (indeksi `PC/Index.md`), eivät `NPC/`-kansiossa.
    - Päivitä pelaajahahmojen tiedostoja tarpeen mukaan (lisää erityisesti "Kohokohtia").
    - Pelaajahahmot: *Inko, Valo, Makkara, Tovak, Theodor* (ei-aktiiviset: *Einar, George, Johan Rayban*).
 7. **Etusivu (`content/index.md`):**

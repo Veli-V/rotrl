@@ -24,6 +24,7 @@ Kun saat hakukyselyn:
 
 2. **Tiedoston paikannus ja lukeminen:**
    - Hae ja lue kohteen oma tiedosto kansioista:
+     - `content/02_World/PC/` (pelaajahahmot)
      - `content/02_World/NPC/`
      - `content/02_World/Locations/`
      - `content/02_World/Monsters/`

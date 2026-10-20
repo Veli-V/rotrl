@@ -71,7 +71,7 @@ Päiväkirjan ajankohdan kuvaus:
 Nellin suunnitelmassa noin 30 goblinin ensimmäinen hyökkäys peitti Tobynin arkun ryöstön. Varsinaiseen kaupungin tuhoamiseen hän aikoi käyttää noin 200 goblinia. Arkun jäännösten uhraus aloitti vasemman käden muodonmuutoksen, mutta täydellinen muutos oli yhä tavoite. Nelli asetti Malfeshnekorin etsimisen hyökkäystavan valinnan edelle ja toivoi kaupungin polttamisen ruokkivan myös [[Runewell|Vihan Runewelliä]].
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 10 - Vihan Runewell ja Erylium]]

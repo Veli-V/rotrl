@@ -29,7 +29,7 @@ Päiväkirjan ajankohdan kuvaus:
 Nellin mukaan Tsuto johti Tobynin arkun ryöstöä ja laati suuren osan jatkohyökkäyksen suunnitelmista. Hän halusi käyttää Eryliumin syntisyntyisiä tunnelin kautta sekä tehdä samanaikaisia iskuja joelta ja lasitehtaalta. Tsuto uskoi Nellin voivan myöhemmin herättää hänet kuolleista, mutta Nelli ei kertomansa mukaan ollut luvannut sitä suoraan. Nellin mielestä Tsuton rakkaus tämän kauneuteen ja vastenmielisyys demoninkynttä kohtaan olivat ristiriidassa hänen muodonmuutostavoitteensa kanssa. Nämä arviot kuvaavat aikaa ennen Tsuton kuolemaa.
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]

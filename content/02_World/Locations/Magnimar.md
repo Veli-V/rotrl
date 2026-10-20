@@ -56,7 +56,7 @@ Päiväkirjan ajankohdan kuvaus:
 [[Nelli Tobyn|Nelli]] kertoo löytäneensä kaupungista [[Skinsaw-kultti|Skinsaw-kultin]], jonka avulla hän jäljitti ja surmasi [[Delek Viskanta|Delekin]]. Hän palkkasi täällä myös [[Orik Vancaskerkin|Orikin]] henkivartijakseen ja [[Lyrie Akenja|Lyrien]] tutkimaan raunioita.
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 *   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] - Aldern kertoo olevansa täältä. Lonjiku on lähdössä tänne.
 *   [[appendix_varisia_lore]]
 *   [[appendix_magnimar_lore]]

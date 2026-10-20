@@ -21,10 +21,10 @@ Päiväkirjan ajankohdan kuvaus:
 
 Nelli palkkasi Lyrien Magnimarissa sen jälkeen, kun [[Pathfinder-seura]] oli hylännyt tämän noviisihakemuksen. Lyrie epäili seuran säilyttäneen hänen tutkielmansa ja muistiinpanonsa, mutta Nelli ei tiennyt, oliko epäily tosi. Lyrie tunsi arkaanista magiaa ja vanhoja rakennuksia sekä osasi lukea [[Thassilon|thassilonia]]. Hän sai platinapalkkaa raunioiden ja muinaisesineiden tutkimisesta ja käytti Thistletopin ylempää tutkimushuonetta Nellin työskennellessä alempana.
 
-Nelli kuvaa häntä parikymppiseksi, tummaihoiseksi naiseksi, jolla oli pitkät hiukset tiukoilla maissileteillä. Kuvauksessa korostuvat huono itsetunto, katkeruus ja epäluuloisuus. Hänen kissafamiliaarinsa nimi oli [[Skivver]]. Päiväkirjan kuvaus edeltää Lyrien kuolemaa.
+Nelli kuvaa häntä parikymppiseksi, tummaihoiseksi naiseksi, jolla oli pitkät hiukset tiukoilla maissileteillä. Kuvauksessa korostuvat huono itsetunto, katkeruus ja epäluuloisuus. Hänen kissafamiliaarinsa nimi oli Skivver. Päiväkirjan kuvaus edeltää Lyrien kuolemaa.
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 11 - Soluttautuminen Thistletopiin]]
 * [[Sessio 12 - Nellin loppu]] - Lyrien tutkimusvälineet löytyivät varastohuoneesta.
 * [[Sessio 14 - Malfeshnekorin kaatuminen]] - Lyrien varastosta löytynyt hius- ja kynsipussi poltettiin; mitään ei tapahtunut.

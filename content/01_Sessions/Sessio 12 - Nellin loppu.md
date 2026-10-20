@@ -48,7 +48,7 @@ Koiraa vastaan Makkara kaivoi esiin jalkajousensa ja ampui sitä suoraan suuhun.
 Makkara tutki palavia kalloja, poltti yhden kirjan kallon liekissä ja tunki kallon taskuunsa, mutta tasku ei syttynyt palamaan. Hän huomasi myös, että vaikka kääröt näyttivät palavan, ne olivat vahingoittumattomia.
 
 ## Nellin päiväkirjat
-Huoneesta löytyivät Nellin päiväkirjat ([[Nellin_päiväkirja|Nellin päiväkirja]]), jotka paljastivat hänen taustansa:
+Huoneesta löytyivät Nellin päiväkirjat ([[Nellin päiväkirja]]), jotka paljastivat hänen taustansa:
 
 **Lapsuus ja Sandpoint**
 - Nelli oli adoptoitu [[Aasimar|aasimar]] ja todella kaunis. Lapsuus oli alkuun iloinen.

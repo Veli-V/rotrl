@@ -57,7 +57,7 @@ Päiväkirjan ajankohdan kuvaus:
 Nelli kertoo varisialaisten pitäneen häntä Desnan siunaamana. Hänen kosketukseensa, hiuksiinsa ja ääneensä liitettiin parantavia ja suojelevia uskomuksia. Päiväkirja kuvaa näitä uskomuksina ja Nellin kokemana ahdistavana kohteluna.
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[appendix_varisia_lore]]
 * [[appendix_magnimar_lore]]
 * [[appendix_thassilon_lore]]

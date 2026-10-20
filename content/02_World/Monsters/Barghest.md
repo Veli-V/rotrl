@@ -14,7 +14,7 @@ Ryhmä kohtasi Malfeshnekorin Thistletopin syvyyksissä: sillä oli suden ruumis
 
 ## Maininnat
 
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – GM_nelli_diary.md:n päiväkirjakuvaus.
+* [[Nellin päiväkirja]] – GM_nelli_diary.md:n päiväkirjakuvaus.
 * [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjat: näky suuresta goblin-sudesta, Malfeshnekorista.
 * [[Sessio 13 - Malfeshnekorin valtakunta]] - Malfeshnekor kohdattiin.
 * [[Sessio 14 - Malfeshnekorin kaatuminen]] - Malfeshnekor kuoli.

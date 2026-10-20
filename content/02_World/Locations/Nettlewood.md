@@ -12,4 +12,4 @@ Metsä, jonka pohjoisosissa [[Bruthazmus]] eli vuosia ansastajana. Hän ryöstel
 
 ## Maininnat
 
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – GM_nelli_diary.md:n päiväkirjakuvaus.
+* [[Nellin päiväkirja]] – GM_nelli_diary.md:n päiväkirjakuvaus.

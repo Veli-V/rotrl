@@ -21,6 +21,6 @@ Päiväkirjan ajankohdan kuvaus:
 Nelli palkkasi Orikin henkivartijakseen Magnimarin baarissa ja maksoi hänelle platinalla. Orik oli kotoisin [[Riddleport|Riddleportista]] ja kertoi, ettei voinut palata sinne; syytä hän ei paljastanut. Nellin mukaan hän tyytyi odottamaan palkkaansa eikä kysellyt raunioissa etsitystä kohteesta. Nelli havaitsi hänen olevan kiinnostunut Lyriestä.
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 11 - Soluttautuminen Thistletopiin]]
 * [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjan mukaan tuli Nellin mukana Magnimarista.

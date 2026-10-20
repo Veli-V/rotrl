@@ -27,7 +27,7 @@ Päiväkirjan ajankohdan kuvaus:
 Nelli kertoo osaavansa luoda syntisyntyisiä Runewellin voimasta. Tsuton hyökkäysehdotuksessa Eryliumin olennot olisi lähetetty katakombeista salakuljetustunnelia pitkin Sandpointiin.
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 08 - Katakombien kutsu]] - Ensimmäinen kohtaaminen lasitehtaan alla olevissa katakombeissa.
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 * [[Sessio 10 - Vihan Runewell ja Erylium]] - Vihan Runewellistä verellä kutsuttu syntisyintyinen.

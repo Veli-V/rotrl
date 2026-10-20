@@ -21,7 +21,7 @@ Päiväkirjan ajankohdan kuvaus:
 Nellin mukaan Gogmurt ilmaisi avoimesti vastustavansa häntä, vaikka muut Thistletopin goblinit vaikenivat. Tämä kuvaa hänen suhtautumistaan Nellin kasvavaan vaikutusvaltaan.
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 02 - Swallowtail Festival]] (Mainittu goblin-druidina)
 * [[Sessio 11 - Soluttautuminen Thistletopiin]]
 * [[Sessio 14 - Malfeshnekorin kaatuminen]] - Gogmurtin vahtitiikeri Tangletooth surmattiin sillalla.

@@ -31,7 +31,7 @@ Päiväkirjan ajankohdan kuvaus:
 Nelli kertoo pyhittäneensä pyhäkön uudelleen ja polttaneensa siellä Tobynin jäännökset. Hän avasi muinaisia maanalaisia huoneita ja etsi Malfeshnekoria. Lyrie tutki raunioita ja muinaisesineitä ylemmässä tutkimushuoneessa Nellin työskennellessä alemmalla tähystyslavalla. Päiväkirjan liittolaiskuvaukset edeltävät Tsuton ja Lyrien kuolemia.
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 *   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] - Goblinit mainitsivat tämän kotipaikkanaan.
 *   [[Sessio 11 - Soluttautuminen Thistletopiin]] - Ryhmä soluttautui linnoitukseen naamioituneena, tapasi Ripnuggetin ja surmasi Lyrien.
 * [[Sessio 12 - Nellin loppu]] - Tovakin vapautus, alakerran riimulordipatsaat ja Nellin surmaaminen pyöreässä huoneessa.

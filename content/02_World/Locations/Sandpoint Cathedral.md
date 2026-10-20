@@ -33,7 +33,7 @@ Päiväkirjan ajankohdan kuvaus:
 Nelli kertoo kasvaneensa vanhassa kirkossa ja sytyttäneensä sen tuleen kiilattuaan nukkuvan Tobynin makuuhuoneen oven kiinni. Hän kertoo paenneensa kaupungista. Aiempi GM_appendix_6_raw ilmoittaa molempien kuolleen, vaikka vain Tobynin jäännökset löytyivät; lähteiden ristiriita säilytetään näkyvänä.
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]

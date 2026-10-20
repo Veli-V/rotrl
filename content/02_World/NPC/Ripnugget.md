@@ -22,7 +22,7 @@ Päiväkirjan ajankohdan kuvaus:
 Nellin kertomuksessa päällikkö hyväksyi tämän tarjoaman liiton huomattuaan seurueen voiman. Lamashtun symboli ja Malfeshnekorin nimi tekivät häneen suuren vaikutuksen. Hän haki Nelliltä hyväksyntää hyökkäyssuunnitelmilleen ja suosi yhtä suurta maahyökkäystä. Nelli salasi häneltä ensimmäisen hyökkäyksen varsinaisen tavoitteen, Tobynin arkun ryöstön. Pyhäkön uudelleenpyhitys ja maanalaisten huoneiden avaaminen vahvistivat Nellin asemaa.
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 02 - Swallowtail Festival]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]] (Maininta recapissa)
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] (Mainittu kuulustelussa)

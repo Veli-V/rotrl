@@ -55,7 +55,5 @@ Pelaajahahmot löytyvät sivulta [[02_World/PC/Index|Pelaajahahmot]].
 * [[Shroud]] (Viisi vuotta sitten liikkunut vigilante) [Henkilöllisyys tuntematon, mahdollisesti Chopperin uhri]
 * [[Tsuto Kaijitsu]] (Kukistettu juonittelija)
 
-* [[Skivver]] (Lyrien kissafamiliaari) [Elossa Lyrien kuoleman jälkeen, sessio 12]
-
 ---
 [Takaisin maailman tietoihin]([[02_World/Index]])

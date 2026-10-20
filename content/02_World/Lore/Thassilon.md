@@ -47,7 +47,7 @@ Päiväkirjan ajankohdan kuvaus:
 Nellin mukaan Lyrie Akenja osasi lukea thassilonia ja sai palkkaa Thistletopin raunioiden sekä muinaisesineiden tutkimisesta.
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]

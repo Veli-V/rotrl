@@ -22,7 +22,7 @@ Päiväkirjan ajankohdan kuvaus:
 Erylium oli Nellin mukaan Lamashtua palveleva quasit ja hänen opettajansa katakombeissa useiden kuukausien ajan.
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 
 * [[Sessio 10 - Vihan Runewell ja Erylium]]
 * [[Erylium]]

@@ -76,7 +76,7 @@ Golarionin jumalaistoa. Seuraavat jumalat ovat merkityksellisiä Sandpoint-seudu
 Nellin päiväkirjassa mainittu jumala, jota Magnimarin [[Skinsaw-kultti|Skinsaw-kultin]] tappajat palvovat.
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Desnaan liitetyt uskomukset, Lamashtun näyt ja Norgorberin kultti.
+* [[Nellin päiväkirja]] – Desnaan liitetyt uskomukset, Lamashtun näyt ja Norgorberin kultti.
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]

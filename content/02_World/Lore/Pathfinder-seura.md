@@ -12,4 +12,4 @@ tags: ["lore"]
 
 ## Maininnat
 
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – GM_nelli_diary.md:n päiväkirjakuvaus.
+* [[Nellin päiväkirja]] – GM_nelli_diary.md:n päiväkirjakuvaus.

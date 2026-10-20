@@ -28,7 +28,7 @@ Päiväkirjan ajankohdan kuvaus:
 [[Nelli Tobyn|Nelli]] kertoo opiskelleensa Eryliumin johdolla useita kuukausia löydettyään katakombien Lamashtun pyhäkön. Erylium opetti hänelle paikan salaisuuksia. Tsuton hyökkäysehdotuksessa Eryliumin syntisyntyiset oli tarkoitus lähettää salakuljetustunnelia pitkin kaupunkiin. Kyse on päiväkirjan aikaisesta suunnitelmasta, ennen Eryliumin kuolemaa.
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 10 - Vihan Runewell ja Erylium]]
 * [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjat: Nelli tapasi Eryliumin katakombeissa, ja he palvoivat yhdessä Lamashtua.

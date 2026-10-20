@@ -24,7 +24,7 @@ Päiväkirjan ajankohdan kuvaus:
 * **Kuoli** taistelussa ryhmää ja [[Shalelu Andosana]]a vastaan: sen *Blink*-loitsu epäonnistui [[Tovak]]in *Attack of Opportunityn* takia, ja Tovak lävisti sen glaivellaan. Ryhmä raportoi kuolemasta pormestari [[Kendra Deverin]]ille. ([[Sessio 14 - Malfeshnekorin kaatuminen]])
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[GM_appendix_6_raw]] - Täydelliset tiedot suunnitelmista

@@ -22,7 +22,7 @@ Päiväkirjan ajankohdan kuvaus:
 Nellin mukaan Tobyn kasvatti hänet kirkossa ja suunnitteli hänelle luostarielämää. Raskauden paljastuttua Tobyn kielsi häntä poistumasta kirkosta ja vaati iltaisin synnintunnustusta Desnalle. Nelli kertoo kiilanneensa Tobynin makuuhuoneen oven kiinni ja sytyttäneensä kirkon tämän nukkuessa. Myöhemmin [[Tsuto Kaijitsu]] joukkoineen varasti arkun hyökkäyksen aikana; Nelli poltti jäännökset [[Thistletop|Thistletopin]] pyhäkössä uhrina [[Jumalat#Lamashtu|Lamashtulle]].
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[GM_appendix_6_raw]] - Sisältää tiedot katedraalin palosta ja kuolemasta

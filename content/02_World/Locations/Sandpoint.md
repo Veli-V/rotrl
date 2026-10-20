@@ -79,7 +79,7 @@ Päiväkirjan ajankohdan kuvaus:
 Nelli kuvaa kaupunkia kostonsa kohteena. Noin 30 goblinin ensimmäisen hyökkäyksen tehtävä oli peittää Tobynin arkun ryöstö; noin 200 goblinin myöhempi hyökkäys jäi päiväkirjassa suunnitelmaksi. Sen tavoitteena oli uhrata kaupunki Lamashtulle ja ruokkia Runewelliä.
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 00 - Kampanjan Aloitus]]
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]

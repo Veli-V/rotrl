@@ -21,7 +21,7 @@ Päiväkirjan ajankohdan kuvaus:
 Delek oli varisialainen nuorukainen ja Nellin salainen rakastettu. He tapasivat salakuljetustunnelissa, jonka Delek oli löytänyt lapsena. Nellin kerrottua raskaudestaan Delek solvasi häntä ja pakeni Sandpointista Tobynin pelossa. Päiväkirjan mukaan Nelli löysi hänet myöhemmin Magnimarista [[Skinsaw-kultti|Skinsaw-kultin]] avulla ja tappoi hänet.
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjoista luettiin suhteesta, raskaudesta ja Delekin murhasta.
 

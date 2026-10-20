@@ -1,5 +1,5 @@
 ---
-id: Nellin_päiväkirja
+id: Nellin päiväkirja
 aliases: ["Nellin päiväkirja"]
 tags: ["lore", "diary", "nelli", "lamashtu"]
 ---
@@ -466,7 +466,7 @@ Hän loukkaantuu helposti ja olettaa yleensä, että ihmiset tarkoittavat pahaa.
 
 Usein he tarkoittavatkin, joten en tiedä, miksi sitä pidetään niin suurena vikana.
 
-Hänen ainoa oikea ystävänsä näyttää olevan kissafamiliaari [[Skivver]].
+Hänen ainoa oikea ystävänsä näyttää olevan kissafamiliaari Skivver.
 
 Sekin raapii tavaroita ja merkkaa reviiriään ympäri huoneita.
 

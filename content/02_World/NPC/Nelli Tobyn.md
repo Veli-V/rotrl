@@ -18,7 +18,7 @@ tags: ["npc", "dead"]
 * Tsuton päiväkirjan mukaan hän on uhrannut Aasimar-perimänsä ja on osa gobliinien hyökkäyssuunnitelmaa. Hän uskoo poistavansa "taivaallisen tahmansa" ja korvaavansa sen [[Lamashtu]]-äidin armolla. ([[Sessio 06 - Lasitehtaan salaisuudet]], [[Sessio 08 - Katakombien kutsu]])
 * Huhuttiin olleen raskaana ennen katoamistaan suuressa tulipalossa. ([[Sessio 08 - Katakombien kutsu]])
 * Asuu [[Thistletop]]issa. [[Ripnugget]]in mukaan hän tykkää "leikkiä" [[Birdcruncher]]-heimolta tulleilla asioilla eikä halua puhua kenenkään kanssa – paitsi ehkä "Ankeriaan". [[Lyrie Akenja]] kuoli yrittäessään estää ryhmää pääsemästä hänen luokseen. ([[Sessio 11 - Soluttautuminen Thistletopiin]])
-* Kohdattiin [[Thistletop]]in alakerran pyöreässä huoneessa leijuvan koiran kanssa: valkohiuksinen, valkoiset pistävät silmät, musta metalli- tai kivihaarniska sekä demoninen ja verenpunainen vasen käsi. Ei suostunut keskustelemaan. Hajotti taistelussa [[Tovak]]in miekan *Shatter*-loitsulla, mutta Tovak surmasi hänet paljain käsin. Hänen päiväkirjansa ([[Nellin_päiväkirja|Nellin päiväkirja]]) löytyivät huoneesta. ([[Sessio 12 - Nellin loppu]])
+* Kohdattiin [[Thistletop]]in alakerran pyöreässä huoneessa leijuvan koiran kanssa: valkohiuksinen, valkoiset pistävät silmät, musta metalli- tai kivihaarniska sekä demoninen ja verenpunainen vasen käsi. Ei suostunut keskustelemaan. Hajotti taistelussa [[Tovak]]in miekan *Shatter*-loitsulla, mutta Tovak surmasi hänet paljain käsin. Hänen päiväkirjansa ([[Nellin päiväkirja]]) löytyivät huoneesta. ([[Sessio 12 - Nellin loppu]])
 
 ## Päiväkirjan tiedot
 
@@ -33,7 +33,7 @@ Seitsemännellä raskauskuulla Nelli menetti lapsensa raivokohtauksen yhteydess�
 Nellin tavoitteena oli vapauttaa [[Malfeshnekor]] ja uhrata Sandpoint Lamashtulle noin 200 goblinin hyökkäyksellä. Hän uskoi tämän täydentävän muodonmuutoksensa. Isän jäännösten polttaminen Thistletopin pyhäkössä muutti hänen vasemman kätensä punaiseksi demoninkynneksi. Hopeiset hiukset ja violetit silmät olivat edelleen ennallaan; vatsan arvet olivat hänelle ylpeyden ja omistautumisen merkki.
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 06 - Lasitehtaan salaisuudet]] (Mainittu "Rakastajana")
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Sessio 08 - Katakombien kutsu]]

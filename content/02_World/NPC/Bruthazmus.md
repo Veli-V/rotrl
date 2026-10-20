@@ -23,11 +23,10 @@ Bruthazmus oli elänyt ansastajana [[Nettlewood|Nettlewoodin]] pohjoisosissa ja 
 * **Kuoli:** Lähti Thistletopissa tappamaan ryhmää, mutta [[Shalelu Andosana]] tappoi hänet Thistletopin alla olevaan patsassaliin. ([[Sessio 14 - Malfeshnekorin kaatuminen]])
 
 ## Maininnat
-* [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
+* [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 02 - Swallowtail Festival]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 08 - Katakombien kutsu]]
-* [[GM_appendix_6_raw]]
 * [[Sessio 12 - Nellin loppu]] - Mainitaan Nellin päiväkirjoissa Nellin liittolaisena.
 * [[Sessio 14 - Malfeshnekorin kaatuminen]] - Shalelu tappoi Bruthazmusin Thistletopissa.

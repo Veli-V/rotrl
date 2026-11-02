@@ -34,7 +34,7 @@ tags: ["location", "Sandpoint", "city"]
 13. [[Risa's Place]]
 14. Rovanky Tannery (nahkuri)
 15. [[Red Dog Smithy]]
-16. The Pillbug's Pantry (alkemisti)
+16. [[The Pillbug's Pantry]] (alkemisti)
 17. Bottled Solutions (alkemisti)
 18. Cracktooth's Tavern (taverna)
 19. House of Blue Stones (luostari/kirjasto)
@@ -43,16 +43,16 @@ tags: ["location", "Sandpoint", "city"]
 22. [[Curious Goblin]]
 23. [[Sandpoint Theater]]
 24. Carpenter's Guild (kiltatalo)
-25. Sandpoint Lumbermill (saha)
+25. [[Sandpoint Lumbermill]] (saha)
 26. [[Sandpoint General Store]]
 27. Turandarok Academy (koulu/orpokoti)
 28. Madame Mvashti's House (ennustaja)
 29. Grocer's Hall (ruokakauppa)
 30. [[Vernah’s Fine Clothing]] (vaatturi)
 31. Wheen's Wagons (pyöräseppä)
-32. Scarnetti Mill (mylly)
+32. [[Scarnetti Mill]] (mylly)
 33. [[The Hagfish]]
-34. Valdemar Fish Market (kalakauppias)
+34. [[Valdemar Fish Market]] (kalakauppias)
 35. Sandpoint Market (kaupungin tori)
 36. [[Sandpoint Meat Market]]
 37. [[The Rusty Dragon]]
@@ -90,3 +90,4 @@ Nelli kuvaa kaupunkia kostonsa kohteena. Noin 30 goblinin ensimmäisen hyökkäy
 * [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjat paljastivat hänen vihansa kaupunkia kohtaan.
 * [[Sessio 13 - Malfeshnekorin valtakunta]] - Sandpointilainen kääpiöseppä [[Theodor]], jonka goblinit olivat vieneet vangiksi, löytyi Thistletopista.
 * [[Sessio 14 - Malfeshnekorin kaatuminen]] - Paluu Thistletopista, palkkio pormestarilta, downtime ja huhu Chopperin paluusta.
+* [[Sessio 15 - Sahan murhat]] - Kaksoismurha sahalla, keltaisen Y:n viestit ja kaupungin alla kulkeva tunneliverkosto.

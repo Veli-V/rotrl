@@ -49,3 +49,4 @@ tags: ["pc"]
 * [[Sessio 12 - Nellin loppu]]
 * [[Sessio 13 - Malfeshnekorin valtakunta]]
 * [[Sessio 14 - Malfeshnekorin kaatuminen]]
+* [[Sessio 15 - Sahan murhat]] - Sai Hemlockilta Shaylissin yltä löytyneen kirjeen; Arika ja Aneka syyttivät häntä, eikä häntä päästetty Arikan luo.

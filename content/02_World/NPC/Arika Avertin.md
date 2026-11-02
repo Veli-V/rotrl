@@ -22,10 +22,12 @@ tags: ["npc", "sandpoint"]
 
 ## Kohokohtia
 * Joutui [[Valo]]n erehdyksessä antaman poskipusun kohteeksi. ([[Sessio 05 - Kirjeitä ja lasinsiruja]])
+* Suri Shaylissin kuolemaa huoneessaan ja syytti [[Inko]]a kateudesta: "Ei saanut Shaylissia, vaan Banny sai hänet." Kertoi nähneensä Shaylissin edellisenä päivänä kuuden aikaan. ([[Sessio 15 - Sahan murhat]])
 
 ## Maininnat
 * [[Sessio 02 - Swallowtail Festival]]
 * [[Sessio 05 - Kirjeitä ja lasinsiruja]]
 * [[Appendix 0]]
+* [[Sessio 15 - Sahan murhat]] - Ryhmä kävi kuulustelemassa surevaa Arikaa Shaylissin murhasta.
 
 

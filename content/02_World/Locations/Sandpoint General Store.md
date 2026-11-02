@@ -32,3 +32,4 @@ tags: ["location", "sandpoint", "shop", "vendor"]
 ## Maininnat
 * [[Sessio 02 - Swallowtail Festival]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
+* [[Sessio 15 - Sahan murhat]] - Vinderien kauppa oli kiinni Shaylissin murhan jälkeen.

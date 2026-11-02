@@ -14,6 +14,7 @@ tags: ["npc", "sandpoint"]
 
 ## Maininnat
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
+* [[Sessio 15 - Sahan murhat]] - Tyttären Shaylissin murha; kauppa oli kiinni eikä perheelle oltu vielä kerrottu.
 
 
 

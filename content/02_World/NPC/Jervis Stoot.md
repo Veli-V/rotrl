@@ -18,3 +18,4 @@ tags: ["npc", "dead"]
 ## Maininnat
 * [[Sessio 01 - Saapuminen Sandpointiin]]
 * [[Sessio 14 - Malfeshnekorin kaatuminen]]
+* [[Sessio 15 - Sahan murhat]] - Hemlock kertasi Chopperin lopun: Casp Avertin surmasi hänet viisi vuotta sitten. Uusissa murhissa uhrien silmiä ei leikattu, joten Hemlock ei usko Chopperin palanneen.

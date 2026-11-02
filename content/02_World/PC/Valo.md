@@ -49,3 +49,4 @@ tags: ["pc"]
 * [[Sessio 12 - Nellin loppu]]
 * [[Sessio 13 - Malfeshnekorin valtakunta]]
 * [[Sessio 14 - Malfeshnekorin kaatuminen]]
+* [[Sessio 15 - Sahan murhat]] - Tunnisti puolustautumisen jäljet Bannyn ruumiista, laski askeleensa tunneleissa ja kertoi Anekalle murhista.

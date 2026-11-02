@@ -8,7 +8,8 @@ Pelaajahahmot löytyvät sivulta [[02_World/PC/Index|Pelaajahahmot]].
 * [[Ameiko Kaijitsu]] (The Rusty Dragon)
 * [[Aneka Avertin]] (Sandpoint Savories)
 * [[Arika Avertin]] (Sandpoint Savories)
-* [[Belor Hemlock]] (Sheriffi)
+* [[Banny Harker]] (Sahan työmies) [Kuollut, murhattu sahalla sessiossa 15]
+* [[Belor Hemlock]] (Sheriffi) [Tutkii sahan kaksoismurhaa, sessio 15]
 * [[Bethana Corwin]] (The Rusty Dragon)
 * [[Cyrdak Drokkus]] (Sandpoint Theater)
 * [[Chask Haladan]] (Curious Goblinin omistaja)
@@ -24,7 +25,9 @@ Pelaajahahmot löytyvät sivulta [[02_World/PC/Index|Pelaajahahmot]].
 * [[Rynshinn Povalli]] (Vernah’s Fine Clothing)
 * [[Savah Bevaniky]] (Savah's Armory)
 * [[Shalelu Andosana]] (Metsän vartija) [Auttoi ryhmää Malfeshnekoria vastaan ja johdatti ulos Thistletopista, sessio 14]
-* [[Shayliss Vinder]] (Vinderin viehko tytär)
+* [[Casp Avertin]] (Edeltävä sheriffi) [Kuollut, surmasi Chopperin viisi vuotta sitten]
+* [[Dorran Hask]] (Tynnyrintekijä) [Kadonnut, keltaisen Y:n paljastama, sessio 15]
+* [[Shayliss Vinder]] (Vinderin viehko tytär) [Kuollut, murhattu sahalla sessiossa 15]
 * [[Shelby Vinder]]  (Vinderin viehko tytär)
 * [[Solsta Vinder]]  (Vinderin viehko vaimo)
 * [[Vachedi]] (Shoanti-sotilas)
@@ -49,6 +52,7 @@ Pelaajahahmot löytyvät sivulta [[02_World/PC/Index|Pelaajahahmot]].
 * [[Orik Vancaskerkin]] (Thistletopin ihmissotilas) [Tietää ryhmän aikeista, seuraa käytävässä]
 * [[Ripnugget]] (Goblin-kuningas) [Linnoittautunut valtaistuinsaliinsa, sessio 14]
 * [[Scribbler]] (Salaperäinen kirjoittaja muinaisissa riimuissa)
+* [[Shroud]] (Viisi vuotta sitten liikkunut vigilante) [Henkilöllisyys tuntematon, mahdollisesti Chopperin uhri]
 * [[Tsuto Kaijitsu]] (Kukistettu juonittelija)
 
 * [[Skivver]] (Lyrien kissafamiliaari) [Elossa Lyrien kuoleman jälkeen, sessio 12]

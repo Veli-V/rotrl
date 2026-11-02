@@ -1,7 +1,7 @@
 ﻿---
 id: Shayliss Vinder
 aliases: []
-tags: ["npc", "sandpoint"]
+tags: ["npc", "sandpoint", "dead"]
 ---
 
 # Shayliss Vinder
@@ -15,6 +15,7 @@ tags: ["npc", "sandpoint"]
 ## Maininnat
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Appendix 0]]
+* [[Sessio 15 - Sahan murhat]] - Löytyi murhattuna [[Sandpoint Lumbermill|sahalta]]; viillelty, rinnassa huolella tehty seitsensakarainen tähti. Salainen suhde [[Banny Harker]]iin.
 
 
 

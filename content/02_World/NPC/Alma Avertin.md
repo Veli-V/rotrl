@@ -27,6 +27,7 @@ tags: ["npc", "sandpoint"]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Appendix 0]]
+* [[Sessio 15 - Sahan murhat]] - Perheen leipomossa käytiin kuulustelemassa Arikaa Shaylissin murhan jälkeen.
 
 
 

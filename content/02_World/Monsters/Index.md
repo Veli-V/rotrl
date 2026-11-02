@@ -2,6 +2,7 @@
 
 Nämä sivut sisältävät tietoa olennoista ja hirviöistä.
 
+* [[Ghoul|Ghoulit]] - Hautausmaalta ja tunneleista löytyneitä epäkuolleita raadonsyöjiä
 * [[Goblinit]] - Goblinit ovat yksi yleisimmistä Sandpointin ympärisössä elävistä olennoista
 * [[Koruvus]] - Kolmikätinen mutanttigoblin, jota muistetaan katakombien taistelusta
 * [[quasit|Quasit]] - Pieni demoninen vakoojaolento

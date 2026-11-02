@@ -21,4 +21,5 @@ tags: ["npc", "sandpoint"]
 
 ## Maininnat
 * [[Sessio 02 - Swallowtail Festival]]
+* [[Sessio 15 - Sahan murhat]] - Mahdollinen tietolähde siskonsa Shaylissin ja [[Banny Harker]]in suhteesta.
 

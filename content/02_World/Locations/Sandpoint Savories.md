@@ -33,3 +33,4 @@ tags: ["location", "sandpoint", "shop", "vendor"]
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 11 - Soluttautuminen Thistletopiin]]
 * [[Appendix 0]]
+* [[Sessio 15 - Sahan murhat]]: Makkara nappasi pullan, Aneka halasi Valoa, ja yläkerrassa sureva Arika syytti Inkoa Shaylissin kohtalosta.

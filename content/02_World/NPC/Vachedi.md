@@ -19,6 +19,7 @@ Shoanti-sotilas, joka toimii [[Belor Hemlock]]in vasemman käden apulaisena [[Sa
 ## Maininnat
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Appendix 0]]
+* [[Sessio 15 - Sahan murhat]] - Oli Hemlockin kanssa sheriffin toimistossa; tunnetaan lempinimellä "Kova Luu".
 
 
 

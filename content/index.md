@@ -13,7 +13,7 @@ Tämä on keskitetty hakemisto Pathfinder-kampanjan muistiinpanoille.
 * 🕔 **[[02_World/Timeline/Aikajana|Aikajana]]**: Kampanjan tapahtumat pelin sisäisinä päivinä.
 
 ## Viimeisin sessio
-* [[01_Sessions/Sessio 14 - Malfeshnekorin kaatuminen|Sessio 14 - Malfeshnekorin kaatuminen]] (12.10.2026) – Malfeshnekorin kuolema, pako Thistletopista, ensimmäisen seikkailun päätös, downtime ja Chopperin paluu.
+* [[01_Sessions/Sessio 15 - Sahan murhat|Sessio 15 - Sahan murhat]] (26.10.2026) – Shaylissin ja Bannyn murhat sahalla, Sihedron-tähdet, ghoulien jäljet hautausmaalle ja Sandpointin alla kulkevat tunnelit.
 
 ## Ryhmän sankarit
 * [[02_World/PC/Inko|Inko]] (Ihminen Sorcerer) – Pelaaja: Helge
@@ -28,4 +28,4 @@ Tämä on keskitetty hakemisto Pathfinder-kampanjan muistiinpanoille.
 * [[02_World/PC/Johan Rayban|Johan Rayban]] – *Väliaikainen hahmo, poistui*
 
 ---
-*Viimeksi päivitetty: 13.10.2026*
+*Viimeksi päivitetty: 2.11.2026*

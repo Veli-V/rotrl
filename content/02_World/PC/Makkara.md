@@ -26,6 +26,7 @@ tags:
 * Bluffasi takaa-ajajat eri suuntaan matkimalla [[Lyrie Akenja|Lyrietä]] ja antoi vapautetulle [[Tovak]]ille kuivatun hämähäkin peitteeksi. Johti ryhmän [[Thistletop]]in alakertaan. Ampui Nellin koiraa jalkajousella suoraan suuhun. Tutki palavia kalloja, poltti yhden kirjan kallon liekissä ja tunki kallon taskuunsa (tasku ei palanut) ja huomasi palavilta näyttävien kääröjen olevan vahingoittumattomia. ([[Sessio 12 - Nellin loppu]])
 * Yritti hidastaa tai estää muiden suunnitteleman [[Ripnugget]]in ja Thistletopin goblinien joukkomurhan. Riiteli Valon kanssa ja poistui käytävään murisemaan: [[George]] oli antanut hänen ymmärtää, että ihmiset voivat olla hyviä, mutta nämäkin ovat vain samanlaisia – kaikki erilaiset on tapettava. ([[Sessio 13 - Malfeshnekorin valtakunta]])
 * Tunnisti [[Shalelu Andosana]]n "nartuksi" (goblinien nimitys) – Shalelu oli tappanut Makkaran veljen. Hiipi Thistletopin sillalla nukkuvan [[Tangletooth]]-tiikerin viereen ja surmasi sen *Coup de Gracella*. Lorvi downtimen aikana Sandpointin kujilla, tienasi 5 GP ja sai *+5 Knowledge (Local – Sandpoint)*. Nousi tasolle. ([[Sessio 14 - Malfeshnekorin kaatuminen]])
+* Johdatti ryhmää tunneliristeyksessä heittämällä hämähäkkiä – "Minulla on ennustamisen lahja. Tai siis sain tämän ennustajalta." Puolusti Inkoa Arikan syytöksiltä. ([[Sessio 15 - Sahan murhat]])
 
 ## Maininnat
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
@@ -36,3 +37,4 @@ tags:
 * [[Sessio 12 - Nellin loppu]]
 * [[Sessio 13 - Malfeshnekorin valtakunta]]
 * [[Sessio 14 - Malfeshnekorin kaatuminen]]
+* [[Sessio 15 - Sahan murhat]] - Seurasi Tovakin kanssa jäljet hautausmaalle ja tunneleihin; ei tunnistanut tunneleita Sandpointin kujien tuntijanakaan.

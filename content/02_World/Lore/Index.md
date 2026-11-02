@@ -15,6 +15,7 @@
 * [[Nellin_päiväkirja|Nellin päiväkirja]] – Nellin tausta ja suunnitelmat hänen kertomanaan
 * [[Skinsaw-kultti]] – Norgorberin tappajakultti Magnimarissa
 * [[Sihedron-medaljonki]] – Nellin saama seitsensakaraisella tähdellä koristeltu medaljonki
+* [[Keltainen Y]] – Keltaisella Y:llä allekirjoitetut paljastusviestit Sandpointissa
 * [[Pathfinder-seura]] – Hylkäsi Lyrien noviisihakemuksen
 
 ---

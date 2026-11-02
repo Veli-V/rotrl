@@ -22,6 +22,7 @@ Hoitaa [[Sandpoint Boneyard]]iä, joka sijaitsee [[Sandpoint Cathedral]]in yhtey
 ## Maininnat
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Appendix 0]]
+* [[Sessio 15 - Sahan murhat]] - Oli kertonut, että [[Sandpoint Boneyard|hautausmaan]] haudoista oli kaivautunut jotain ylös.
 
 
 

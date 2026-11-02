@@ -21,3 +21,4 @@ Hämäräperäinen taverna, jossa liikkuu monenlaista väkeä. Huhutaan liittyv�
 
 ## Maininnat
 *   [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]] - Sankarit vierailevat täällä. Isko joutuu tappeluun korttipelissä.
+* [[Sessio 15 - Sahan murhat]] - Yksi [[Sandpointin tunnelit|tunneliverkoston]] reiteistä nousee tavernan alle.

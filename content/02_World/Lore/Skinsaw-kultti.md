@@ -14,3 +14,4 @@ Norgorberia palvovien tappajien kultti [[Magnimar|Magnimarissa]]. [[Nelli Tobyn|
 
 * [[Nellin_päiväkirja|Nellin päiväkirja]] – GM_nelli_diary.md:n päiväkirjakuvaus.
 * [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjoista luettiin Nellin liittymisestä kulttiin.
+* [[Sessio 15 - Sahan murhat]] - Sahan murhien uhreihin leikatut Sihedron-tähdet viittaavat kultin tuntemaan merkkiin.

@@ -21,6 +21,7 @@ tags: ["npc", "sandpoint"]
 
 ## Maininnat
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
+* [[Sessio 15 - Sahan murhat]] - Aneka toivoi, että ryhmä kertoisi Shaylissin kuolemasta tämän vanhemmille; Vinderien kauppa oli kiinni.
 
 
 

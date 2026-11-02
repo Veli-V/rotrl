@@ -28,3 +28,4 @@ tags: ["location", "sandpoint", "inn", "tavern"]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 * [[Sessio 11 - Soluttautuminen Thistletopiin]]
 * [[Sessio 14 - Malfeshnekorin kaatuminen]] - Sheriffi Hemlock toi uutisen Chopperin paluusta ja murhasta.
+* [[Sessio 15 - Sahan murhat]] - Aamupalalla sheriffi Hemlock kertoi murhasta ja Chopperin paluuta koskevasta huhusta.

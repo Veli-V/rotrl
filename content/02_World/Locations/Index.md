@@ -22,6 +22,7 @@
 * [[Sandpoint General Store|General Store]] - *Sekatavarakauppa*
 * [[Sandpoint Glassworks|Glassworks]] - *Kaijitsujen lasitehdas*
 * [[Sandpoint Meat Market|Meat Market]] - *Lihakauppa*
+* [[Sandpoint Lumbermill]] - *Saha* [Kaksoismurhan paikka, sessio 15]
 * [[Sandpoint Savories]] - *Leipomo*
 * [[Sandpoint Theater]] - *Teatteri*
 * [[Savah's Armory]] - *Asekauppa*
@@ -31,6 +32,10 @@
 * [[The Rusty Dragon]] - *Päämajamme Sandpointissa*
 * [[The White Deer]] - *Majatalo*
 * [[Two Knights Brewery]] - *Paikallinen panimo*
+* [[Sandpointin tunnelit]] - *Kaupungin alla kulkeva tunneliverkosto* [Kartoitettu osittain, sessio 15]
+* [[Scarnetti Mill]] - *Mylly*
+* [[The Pillbug's Pantry]] - *Alkemistin puoti*
+* [[Valdemar Fish Market]] - *Kalakauppa*
 * [[Vernah's Fine Clothing]] - *Vaatekauppa*
 
 ## Alueet

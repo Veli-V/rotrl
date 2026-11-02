@@ -16,3 +16,4 @@ Suosittu taverna Sandpointissa. Tunnettu edullisina hintoina ja kotimaisen tunne
 
 ## Maininnat
 * [[Sessio 02 - Swallowtail Festival]]
+* [[Sessio 15 - Sahan murhat]] - Portsari kertoi [[Dorran Hask]]in pelanneen tavernassa, mutta kadonneen kolme päivää sitten – ehkä [[Magnimar]]iin.

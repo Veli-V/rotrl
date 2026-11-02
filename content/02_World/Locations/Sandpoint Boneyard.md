@@ -27,3 +27,4 @@ Nellin mukaan [[Tsuto Kaijitsu]] joukkoineen vei Tobynin arkun ensimmäisen gobl
 * [[Nellin_päiväkirja|Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 07 - Mörköjä kaapissa ja haudanryöstäjiä]]
 * [[Appendix 0]]
+* [[Sessio 15 - Sahan murhat]] - Haudoista oli kaivautunut jotain ylös; hautaholvin hauta oli kaivettu auki sisältäpäin ja siitä lähti tunneli.

@@ -25,7 +25,7 @@ tags: ["location", "Sandpoint", "city"]
 4. The Way North (kartturi)
 5. Rings and Things (korupaja ja rahanlainaamo)
 6. Junker's Edge (kaatopaikka)
-7. Gorvi's Shack (Gorvin koti)
+7. [[Theodor's Smithy]]
 8. Quink's House (tietäjä)
 9. Locksmith (lukkoseppä)
 10. [[Sandpoint Garrison]]

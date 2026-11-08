@@ -10,6 +10,7 @@ tags: ["npc", "goblin", "thistletop"]
 
 **Rooli:** [[Thistletop]]-heimon goblin-druidi.
 **Kuvaus:** Kunnianhimoinen goblin, joka haluaa kerätä kunnian [[Ripnugget]]in silmissä.
+**Vahtitiikeri:** Tangletooth vartioi Thistletopin sillan päätä. Ryhmän paetessa se nukkui, ja [[Makkara]] surmasi sen *Coup de Gracella*. ([[Sessio 14 - Malfeshnekorin kaatuminen]])
 
 ## Kohokohtia
 * Pysäytti soluttautuvan ryhmän Thistletopin sillan luona ja halusi itse raportoida Ripnuggetille. Harhautettiin pois *Ventriloquism*-loitsulla, joka matki Ripnuggetin ääntä. ([[Sessio 11 - Soluttautuminen Thistletopiin]])
@@ -24,4 +25,4 @@ Nellin mukaan Gogmurt ilmaisi avoimesti vastustavansa häntä, vaikka muut Thist
 * [[Nellin päiväkirja]] – Tausta, suhteet ja päiväkirjan aikaiset suunnitelmat.
 * [[Sessio 02 - Swallowtail Festival]] (Mainittu goblin-druidina)
 * [[Sessio 11 - Soluttautuminen Thistletopiin]]
-* [[Sessio 14 - Malfeshnekorin kaatuminen]] - Gogmurtin vahtitiikeri Tangletooth surmattiin sillalla.
+* [[Sessio 14 - Malfeshnekorin kaatuminen]]

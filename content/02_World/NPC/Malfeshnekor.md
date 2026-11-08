@@ -6,7 +6,7 @@ tags: ["npc"]
 
 # Malfeshnekor
 
-<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+<img src="../03_Images/Malfeshnekor.png" alt="Malfeshnekor" class="portrait" />
 
 **Tyyppi:** Demoni / Barghest
 **Kuvaus:** Muinainen ja pelottava olento, joka on mainittu [[Tsuto Kaijitsu]]n päiväkirjassa. Nellin päiväkirjan mukaan sitä etsitään [[Thistletop|Thistletopin]] alaisista kammioista. Vapauttaminen on osa gobliinien hyökkäyssuunnitelmaa.

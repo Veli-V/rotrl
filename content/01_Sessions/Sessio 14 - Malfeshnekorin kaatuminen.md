@@ -39,7 +39,7 @@ Shalelu kertoi seuranneensa ryhmää:
 ## Pako Thistletopista
 Shalelu johdatti ryhmän ulos luolastosta lähes samaa reittiä kuin he olivat tulleet. He nousivat pintaan rakennuksen toisella puolella ikkunan kautta ja hiipivät talon ympäri sillalle.
 
-Sillan toisessa päässä nukkui [[Tangletooth]], goblin-druidi [[Gogmurt]]in vahtitiikeri. Makkara hiipi sen viereen ja teki *Coup de Gracen*. Ryhmä pääsi ulos [[Thistletop]]ista metsän reunaan.
+Sillan toisessa päässä nukkui goblin-druidi [[Gogmurt]]in vahtitiikeri Tangletooth. Makkara hiipi sen viereen ja teki *Coup de Gracen*. Ryhmä pääsi ulos [[Thistletop]]ista metsän reunaan.
 
 Hevoset olivat poissa, ja kello oli noin yhdeksän illalla.
 
@@ -86,7 +86,6 @@ Kaupungissa on tapahtunut murha ([[Jervis Stoot]]).
 * [[Lyrie Akenja]]
 * [[Tsuto Kaijitsu]]
 * [[Bruthazmus]]
-* [[Tangletooth]]
 * [[Gogmurt]]
 * [[Thistletop]]
 * [[Savah's Armory]]

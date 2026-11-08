@@ -6,7 +6,7 @@ tags: ["npc", "sandpoint"]
 
 # Jubrayl Vhiski
 
-<img src="../03_Images/person-placeholder.png" alt="placeholder" class="portrait" />
+<img src="../03_Images/Jubrayl_Vhiski.png" alt="Jubrayl Vhiski" class="portrait" />
 
 **Tyyppi:** NPC
 **Sijainti:** Sandpoint, [[Fatman's Feedbag]]

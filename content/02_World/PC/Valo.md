@@ -34,6 +34,7 @@ tags: ["pc"]
 * Oli lukinnut ruokahuoneen oven, mikä suojasi ryhmää session alussa. ([[Sessio 12 - Nellin loppu]])
 * Riiteli Makkaran kanssa goblinien joukkomurhasta. Etsi sarkofagisalista ansoja ja huomasi oudon seinän. Avasi Tovakin antaman pienen arkun, josta löytyi kaksi taikasauvaa. Haki Nellin amuletin salamekanismiin. Raahasi lumotun Inkon ulos [[Malfeshnekor]]in huoneesta, mutta barghest löi hänet mattoon (*Dying*). ([[Sessio 13 - Malfeshnekorin valtakunta]])
 * Oli *Life Linkin* piirissä. Aloitti session *Dying*-tilassa Malfeshnekorin huoneessa, kunnes Inko paransi hänet. Kohtasi uudelleen sessiossa 9 seuraamansa haltian, [[Shalelu Andosana]]n. Kertoi aikovansa kosia [[Aneka Avertin|Anekaa]] (kosintaa ei ole vielä tapahtunut, eikä Aneka tiedä asiasta); Inko teki hänelle downtimen aikana hääpukua. Teki itse hengellistä työtä. Nousi tasolle. ([[Sessio 14 - Malfeshnekorin kaatuminen]])
+* Kyseli kalakauppiaalta jään logistiikasta, yritti hiipiä takahuoneeseen (ei onnistunut) ja kurkisteli Vindereiden ikkunoista. Tiirikoi [[Ibor Thorn]]in kodin oven auki ja sai [[Shelby Vinder|Shelbyn]] osittain uskomaan ryhmää. Lähtee Theodorin kanssa voittamaan "Haskilta" rahaa ja levittämään huhua baareihin. ([[Sessio 16 - Kuulusteluja ja syötti]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -50,3 +51,4 @@ tags: ["pc"]
 * [[Sessio 13 - Malfeshnekorin valtakunta]]
 * [[Sessio 14 - Malfeshnekorin kaatuminen]]
 * [[Sessio 15 - Sahan murhat]] - Tunnisti puolustautumisen jäljet Bannyn ruumiista, laski askeleensa tunneleissa ja kertoi Anekalle murhista.
+* [[Sessio 16 - Kuulusteluja ja syötti]] - Tiedusteli kalakaupassa, kurkki Vindereitä ja tiirikoi Iborin oven.

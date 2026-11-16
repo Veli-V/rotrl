@@ -32,6 +32,7 @@ tags: ["pc"]
 * Yritti kysellä [[Nelli Tobyn|Nelliltä]] ennen taistelua, mutta Nelli ei ollut juttutuulella. ([[Sessio 12 - Nellin loppu]])
 * Havaitsi *Detect Magic* -loitsulla abjuraatiomagiaa tulvineen kammion altaan pohjalla. Joutui [[Malfeshnekor]]in *Charm Person* -loitsun kohteeksi; Valo raahasi hänet ulos huoneesta. ([[Sessio 13 - Malfeshnekorin valtakunta]])
 * Paransi Valon *Dying*-tilasta Malfeshnekorin huoneessa. Poltti Tovakin antaman, Lyrien varastosta löytyneen hius- ja kynsipussin (mahdollinen taikakalu, "TK"-lappu), mutta mitään ei tapahtunut. Teki downtimen aikana Valolle hääpukua – vitsaili tehneensä sen siltä varalta, että Valo todella kosii Anekaa. Nousi tasolle. ([[Sessio 14 - Malfeshnekorin kaatuminen]])
+* Puhui ryhmän [[Valdemar Fish Market|kalakaupan]] kellariin Tovakin kanssa. Käytti *Detect Thoughts* -loitsua Vindereiden talon edessä ja kuuli [[Solsta Vinder|Solstan]] aikeen tappaa hänet. Suostui naamioitumaan *Disguise Selfillä* [[Dorran Hask]]iksi syötiksi murhaajalle. Illalla Solsta hyökkäsi häntä kohti kadulle lihakirves kädessä. ([[Sessio 16 - Kuulusteluja ja syötti]])
 
 ## Maininnat
 * [[Sessio 00 - Kampanjan Aloitus]]
@@ -50,3 +51,4 @@ tags: ["pc"]
 * [[Sessio 13 - Malfeshnekorin valtakunta]]
 * [[Sessio 14 - Malfeshnekorin kaatuminen]]
 * [[Sessio 15 - Sahan murhat]] - Sai Hemlockilta Shaylissin yltä löytyneen kirjeen; Arika ja Aneka syyttivät häntä, eikä häntä päästetty Arikan luo.
+* [[Sessio 16 - Kuulusteluja ja syötti]] - Vinderien perhe syyttää häntä murhasta; naamioituu Dorran Haskiksi murhaajan ansaksi.

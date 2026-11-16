@@ -19,3 +19,4 @@ tags: ["npc", "sandpoint"]
 * [[Sessio 11 - Soluttautuminen Thistletopiin]] - Valo raportoi hänelle katakombien demonisista löydöistä. Hemlockin kirjoittaman lapun Makkara söi.
 * [[Sessio 14 - Malfeshnekorin kaatuminen]] - Saapui Rusty Dragoniin kertomaan huhusta, että Chopper on palannut, ja kaupungissa tapahtuneesta murhasta.
 * [[Sessio 15 - Sahan murhat]] - Kutsui ryhmän toimistolleen sahan kaksoismurhan vuoksi, kertasi Chopperin ja Shroudin tarinan eikä usko Chopperin palanneen.
+* [[Sessio 16 - Kuulusteluja ja syötti]] - Otti vastaan ryhmän raportin, oli jo tietoinen tunneleista eikä innostunut ghouleista. Lupasi vartiomiehiä, suojelun Haskin rouvalle sekä vahdit silloille ja luoliin. Oli käynyt kertomassa murhasta myös Harkerin rouvalle.

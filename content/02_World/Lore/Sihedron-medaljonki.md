@@ -16,3 +16,4 @@ Medaljonki, johon on kaiverrettu seitsensakarainen tähti. [[Nelli Tobyn|Nelli]]
 * [[Sessio 12 - Nellin loppu]] - Nellin päiväkirjat: Skinsaw-kultin johtaja antoi Nellille seitsenkärkisen tähden.
 * [[Sessio 13 - Malfeshnekorin valtakunta]] - Tulvineen kammion lattialla oli Sihedronin riimuja.
 * [[Sessio 15 - Sahan murhat]] - Molempien sahan uhrien rintaan oli leikattu seitsensakarainen tähti – samanlainen kuin ryhmän aiemmin näkemä merkki. Shaylissille huolella, Bannylle huolimattomammin tehty.
+* [[Sessio 16 - Kuulusteluja ja syötti]] - [[Ibor Thorn]] ei tunnistanut seitsensakaraista tähteä [[Makkara]]n kysyessä.

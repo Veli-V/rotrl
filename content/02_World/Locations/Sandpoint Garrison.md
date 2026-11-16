@@ -24,3 +24,4 @@ tags: ["location", "sandpoint"]
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 * [[Appendix 0]]
 * [[Sessio 15 - Sahan murhat]] - Sheriffin toimistossa käyty kuulustelu sahan kaksoismurhasta.
+* [[Sessio 16 - Kuulusteluja ja syötti]] - Ryhmä raportoi päivän löydöt klo 18 ja suunnitteli ansan murhaajalle yhdessä sheriffin kanssa.

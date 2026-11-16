@@ -18,3 +18,4 @@ Vastaavia viestejä ilmestyi ensi kerran viisi vuotta sitten, samaan aikaan kun 
 
 ## Maininnat
 * [[Sessio 15 - Sahan murhat]]: Ryhmä luki ilmoitustaulun viestin ja löysi keltaiset tarrat Haskin ovesta.
+* [[Sessio 16 - Kuulusteluja ja syötti]]: Harkerien ovessa oli keltaisia maalin jämiä ja [[Harkerin rouva|Bannyn lesken]] leningin hihassa keltaista maalia. Ryhmä kierteli kaikki kadut klo 17–18 etsien uusia keltaisia merkkejä – yhtään ei löytynyt.

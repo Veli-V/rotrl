@@ -19,3 +19,4 @@ Sandpointin saha joen rannassa. Sahalla työskenteli muun muassa [[Banny Harker]
 
 ## Maininnat
 * [[Sessio 15 - Sahan murhat]]: Murhapaikka; kaksi pelokasta vartijaa, veriset jäljet ja ghoulin jäljet.
+* [[Sessio 16 - Kuulusteluja ja syötti]]: Työnjohtaja [[Ibor Thorn]] siivosi verta; sahan käynnistyspainike oli veressä. Saha käynnistettiin murhayönä klo 00:30 ja oli aamulla yhä päällä, takaovi auki. Sahan omistaa [[Scarnetti Mill|Scarnettien]] perhe.

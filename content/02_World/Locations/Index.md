@@ -5,7 +5,7 @@
 **[[Magnimar]]** - *Suurkaupunki etelässä*
 
 **[[Sandpoint]]** - *Rannikkokaupunki*
-* [[Choppers Isle|Chopper's Isle]] - *Kirottu saari*
+* [[Choppers Isle|Chopper's Isle]] - *Kirottu saari* [Tutkittu; linnut vaienneet ja alttarilla paha olo, sessio 16]
 * [[Catacombs]] - *Katakombit lasitehtaan alla*
 * [[Curious Goblin]] - *Kirjakauppa*
 * [[Devils Platter]] - *Kalliotasanko*
@@ -22,7 +22,7 @@
 * [[Sandpoint General Store|General Store]] - *Sekatavarakauppa*
 * [[Sandpoint Glassworks|Glassworks]] - *Kaijitsujen lasitehdas*
 * [[Sandpoint Meat Market|Meat Market]] - *Lihakauppa*
-* [[Sandpoint Lumbermill]] - *Saha* [Kaksoismurhan paikka, sessio 15]
+* [[Sandpoint Lumbermill]] - *Saha* [Kaksoismurhan paikka; saha käynnistetty murhayönä klo 00:30, sessio 16]
 * [[Sandpoint Savories]] - *Leipomo*
 * [[Sandpoint Theater]] - *Teatteri*
 * [[Savah's Armory]] - *Asekauppa*
@@ -35,7 +35,7 @@
 * [[Sandpointin tunnelit]] - *Kaupungin alla kulkeva tunneliverkosto* [Kartoitettu osittain, sessio 15]
 * [[Scarnetti Mill]] - *Mylly*
 * [[The Pillbug's Pantry]] - *Alkemistin puoti*
-* [[Valdemar Fish Market]] - *Kalakauppa*
+* [[Valdemar Fish Market]] - *Kalakauppa* [Kellarista löytyi tunneliluukku, sessio 16]
 * [[Vernah's Fine Clothing]] - *Vaatekauppa*
 
 ## Alueet

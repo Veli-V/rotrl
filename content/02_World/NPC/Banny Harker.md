@@ -20,3 +20,4 @@ Bannylla oli salainen suhde Shayliss Vinderiin, josta vain harvat tiesivät. [[A
 
 ## Maininnat
 * [[Sessio 15 - Sahan murhat]]: Löytyi murhattuna sahalta; rinnassa Sihedron-tähti.
+* [[Sessio 16 - Kuulusteluja ja syötti]]: Kotoa löytyi sahan asiakirjoja ja merkintöjä palkan päälle maksetuista lisäsummista. Esimies [[Ibor Thorn]] kiistää yövuorot, ja [[Bilivar Wheen]]in todistus paljastaa noin viisi valheellista yövuoromerkintää – viite kavalluksesta. Vaimo ([[Harkerin rouva]]) kertoi hänen olleen humalassa väkivaltainen.

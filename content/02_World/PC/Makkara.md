@@ -27,6 +27,7 @@ tags:
 * Yritti hidastaa tai estää muiden suunnitteleman [[Ripnugget]]in ja Thistletopin goblinien joukkomurhan. Riiteli Valon kanssa ja poistui käytävään murisemaan: [[George]] oli antanut hänen ymmärtää, että ihmiset voivat olla hyviä, mutta nämäkin ovat vain samanlaisia – kaikki erilaiset on tapettava. ([[Sessio 13 - Malfeshnekorin valtakunta]])
 * Tunnisti [[Shalelu Andosana]]n "nartuksi" (goblinien nimitys) – Shalelu oli tappanut Makkaran veljen. Hiipi Thistletopin sillalla nukkuvan [[Gogmurt]]in vahtitiikeri Tangletoothin viereen ja surmasi sen *Coup de Gracella*. Lorvi downtimen aikana Sandpointin kujilla, tienasi 5 GP ja sai *+5 Knowledge (Local – Sandpoint)*. Nousi tasolle. ([[Sessio 14 - Malfeshnekorin kaatuminen]])
 * Johdatti ryhmää tunneliristeyksessä heittämällä hämähäkkiä – "Minulla on ennustamisen lahja. Tai siis sain tämän ennustajalta." Puolusti Inkoa Arikan syytöksiltä. ([[Sessio 15 - Sahan murhat]])
+* Söi lohta ja nappasi mateen [[Valdemar Fish Market|kalakaupasta]]. Kysyi [[Ibor Thorn]]ilta seitsensakaraisista tähdistä ([[Sihedron-medaljonki|Sihedron]]). Jää Tovakin kanssa vahtimaan murhaajalle viritettyä ansaa. ([[Sessio 16 - Kuulusteluja ja syötti]])
 
 ## Maininnat
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
@@ -38,3 +39,4 @@ tags:
 * [[Sessio 13 - Malfeshnekorin valtakunta]]
 * [[Sessio 14 - Malfeshnekorin kaatuminen]]
 * [[Sessio 15 - Sahan murhat]] - Seurasi Tovakin kanssa jäljet hautausmaalle ja tunneleihin; ei tunnistanut tunneleita Sandpointin kujien tuntijanakaan.
+* [[Sessio 16 - Kuulusteluja ja syötti]] - Kalakaupan herkut ja kysymys Sihedron-tähdistä.

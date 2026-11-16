@@ -19,3 +19,4 @@ Valdemar-suvun kalakauppa Sandpointin rannan tuntumassa.
 
 ## Maininnat
 * [[Sessio 15 - Sahan murhat]]: Tunneliluukku kalakaupan alla; ryhmän seuraava määränpää.
+* [[Sessio 16 - Kuulusteluja ja syötti]]: Ryhmä puhui itsensä kellariin ja löysi luukun jääpalan alta. Vanha kalakauppias tuo jäänsä pohjoisesta mammuttimailta eikä ollut nähnyt [[Dorran Hask]]ia pariin päivään.

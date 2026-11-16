@@ -41,3 +41,4 @@ Nelli kertoo kasvaneensa vanhassa kirkossa ja sytyttäneensä sen tuleen kiilatt
 * [[Sessio 09 - Georgen muisto ja mystinen haltia]]
 * [[Appendix 0]]
 * [[Sessio 14 - Malfeshnekorin kaatuminen]] - Tovak rukoili kirkossa downtimen aikana.
+* [[Sessio 16 - Kuulusteluja ja syötti]] - Sahan murhien uhrien ruumiit vietiin katedraalille.

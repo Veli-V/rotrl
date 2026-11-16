@@ -22,4 +22,5 @@ tags: ["npc", "sandpoint"]
 ## Maininnat
 * [[Sessio 02 - Swallowtail Festival]]
 * [[Sessio 15 - Sahan murhat]] - Mahdollinen tietolähde siskonsa Shaylissin ja [[Banny Harker]]in suhteesta.
+* [[Sessio 16 - Kuulusteluja ja syötti]] - Huusi ryhmää pois ikkunasta ja toisti äitinsä syytökset [[Inko]]a kohtaan, mutta saatiin lopulta osittain uskomaan ryhmän puolta.
 

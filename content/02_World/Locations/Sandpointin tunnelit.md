@@ -29,3 +29,4 @@ Laaja, vanha ja moneen haarautuva tunneliverkosto Sandpointin alla. Vaikuttaa sa
 
 ## Maininnat
 * [[Sessio 15 - Sahan murhat]]: Tunneliverkoston järjestelmällinen kartoitus.
+* [[Sessio 16 - Kuulusteluja ja syötti]]: Kalakaupan kellarista löytyi luukku, joka vastaa tunneleiden päässä ollutta lukittua luukkua. Sheriffi [[Belor Hemlock]] osoittautui jo tietävän tunneleista.

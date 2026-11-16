@@ -22,3 +22,4 @@ Epäkuolleita raadonsyöjiä: harmaaihoisia, pitkäraajaisia ja pitkäkynsisiä 
 
 ## Maininnat
 * [[Sessio 15 - Sahan murhat]]: Ghoulien jäljet johtivat sahalta hautausmaalle; tunneleista löytyi kolme ghoulin ruumista.
+* [[Sessio 16 - Kuulusteluja ja syötti]]: Sheriffi [[Belor Hemlock]] ei innostunut ghoul-löydöistä raportoinnin yhteydessä.

@@ -20,3 +20,4 @@ Vaimonsa kuvaa häntä kurjaksi ja julmaksi mieheksi – saisi hänen puolestaan
 
 ## Maininnat
 * [[Sessio 15 - Sahan murhat]]: Keltaisen Y:n paljastama; kadonnut kotoaan rahakirstunsa kanssa.
+* [[Sessio 16 - Kuulusteluja ja syötti]]: Kalakauppias ei ollut nähnyt häntä pariin päivään – viimeksi ryyppäämässä [[The Hagfish|Hagfishissä]]. Sheriffin mukaan ei väkivaltainen vaan itsekäs ja pelasi kaikki rahansa. [[Inko]] naamioituu hänen näköisekseen murhaajan ansaksi.

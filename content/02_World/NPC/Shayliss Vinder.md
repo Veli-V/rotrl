@@ -16,6 +16,7 @@ tags: ["npc", "sandpoint", "dead"]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Appendix 0]]
 * [[Sessio 15 - Sahan murhat]] - Löytyi murhattuna [[Sandpoint Lumbermill|sahalta]]; viillelty, rinnassa huolella tehty seitsensakarainen tähti. Salainen suhde [[Banny Harker]]iin.
+* [[Sessio 16 - Kuulusteluja ja syötti]] - Perhe suree häntä ja syyttää [[Inko]]a murhasta. [[Ibor Thorn]]in mukaan Banny oli viime aikoina kovasti metsästänyt häntä.
 
 
 

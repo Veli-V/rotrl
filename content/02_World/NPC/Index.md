@@ -17,6 +17,9 @@ Pelaajahahmot löytyvät sivulta [[02_World/PC/Index|Pelaajahahmot]].
 * [[Das Korvut]] (Seppä)
 * [[Garridan Viskalai]] (White Deer)
 * [[Hannah Velerin]] (Parantaja)
+* [[Harkerin rouva]] (Banny Harkerin leski) [Keltaista maalia leningin hihassa, sessio 16]
+* [[Ibor Thorn]] (Sahan työnjohtaja) [Keskeinen todistaja sahan murhissa, sessio 16]
+* [[Bilivar Wheen]] (Sahan naapuri) [Antoi murhayön aikajanan, sessio 16]
 * [[Abstalar Zantus]] (Pappi)
 * [[Jubrayl Vhiski]] (Fatman's Feedbag)
 * [[Kendra Deverin]] (Pormestari)
@@ -26,12 +29,12 @@ Pelaajahahmot löytyvät sivulta [[02_World/PC/Index|Pelaajahahmot]].
 * [[Savah Bevaniky]] (Savah's Armory)
 * [[Shalelu Andosana]] (Metsän vartija) [Auttoi ryhmää Malfeshnekoria vastaan ja johdatti ulos Thistletopista, sessio 14]
 * [[Casp Avertin]] (Edeltävä sheriffi) [Kuollut, surmasi Chopperin viisi vuotta sitten]
-* [[Dorran Hask]] (Tynnyrintekijä) [Kadonnut, keltaisen Y:n paljastama, sessio 15]
+* [[Dorran Hask]] (Tynnyrintekijä) [Yhä kadoksissa; Inko naamioituu hänen näköisekseen syötiksi, sessio 16]
 * [[Shayliss Vinder]] (Vinderin viehko tytär) [Kuollut, murhattu sahalla sessiossa 15]
 * [[Shelby Vinder]]  (Vinderin viehko tytär)
-* [[Solsta Vinder]]  (Vinderin viehko vaimo)
+* [[Solsta Vinder]]  (Vinderin viehko vaimo) [Syyttää Inkoa tyttärensä murhasta, hyökkäsi lihakirveen kanssa, sessio 16]
 * [[Vachedi]] (Shoanti-sotilas)
-* [[Ven Vinder]] (Kauppias)
+* [[Ven Vinder]] (Kauppias) [Juo suruaan, umpikännissä, sessio 16]
 * [[Vorvashali Voon]] (The Feathered Serpent)
 
 ### Magnimarin asukkaat

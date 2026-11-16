@@ -18,6 +18,7 @@ Tässä on lista kaikista pelatuista sessioista kronologisessa järjestyksessä.
 * [[Sessio 13 - Malfeshnekorin valtakunta]] (5.10.2026) - *Theodor liittyy, sarkofagien epäkuolleet, riimulordin kuva ja kohtaaminen Malfeshnekorin kanssa*
 * [[Sessio 14 - Malfeshnekorin kaatuminen]] (12.10.2026) - *Malfeshnekorin kuolema, Shalelu Andosana, pako Thistletopista, palkkio pormestarilta, downtime ja Chopperin paluu*
 * [[Sessio 15 - Sahan murhat]] (26.10.2026) - *Shaylissin ja Bannyn murhat sahalla, Sihedron-tähdet, ghoulien jäljet, keltainen Y ja Sandpointin alla kulkevat tunnelit*
+* [[Sessio 16 - Kuulusteluja ja syötti]] (2.11.2026) - *Kalakaupan kellariluukku, Vindereiden suru ja syytökset, Chopperin saari, Harkerin ja Iborin kirjanpito, Bilivar Wheenin aikajana ja ansa murhaajalle*
 
 ---
 [Takaisin alkuun]([[Index]])

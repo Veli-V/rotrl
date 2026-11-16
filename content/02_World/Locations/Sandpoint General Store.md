@@ -33,3 +33,4 @@ tags: ["location", "sandpoint", "shop", "vendor"]
 * [[Sessio 02 - Swallowtail Festival]]
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 15 - Sahan murhat]] - Vinderien kauppa oli kiinni Shaylissin murhan jälkeen.
+* [[Sessio 16 - Kuulusteluja ja syötti]] - Kauppa yhä kiinni, ovi lukossa ja verhot ikkunoissa. Ryhmä hiipi kellariin: ei jälkiä tappelusta eikä reittejä tunneleihin.

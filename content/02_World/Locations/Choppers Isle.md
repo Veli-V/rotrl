@@ -27,3 +27,4 @@ Pieni saari [[Sandpoint]]in lähellä, jonka historia on synkkä ja traaginen. S
 
 ## Maininnat
 * [[Sessio 01 - Saapuminen Sandpointiin]]
+* [[Sessio 16 - Kuulusteluja ja syötti]]: Ryhmä tutki saarta öisiä liikehdintähuhuja seuraten. Linnut eivät enää laula, ja alttaria lähestyessä tulee paha olo – *Detect Magic* ei silti paljastanut mitään.

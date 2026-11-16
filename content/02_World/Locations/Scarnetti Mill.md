@@ -19,3 +19,4 @@ Scarnetti-suvun omistama mylly Sandpointissa.
 
 ## Maininnat
 * [[Sessio 15 - Sahan murhat]]: Tunnelista nousevat portaat myllylle.
+* [[Sessio 16 - Kuulusteluja ja syötti]]: Vahvistui, että Scarnettien perhe omistaa myös [[Sandpoint Lumbermill|Sandpointin sahan]].

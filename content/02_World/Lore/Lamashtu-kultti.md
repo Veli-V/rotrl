@@ -75,6 +75,7 @@ Nellin suunnitelmassa noin 30 goblinin ensimmäinen hyökkäys peitti Tobynin ar
 * [[Sessio 06 - Lasitehtaan salaisuudet]]
 * [[Sessio 08 - Katakombien kutsu]]
 * [[Sessio 10 - Vihan Runewell ja Erylium]]
+* [[Sessio 16 - Kuulusteluja ja syötti]] - [[Tovak]] tiedusteli Lamashtusta [[Ibor Thorn]]ilta, joka suuttui: *"Oletteko te jotain perkeleen palvojia?"*
  - Paljastaminen
 * [[GM_appendix_6_raw]] - Tsuton päiväkirja kokonaisuudessaan
 * [[Tsuto Kaijitsu]] - Kultin jäsen

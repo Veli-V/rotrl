@@ -22,6 +22,7 @@ tags: ["npc", "sandpoint"]
 ## Maininnat
 * [[Sessio 04 - Jälkipyykkiä ja uusia tuttavuuksia]]
 * [[Sessio 15 - Sahan murhat]] - Aneka toivoi, että ryhmä kertoisi Shaylissin kuolemasta tämän vanhemmille; Vinderien kauppa oli kiinni.
+* [[Sessio 16 - Kuulusteluja ja syötti]] - Ei suostunut puhumaan ryhmälle, häätää [[Theodor]]in kellarista luudalla ja hyökkäsi illalla kadulle lihakirves kädessä Inkoa vastaan. *Detect Thoughts* paljasti aikeen tappaa Inko.
 
 
 

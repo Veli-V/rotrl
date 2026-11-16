@@ -17,9 +17,11 @@ tags: ["pc"]
 * Joutui sarkofagisalissa ensimmäisenä epäkuolleen möllin hakkaamaksi. Oli *Life Link* -loitsun piirissä. Antoi Valolle avattavaksi pienen arkun, josta löytyi kaksi taikasauvaa. Sai [[Theodor]]ilta patsaalta otetun *Glaive +1*:n. Käytti *Scroll of Comprehend Languages* -kääröä ja ymmärsi paikan [[Riimulordit|riimulordin]] kuvan thassilonin kielisen viestin. ([[Sessio 13 - Malfeshnekorin valtakunta]])
 * **Surmasi [[Malfeshnekor]]in:** iski glaivellaan (*Glaive +1*) *Attack of Opportunityn*, joka sai barghestin *Blink*-loitsun epäonnistumaan, ja lävisti sen. Osti [[Savah's Armory]]sta *Greatswordin* (*Greatsword +1* valmistuu tiistaina). Luovutti [[Nellin_päiväkirja|Nellin päiväkirjat]] pormestari [[Kendra Deverin]]ille. Rukoili downtimen aikana kirkossa. Nousi tasolle. ([[Sessio 14 - Malfeshnekorin kaatuminen]])
 * Seurasi verijäljet sahan parvelle ja löysi [[Shayliss Vinder]]in ruumiin. ([[Sessio 15 - Sahan murhat]])
+* Kyseli kalakauppiaalta epäilyttävistä havainnoista ja puhui ryhmän kellariin Inkon kanssa. Kuulusteli [[Ibor Thorn]]ia Bannyn yövuoroista ja tiedusteli tältä [[Lamashtu-kultti|Lamashtusta]]. Vahti [[Ibor Thorn|Iborin]] kodin ovea murron ajan; jää Makkaran kanssa vahtimaan ansan aikana. ([[Sessio 16 - Kuulusteluja ja syötti]])
 
 ## Maininnat
 * [[Sessio 12 - Nellin loppu]]
 * [[Sessio 13 - Malfeshnekorin valtakunta]]
 * [[Sessio 14 - Malfeshnekorin kaatuminen]]
 * [[Sessio 15 - Sahan murhat]] - Tutki murhapaikan ja hautausmaan tunnelit Makkaran kanssa.
+* [[Sessio 16 - Kuulusteluja ja syötti]] - Kuulusteli kalakauppiasta ja Ibor Thornia.

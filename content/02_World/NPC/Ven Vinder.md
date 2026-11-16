@@ -15,6 +15,7 @@ tags: ["npc", "sandpoint"]
 ## Maininnat
 * [[Sessio 03 - Pääskynpyrstö-festivaali]]
 * [[Sessio 15 - Sahan murhat]] - Tyttären Shaylissin murha; kauppa oli kiinni eikä perheelle oltu vielä kerrottu.
+* [[Sessio 16 - Kuulusteluja ja syötti]] - Juo suruaan kellarissa ja takahuoneessa, umpikännissä. Sammui yrittäessään tulla puhumaan [[Theodor]]ille; esti lopulta vaimonsa hyökkäyksen kadulla.
 
 
 
